@@ -21,7 +21,3 @@ Using the [NotifierProxy Notifier Proxy], the workstations in your network can c
 set to only allow known WindowsCE devices to connect. This way you can use a full access account to safely connect to the Network Monitor server, pausing and resuming sensors, without exposing its web interface to the internet. 
 The Notifier Proxy can also send updates for the NotifierCE to the mobile devices. 
 The Notifier Proxy runs as a webservice on a computer on your network. This can be the same machine as where the Network Monitor runs on.  The Notifier Proxy runs on IIS witch has to be installed on the target machine. 
-
-===Do I need to use the Notifier Proxy? ===
- 
-No, you  don't. The NotifierCE can connect directly to the Network Monitor server using HTTP or HTTPS. (Using HTTP is not recommended, as the username and password are send over the internet in plain text.) But, using the Notifier Proxy will give you some advantages:    Data transmission to and from the mobile device is kept to a minimum by sending short requests to the Notifier Proxy who then translates them to the full length request to the Network Monitor server. The reply’s from the Network Monitor server are also truncated to a minimum. The Network Monitor server can communicate over HTTP on the internal network, without exposing its web interface to the internet.  The Notifier Proxy can reject mobile devices that are unknown to the  Notifier Proxy.    The Notifier Proxy can keep a log of all requests.    The Notifier Proxy can send software updates of NotifierCE to the mobile devices. 
