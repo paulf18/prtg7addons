@@ -5,7 +5,7 @@
 The PRTG Tools family consists out of 4 separate applications: 
   * The TrayNotifier
   * The NotfierCE
-  * The Notifier Proxy
+  * The NotifierProxy
   * The Notifier Proxy Configurator 
 
 = Details =
@@ -13,7 +13,7 @@ The PRTG Tools family consists out of 4 separate applications:
 ==TrayNotifier==
 The TrayNotifier runs on a Windows Workstation. It notifies the user of an alarm condition with a flashing red dot in the system tray.  It can automatically popup and play a sound for extra attention. 
  
-==NotifierCE==
+==NotifierCe==
 The NotifierCE runs on a Windows Mobile device. It can collect sensor data on demand. 
  
 ==NotifierProxy==
