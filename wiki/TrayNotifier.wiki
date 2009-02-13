@@ -12,6 +12,8 @@ After the first installation the settings window will automatically popup. On th
 Server or the Notifier Proxy to use. 
  
 The Actions tab lets you set the refresh time and the latency time (minimum number of seconds a sensor must be down before it shows up). You can also have a sound played and the alarms window popped up when an alarm condition occurs. 
- 
-Please see the Documentation PDF for Details:
+
+=More Information=
+Please see the Documentation PDF for details and screenshots:
+
 http://prtg7addons.googlecode.com/files/PRTG%20Tools%20Family%201.0.pdf 
