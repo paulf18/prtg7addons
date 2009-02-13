@@ -1,0 +1,28 @@
+#The "PRTG Tools family" offers clients for Windows and Windows CE and was written by Gerard Feijth
+
+= Introduction =
+
+The PRTG Tools family consists out of 4 separate applications: 
+  * The TrayNotifier
+  * The NotfierCE
+  * The Notifier Proxy
+  * The Notifier Proxy Configurator 
+
+= Details =
+
+==TrayNotifier==
+The TrayNotifier runs on a Windows Workstation. It notifies the user of an alarm condition with a flashing red dot in the system tray.  It can automatically popup and play a sound for extra attention. 
+ 
+==NotifierCE==
+The NotifierCE runs on a Windows Mobile device. It can collect sensor data on demand. 
+ 
+==Notifier Proxy ==
+Using the Notifier Proxy, the workstations in your network can connect to the Network Monitor server using the standard HTTP port 80, while the Network Monitor server is exposed to the internet through the Notifier Proxy only. The Notifier Proxy can be set up to only allow HTTPS connections from the NotifierCE. The Notifier Proxy can also be 
+set to only allow known WindowsCE devices to connect. This way you can use a full access account to safely connect to the Network Monitor server, pausing and resuming sensors, without exposing its web interface to the internet. 
+The Notifier Proxy can also send updates for the NotifierCE to the mobile devices. 
+The Notifier Proxy runs as a webservice on a computer on your network. This can be the same machine as where the Network Monitor runs on.  The Notifier Proxy runs on IIS witch has to be installed on the target machine. 
+
+===Do I need to use the Notifier Proxy? ===
+ 
+No, you  don't. The NotifierCE can connect directly to the Network Monitor server using HTTP or HTTPS. (Using HTTP is not recommended, as the username and password are send over the internet in plain text.) But, using the Notifier Proxy will give you some advantages:    Data transmission to and from the mobile device is kept to a minimum by sending short requests to the Notifier Proxy who then translates them to the full length request to the Network Monitor server. The reply’s from the Network Monitor server are also truncated to a minimum. The Network Monitor server can communicate over HTTP on the internal network, without exposing its web interface to the internet.  The Notifier Proxy can reject mobile devices that are unknown to the  Notifier Proxy.    The Notifier Proxy can keep a log of all requests.    The Notifier Proxy can send software updates of NotifierCE to the mobile devices. 
+
