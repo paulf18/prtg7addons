@@ -1,0 +1,17 @@
+#The TrayNotifier shows a red icon in the task bar and shows a dialog whenever PRTG discovers alarms etc.
+
+= Introduction =
+
+The TrayNotifier is installed in the system tray, presenting the PRTG icon. When an alarm condition occurs, the icon becomes a flashing red dot. Right-clicking the icon, pops up a menu with various actions. 
+
+= Details =
+
+The TrayNotifier is installed in the system tray, presenting the PRTG icon. When an alarm condition occurs, the icon becomes a flashing red dot. Right-clicking the icon, pops up a menu with various actions. 
+ 
+After the first installation the settings window will automatically popup. On the Authentication tab, you can enter the name (or ip-address)  of the Network Monitor Server and the username and password of the account that is created on the Network Monitor Server. Select the protocol and port number you have set the Network Monitor 
+Server or the Notifier Proxy to use. 
+ 
+The Actions tab lets you set the refresh time and the latency time (minimum number of seconds a sensor must be down before it shows up). You can also have a sound played and the alarms window popped up when an alarm condition occurs. 
+ 
+Please see the Documentation PDF for Details:
+http://prtg7addons.googlecode.com/files/PRTG%20Tools%20Family%201.0.pdf 
