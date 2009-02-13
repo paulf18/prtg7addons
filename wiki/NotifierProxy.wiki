@@ -1,0 +1,25 @@
+#summary NotifierProxy allows the NotifierCE and TrayNotifier to connect to the Network Monitor server without the need to expose the server's web interface to the Internet
+
+= Introduction =
+
+NotifierProxy allows the NotifierCE and TrayNotifier to connect to the Network Monitor server without the need to expose the server's web interface to the Internet
+
+= Details =
+
+The Notifier Proxy can work on any HTTP or HTTPS/SSL port and can be installed on a separate Windows machine or on the same machine as the Network Monitor Server. In this manual its assumed that the Notfier Proxy is installed on the same machine as the Network Monitor Server, listens  on HTTPS/SSL port 443 and communicates with the Network Monitor Server on HTTP port 80. 
+ 
+==Network Firewall==
+ 
+Your network firewall needs to be configured to forward HTTPS requests on port 443 of your public IP-Address  to the local IP-Address port 443 of the machine  where  Notifier Proxy is installed. If port 443 of your public IP-Address is already in use, you can also forward another port, for example port 8443, of your public IP-Address to the local IP-Address port 443 of the machine  where  Notifier Proxy is installed.  
+
+Example: your public IP-Adress is 216.121.88.82 and the machine where Notfier Proxy is installed has IP-Adress 192.168.1.1. Configure your firewall to forward 216.121.88.82 port 443 to 192.168.1.1 port 443. 
+ 
+==Prerequisites  ==
+
+The Notifier Proxy runs on Internet Information Services (IIS) and targets the .NET Framework 3.5 
+ 
+
+=More Information=
+Please see the Documentation PDF for details and screenshots:
+
+http://prtg7addons.googlecode.com/files/PRTG%20Tools%20Family%201.0.pdf 
