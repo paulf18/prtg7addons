@@ -1,8 +1,8 @@
-#summary NotifierProxy allows the NotifierCE and TrayNotifier to connect to the Network Monitor server without the need to expose the server's web interface to the Internet
+#summary NotifierProxy allows the NotifierCE to connect to the Network Monitor server without the need to expose the server's web interface to the Internet.
 
 = Introduction =
 
-NotifierProxy allows the NotifierCE and TrayNotifier to connect to the Network Monitor server without the need to expose the server's web interface to the Internet
+NotifierProxy allows the NotifierCE to connect to the Network Monitor server without the need to expose the server's web interface to the Internet.
 
 = Details =
 
