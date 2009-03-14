@@ -20,7 +20,7 @@ Notifier Proxy to use and press "Save".
 
 On the main page press “Refresh" to collect the data of the sensors with a paused, warning and error state. Sensors can be paused and resumed by pressing the sensor (touch and hold) or pressing the Enter button. 
 
-Width:10 http://www.paessler.com/blog/uploadedimages/windowscesample.png
+http://www.paessler.com/blog/uploadedimages/windowscesample.png
  
 =More Information=
 Please see the Documentation PDF for details and screenshots:
