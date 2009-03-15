@@ -5,13 +5,13 @@
 
 ====Coming Up====
  * Fixed an issue with characters like "#" in the password.
- * New: If the Network Monitor server returns a HTML error, the error is shown to the user
- * New: Integrated web browser, does not show the url with username and password
+ * New: If the Network Monitor server returns a HTML error, the error is shown to the user.
+ * New: Integrated web browser, does not show the url with username and password.
  * New: Filter setting to show only sensors of a specific probe, group or device.
  * New: Sensor tree, showing probes, groups, devices and sensors.
  * New: Sensor history, showing the history of a sensor.
  * New: APC Power Distribution Unit integration, allowing the user to connect to the PDU's website or rebooting an outlet.
- * Integrated new features as of Network Monitor version 7.1 :
+ * Integrated new features as of Network Monitor version 7.1
   # Sensors can now be paused for a given period of time.
   # The passhash is now automatically used instead of the password.
   # An error can now be simulated on a sensor.
@@ -28,10 +28,16 @@
 
 ----
 ==[NotifierCE NotifierCE]==
+====Coming Up====
+ * New: Sensor tree, showing probes, groups, devices and sensors.
+
 ====1.0.0.2 _10/02/2009_====
  * First public version.
 ----
 ==[NotifierProxy Notifier Proxy]==
+====Coming Up====
+ * Support for the sensor tree, showing probes, groups, devices and sensors.
+
 ====1.0.0.1 _10/02/2009_====
  * First public version.
 ----
