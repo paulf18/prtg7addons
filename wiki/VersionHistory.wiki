@@ -11,3 +11,12 @@
 
 ===1.0.1.6 20/01/2009===
  * First public version.
+
+
+==[NotifierCE NotifierCE]==
+===1.0.1.6 20/01/2009===
+ * First public version.
+
+==[NotifierProxy Notifier Proxy]==
+===1.0.1.6 20/01/2009===
+ * First public version.
