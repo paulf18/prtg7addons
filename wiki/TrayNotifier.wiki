@@ -1,5 +1,7 @@
 #summary The TrayNotifier shows a red icon in the task bar and shows a dialog whenever PRTG discovers alarms etc.
 
+http://gf-ptf.googlecode.com/files/TrayNotifier.png
+
 = Introduction =
 
 The TrayNotifier is installed in the system tray, presenting the PRTG icon. When an alarm condition occurs, the icon becomes a flashing red dot. Right-clicking the icon, pops up a menu with various actions. 
