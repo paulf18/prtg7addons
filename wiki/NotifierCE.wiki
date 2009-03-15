@@ -22,7 +22,7 @@ On the main page press “Refresh" to collect the data of the sensors with a pau
 
 
 
-http://gf-ptf.googlecode.com/files/notifierce_screens.png
+http://gf-ptf.googlecode.com/files/NotifierCE_screens.png
 
 
 
