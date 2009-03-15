@@ -3,7 +3,7 @@
 
 ==TrayNotifier==
 
-====1.0.1.7     10/02/2009==== 
+====1.0.1.7====    ====10/02/2009==== 
  * Reload PRTG Monitor version information after a connection loss.
  * Connection port can be set to use other then port 80 or HTTPS/SSL.
  * Minor changes in the user interface.
