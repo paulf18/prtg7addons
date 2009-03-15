@@ -1,7 +1,7 @@
 #summary Version history for the "PRTG Tools family".
 
 
-==TrayNotifier==
+==TrayNotifier==\\ 
 
 ====Coming Up====
  * Fixed an issue with characters like "#" in the password.
