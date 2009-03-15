@@ -30,6 +30,7 @@
 ==[NotifierCE NotifierCE]==
 ====Coming Up====
  * New: Sensor tree, showing probes, groups, devices and sensors.
+ * New: APC Power Distribution Unit integration, allowing the user to reboot an outlet.
 
 ====1.0.0.2 _10/02/2009_====
  * First public version.
@@ -37,6 +38,8 @@
 ==[NotifierProxy Notifier Proxy]==
 ====Coming Up====
  * Support for the sensor tree, showing probes, groups, devices and sensors.
+ * Support for PDU integration, allowing the user to reboot an outlet.
+
 
 ====1.0.0.1 _10/02/2009_====
  * First public version.
