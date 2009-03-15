@@ -16,11 +16,11 @@
 ==[NotifierCE NotifierCE]==
 ===1.0.0.2 10/02/2009===
  * First public version.
-
+----
 ==[NotifierProxy Notifier Proxy]==
 ===1.0.0.1 10/02/2009===
  * First public version.
-
+----
 ==Notifier Proxy Configurator==
 ===1.0.0.1 10/02/2009===
  * First public version.
