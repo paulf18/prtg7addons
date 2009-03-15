@@ -1,5 +1,7 @@
 #summary The "PRTG Tools family" offers clients for Windows and Windows CE and was written by Gerard Feijth
 
+http://gf-ptf.googlecode.com/files/ToolsFamily.png
+
 = Introduction =
 
 The PRTG Tools family consists out of 4 separate applications: 
