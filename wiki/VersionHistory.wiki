@@ -1,6 +1,5 @@
 #summary Version history for the "PRTG Tools family".
 
-=Version history=
 
 ==TrayNotifier==
 
@@ -9,18 +8,18 @@
  * Connection port can be set to use other then port 80 or HTTPS/SSL.
  * Minor changes in the user interface.
 
-===1.0.1.6  20/01/2009===
+====1.0.1.6  20/01/2009====
  * First public version.
 
 ----
 ==[NotifierCE NotifierCE]==
-===1.0.0.2  10/02/2009===
+====1.0.0.2  10/02/2009====
  * First public version.
 ----
 ==[NotifierProxy Notifier Proxy]==
-===1.0.0.1  10/02/2009===
+====1.0.0.1  10/02/2009====
  * First public version.
 ----
 ==Notifier Proxy Configurator==
-===1.0.0.1  10/02/2009===
+====1.0.0.1  10/02/2009====
  * First public version.
