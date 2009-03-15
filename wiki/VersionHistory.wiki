@@ -12,10 +12,10 @@
  * New: Sensor history, showing the history of a sensor.
  * New: APC Power Distribution Unit integration, allowing the user to connect to the PDU's website or rebooting an outlet.
  * Integrated new features as of Network Monitor version 7.1 :
-	# Sensors can now be paused for a given period of time.
-	# The passhash is now automatically used instead of the password.
-	# An error can now be simulated on a sensor.
-	# The notification for a sensor or group can now be tested.
+  # Sensors can now be paused for a given period of time.
+  # The passhash is now automatically used instead of the password.
+  # An error can now be simulated on a sensor.
+  # The notification for a sensor or group can now be tested.
 
 
 ====1.0.1.7 _10/02/2009_==== 
