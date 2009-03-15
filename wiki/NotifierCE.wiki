@@ -22,7 +22,7 @@ On the main page press “Refresh" to collect the data of the sensors with a pau
 
 
 
-http://code.google.com/p/gf-ptf/downloads/list/windowscesample_300.png
+http://gf-ptf.googlecode.com/files/windowscesample_300.png
 
 
  
