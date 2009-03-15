@@ -3,7 +3,7 @@
 
 ==TrayNotifier==
 
-====Coming Up====
+====Coming Up====\\
  * Fixed an issue with characters like "#" in the password.
  * New: If the Network Monitor server returns a HTML error, the error is shown to the user.
  * New: Integrated web browser, does not show the url with username and password.
