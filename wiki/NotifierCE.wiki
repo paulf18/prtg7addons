@@ -25,8 +25,6 @@ On the main page press “Refresh" to collect the data of the sensors with a pau
 http://gf-ptf.googlecode.com/files/windowscesample_300.png
 
 
- 
-http://www.paessler.com/blog/uploadedimages/windowscesample_300.png
 
 =More Information=
 Please see the Documentation PDF for details and screenshots:
