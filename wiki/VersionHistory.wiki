@@ -1,4 +1,4 @@
-#summary [VersionHistory Version history] for the "PRTG Tools family".
+#summary Version history for the "PRTG Tools family".
 
 
 ==TrayNotifier==
