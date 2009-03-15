@@ -1,6 +1,5 @@
 #summary Version history for the "PRTG Tools family".
 
- * [Bla ==[NotifierCE NotifierCE]==] 
 
 ==TrayNotifier==
 
