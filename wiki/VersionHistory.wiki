@@ -32,7 +32,7 @@ http://gf-ptf.googlecode.com/files/ToolsFamily.png
 
 ----
 ==[NotifierCE NotifierCE]==
-====Coming Up====
+====1.0.0.3 _01/04/2009_==== 
  * New: Sensor tree, showing probes, groups, devices and sensors.
  * New: APC Power Distribution Unit integration, allowing the user to reboot an outlet.
 
@@ -40,7 +40,7 @@ http://gf-ptf.googlecode.com/files/ToolsFamily.png
  * First public version.
 ----
 ==[NotifierProxy Notifier Proxy]==
-====Coming Up====
+====1.0.0.2 _01/04/2009_==== 
  * Support for the sensor tree, showing probes, groups, devices and sensors.
  * Support for PDU integration, allowing the user to reboot an outlet.
 
