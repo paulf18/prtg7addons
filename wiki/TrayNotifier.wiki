@@ -18,4 +18,4 @@ The Actions tab lets you set the refresh time and the latency time (minimum numb
 =More Information=
 Please see the Documentation PDF for details and screenshots:
 
-http://prtg7addons.googlecode.com/files/PRTG%20Tools%20Family%201.0.pdf 
+http://prtg7addons.googlecode.com/files/PRTG%20Tools%20Family%201.1.pdf 
