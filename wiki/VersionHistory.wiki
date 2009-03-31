@@ -11,7 +11,7 @@ http://gf-ptf.googlecode.com/files/ToolsFamily.png
  * New: Associate one ore more External Applications with a sensor, device or group.
  * New: If the Network Monitor server returns a HTML error, the error is shown to the user.
  * New: Integrated web browser, does not show the url with username and password.
- * New: Filter setting to show only sensors of a specific probe, group or device.
+ * New: Filter setting to show only sensors from a specific probe, group or device down.
  * New: Sensor tree, showing probes, groups, devices and sensors.
  * New: Sensor history, showing the history of a sensor.
  * New: APC Power Distribution Unit integration, allowing the user to connect to the PDU's website or rebooting an outlet.
