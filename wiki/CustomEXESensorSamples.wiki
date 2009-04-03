@@ -29,6 +29,7 @@ There are:
     * Demo VBScript - Returns a fixed integer value.vbs
     * Demo VBScript - Returns a random value.vbs
   * Borland Delphi
-    * Load Test Disk_Write (Read_1000_files)
-    * Load Test CPU (calculate 1 Mio Primes)
-
+    * Load_Test_Disk_Write_Read_1000_files
+    * Load_Test_Disk_Write_Read_1000_files_with_folderselect_in_param1
+    * Load_Test_Memory_Allocate_And_Free_400MB
+    * Load_Test_CPU_1_Mio_Primes
