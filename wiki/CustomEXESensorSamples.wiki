@@ -33,3 +33,6 @@ There are:
     * Load_Test_Disk_Write_Read_1000_files_with_folderselect_in_param1
     * Load_Test_Memory_Allocate_And_Free_400MB
     * Load_Test_CPU_1_Mio_Primes
+
+The load test sensors are described here:
+http://www.paessler.com/blog/2009/04/03/prtg-7/testing-cloud-computing-performance-with-prtg-performance-comparison-of-amazon-ec2-instance-types/
