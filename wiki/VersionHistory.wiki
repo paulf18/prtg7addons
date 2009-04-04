@@ -54,4 +54,4 @@ http://gf-ptf.googlecode.com/files/ToolsFamily.png
 
 ----
 ==Comments, Suggestions or Feature Requests?==
-Contact the author [gerard.feijth@gmail.com here]
+Contact the author gerard.feijth@gmail.com
