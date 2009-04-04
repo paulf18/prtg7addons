@@ -51,3 +51,7 @@ http://gf-ptf.googlecode.com/files/ToolsFamily.png
 ==Notifier Proxy Configurator==
 ====1.0.0.1 _10/02/2009_====
  * First public version.
+
+----
+==Comments, Suggestions or Feature Requests?==
+Contact the author [gerard.feijth@gmail.com here]
