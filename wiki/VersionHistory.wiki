@@ -53,5 +53,5 @@ http://gf-ptf.googlecode.com/files/ToolsFamily.png
  * First public version.
 
 ----
-==Comments, Suggestions or Feature Requests?==
+====Comments, Suggestions or Feature Requests?====
 Contact the author [mailto:gerard%2Efeijth%40gmail%2Ecom here]
