@@ -48,7 +48,7 @@ http://gf-ptf.googlecode.com/files/ToolsFamily.png
 ====1.0.0.1 _10/02/2009_====
  * First public version.
 ----
-==Notifier Proxy Configurator==
+==[NotifierProxy Notifier Proxy Configurator]==
 ====1.0.0.2 _05/04/2009_====
  * Bugfix: After installing an update for Notifier Proxy, the Proxy Configurator detected a new version at every launch of the program and could not complete the setup.
  * Changed the logo to fit the rest of the "Family".
