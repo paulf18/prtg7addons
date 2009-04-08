@@ -2,7 +2,7 @@
 
 = Translations for PRTG Network Monitor =
 
-PRTG comes with a small set of translations created by Paessler (e.g. English, German). Additionally users can translate the software into other languages. 
+PRTG already comes with a set of translations created by Paessler (e.g. English, German). Additionally users can translate the software into other languages. Please note that these translations were not created by Paessler and they are not officially supported by Paessler.
 
 Currently available:
 
@@ -10,7 +10,7 @@ Currently available:
 
 = Installation of Language Files=
 
-Please download the language file from the downloads page:
+Please download the language file that fits your PRTG version from the downloads page:
 http://code.google.com/p/prtg7addons/downloads/list
 
 Unzip the file and place it into the /language subfolder of your PRTG installation. Start the PRTG Core Admin Tool and select the desired language from the drop down.
