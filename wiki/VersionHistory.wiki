@@ -5,6 +5,10 @@ http://gf-ptf.googlecode.com/files/ToolsFamily.png
 
 ==TrayNotifier==
 
+====1.0.1.9 _08/04/2009_==== 
+ * PRTG has changed some of its xml tags in version 7.1.1.3074. This version of the TrayNotifier recognizes these new tags and is also backwards compatible.
+ * Bugfix: A new PRTG version was not always recognized correctly, this is fixed now.
+
 ====1.0.1.8 _01/04/2009_==== 
  * Fixed an issue with characters like "#" in the password.
  * New: Automatically check for updates at startup.
