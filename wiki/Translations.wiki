@@ -6,7 +6,7 @@ PRTG comes with a small set of translations created by Paessler (e.g. English, G
 
 Currently available:
 
- * Dutch
+ * Dutch (by Gerard Feijth)
 
 = Installation of Language Files=
 
