@@ -1,0 +1,16 @@
+#summary Explanation for the language files for PRTG
+
+= Translations for PRTG Network Monitor =
+
+PRTG comes with a small set of translations created by Paessler (e.g. English, German). Additionally users can translate the software into other languages. 
+
+Currently available:
+
+ * Dutch
+
+= Installation of Language Files=
+
+Please download the language file from the downloads page:
+http://code.google.com/p/prtg7addons/downloads/list
+
+Unzip the file and place it into the /language subfolder of your PRTG installation. Start the PRTG Core Admin Tool and select the desired language from the drop down.
