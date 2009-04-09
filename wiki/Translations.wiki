@@ -11,6 +11,6 @@ Currently available:
 = Installation of Language Files=
 
 Please download the language file that fits your PRTG version from the downloads page:
-http://code.google.com/p/prtg7addons/downloads/list
+http://code.google.com/p/prtg7addons/downloads/list?can=2&q=translation
 
 Unzip the file and place it into the /language subfolder of your PRTG installation. Start the PRTG Server Administrator tool and select the desired language from the drop down.
