@@ -29,6 +29,4 @@ http://gf-ptf.googlecode.com/files/NotifierCE_screens.png
 
 
 =More Information=
-Please see the Documentation PDF for details and screenshots:
-
-http://prtg7addons.googlecode.com/files/PRTG%20Tools%20Family%201.1.pdf 
+Please see the [NotifierDocumentation Documentation] for details and screenshots.
