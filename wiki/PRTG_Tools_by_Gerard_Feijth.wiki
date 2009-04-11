@@ -26,8 +26,6 @@ The Notifier Proxy runs as a webservice on a computer on your network. This can 
 
 
 =More Information=
-Please see the Documentation PDF for details and screenshots:
-
-http://prtg7addons.googlecode.com/files/PRTG%20Tools%20Family%201.1.pdf 
+Please see the [NotifierDocumentation Documentation] for details and screenshots.
 
 See the [VersionHistory Version history] page for an overview of what's new or changed in the latest version.
