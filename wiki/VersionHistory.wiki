@@ -63,4 +63,4 @@ http://gf-ptf.googlecode.com/files/ToolsFamily.png
 ----
 
 ====Comments, Suggestions or Feature Requests?====
-Contact the author [mailto:gerard%2Efeijth%40gmail%2Ecom here]
+Contact the author [mailto:gerard%2Efeijth%40gmail%2Ecom?subject=Notifier%20Family here]
