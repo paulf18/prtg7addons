@@ -1,0 +1,18 @@
+#summary Krijco PRTG Tools: NotifierGadget is installed in the Vista sidebar.
+
+http://gf-ptf.googlecode.com/files/NotifierGadget.png
+
+= Introduction =
+
+The NotifierGadget is installed in the Vista sidebar, providing you with a constant view of the current number of alarms, warnings and paused sensors. 
+
+= Details =
+
+The NotifierGadget is installed in the Vista sidebar, providing you with a constant view of the current number of alarms, warnings and paused sensors. Depending on the number of alarms, warnings and paused sensors, the color changes from red to yellow or blue. If there are no alarms, the prtg gradient is shown in the background.
+
+http://gf-ptf.googlecode.com/files/Gadget.png
+
+Clicking a text part of the gadget opens your default Network Monitor webpage.
+
+=More Information=
+Please see the [NotifierDocumentation Documentation] for details and screenshots.
