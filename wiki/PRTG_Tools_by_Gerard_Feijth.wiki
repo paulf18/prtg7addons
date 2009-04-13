@@ -8,7 +8,9 @@ The PRTG Tools family consists out of 4 separate applications:
   * The TrayNotifier
   * The NotfierCE
   * The NotifierProxy
-  * The Notifier Proxy Configurator 
+  * The Notifier Proxy Configurator
+  * The NotifierGadget
+ 
 
 = Details =
 
@@ -23,6 +25,9 @@ Using the [NotifierProxy Notifier Proxy], the workstations in your network can c
 set to only allow known WindowsCE devices to connect. This way you can use a full access account to safely connect to the Network Monitor server, pausing and resuming sensors, without exposing its web interface to the internet. 
 The Notifier Proxy can also send updates for the NotifierCE to the mobile devices. 
 The Notifier Proxy runs as a webservice on a computer on your network. This can be the same machine as where the Network Monitor runs on.  The Notifier Proxy runs on IIS witch has to be installed on the target machine. 
+
+==[NotifierGadget NotifierGadget]==
+The NotifierGadget is installed in the Vista sidebar, providing you with a constant view of the current number of alarms, warnings and paused sensors.
 
 
 =More Information=
