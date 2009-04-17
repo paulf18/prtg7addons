@@ -1,4 +1,5 @@
 #summary Krijco PRTG Tools: NotifierProxy allows the NotifierCE to connect to the Network Monitor server without the need to expose the server's web interface to the Internet.
+#sidebar KrijcoWikiSidebar
 
 http://gf-ptf.googlecode.com/files/NotifierProxy.png
 
