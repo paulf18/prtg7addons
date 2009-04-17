@@ -4,6 +4,10 @@
 http://gf-ptf.googlecode.com/files/ToolsFamily.png
 
 ==TrayNotifier==
+====1.0.2.1 _17/04/2009_====
+ * New: Interaction with the NotifierGadget, clicking Alarms, Warnings or Paused in the Gadget opens the TrayNotifier sensor window.
+ * New: Move objects up & down in the sensortree. Groups, Devices and Sensors can now be moved up and down in the sensortree.
+ * New: Option to pause the TrayNotifier. After pausing the TrayNotifier the icon in the systemtray turns yellow. 
 ====1.0.1.9 _08/04/2009_==== 
  * PRTG has changed some of its xml tags in version 7.1.1.3074. This version of the TrayNotifier recognizes these new tags and is also backwards compatible.
  * Bugfix: A new PRTG version was not always recognized correctly, this is fixed now.
@@ -61,6 +65,16 @@ http://gf-ptf.googlecode.com/files/ToolsFamily.png
  * Changed the logo to fit the rest of the "Family".
 ====1.0.0.1 _10/02/2009_====
  * First public version.
+
+----
+
+==[NotifierGadget]==
+====1.0.2 _17/04/2009_====
+ * Now also works with native PRTG (see documentation for explanation).
+ * Improved error handling.
+ * Added interactivity with the TrayNotifier.
+====1.0.1 _13/04/2009_====
+ * First public version
 
 ----
 
