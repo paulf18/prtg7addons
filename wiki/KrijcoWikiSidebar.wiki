@@ -9,6 +9,8 @@ http://gf-ptf.googlecode.com/files/ToolsFamily_transparent.png
  * ====[NotifierCE]====
  * ====[NotifierProxy]====
 
+ ----
+
 http://gf-ptf.googlecode.com/files/Document-48x48.png [NotifierDocumentation Documentation]
 
 http://gf-ptf.googlecode.com/files/Open-48x48.png [VersionHistory]
