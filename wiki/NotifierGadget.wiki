@@ -1,4 +1,5 @@
 #summary Krijco PRTG Tools: NotifierGadget is installed in the Vista sidebar.
+#sidebar KrijcoWikiSidebar
 
 http://gf-ptf.googlecode.com/files/NotifierGadget.png
 
