@@ -76,8 +76,3 @@ http://gf-ptf.googlecode.com/files/ToolsFamily.png
  * Added interactivity with the TrayNotifier.
 ====1.0.1 _13/04/2009_====
  * First public version
-
-----
-
-====Comments, Suggestions or Feature Requests?====
-Contact the author [mailto:gerard%2Efeijth%40gmail%2Ecom?subject=Notifier%20Family here]
