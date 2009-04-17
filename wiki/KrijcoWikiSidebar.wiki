@@ -1,13 +1,22 @@
 #summary Krijco PRTG Tools Wiki Sidebar
 http://gf-ptf.googlecode.com/files/ToolsFamily_transparent.png
+===PRTG Tools Family===
 
 [PRTG_Tools_by_Gerard_Feijth Home]
 
  * [TrayNotifier]
  * [NotifierGadget]
  * [NotifierCE]
- * [NotofierProxy]
+ * [NotifierProxy]
 
-[NotifierDocumentation Documentation]
+http://gf-ptf.googlecode.com/files/Document-48x48.png [NotifierDocumentation Documentation]
 
-[VersionHistory]
+http://gf-ptf.googlecode.com/files/Open-48x48.png [VersionHistory]
+
+http://gf-ptf.googlecode.com/files/Download-48x48.png [http://code.google.com/p/prtg7addons/downloads/list?can=2&q=Krijco+PRTG+Tools Downloads]
+
+====Comments, Suggestions or Feature Requests?====
+http://gf-ptf.googlecode.com/files/Mail-48x48.png Contact the author [mailto:gerard%2Efeijth%40gmail%2Ecom?subject=Notifier%20Family here]
+ 
+
+
