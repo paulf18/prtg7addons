@@ -9,8 +9,8 @@ The NotifierCE runs on Windows CE powered mobile phones and can display the stat
 
 = Details =
 ==Installation==
-It targets the .NET Compact Framework 3.5 which can be downloaded here:
-http://www.microsoft.com/downloads/details.aspx?FamilyID=e3821449-3c6b-42f1-9fd9-0041345b3385
+It targets the .NET Compact Framework 3.5 which can be downloaded 
+[http://www.microsoft.com/downloads/details.aspx?FamilyID=e3821449-3c6b-42f1-9fd9-0041345b3385 here]
 
 Copy the NotifierCE.x.x.x.x.cab file to your mobile device and execute it. This will install the NotofierCE and automatically launch it. 
 
