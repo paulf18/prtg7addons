@@ -1,4 +1,5 @@
 #summary Krijco PRTG Tools: Version history for the "PRTG Tools family".
+#sidebar KrijcoWikiSidebar
 
 
 http://gf-ptf.googlecode.com/files/ToolsFamily.png
