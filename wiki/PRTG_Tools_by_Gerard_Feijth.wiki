@@ -7,9 +7,9 @@ http://gf-ptf.googlecode.com/files/ToolsFamily.png
 
 The PRTG Tools family consists out of 4 separate applications: 
   * The TrayNotifier
-  * The NotfierCE
+  * The [NotifierCE NotifierCE]
   * The NotifierProxy
-  * The Notifier Proxy Configurator
+  * The [NotifierProxy Notifier Proxy Configurator]
   * The NotifierGadget
  
 
