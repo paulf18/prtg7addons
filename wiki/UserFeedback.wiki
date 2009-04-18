@@ -1,5 +1,5 @@
 #summary Krijco PRTG Tools: User feedback.
-#sidebar KrijcoWikiSidebar_HomeOnly
+#sidebar KrijcoWikiSidebar2
 
 http://gf-ptf.googlecode.com/files/ToolsFamily.png
 
