@@ -4,6 +4,4 @@
 http://gf-ptf.googlecode.com/files/ToolsFamily.png
 
 ====Comments, Suggestions or Feature Requests?====
-====Please enter them below:====
-
- ----
+====Please enter them below (you have to be signed in).====
