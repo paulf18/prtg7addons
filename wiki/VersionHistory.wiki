@@ -69,7 +69,11 @@ http://gf-ptf.googlecode.com/files/ToolsFamily.png
 
 ----
 
-==[NotifierGadget]==
+==[NotifierGadget]==  
+Download latest version [http://prtg7addons.googlecode.com/files/Krijco.NotifierGadget.zip here]
+====1.0.3 _21/04/2009_====
+ * Native PRTG now also reports Warnings and Paused sensors.
+ * Fixed an interactivity issue with the TrayNotifier, where the TrayNotifier would popup every 5-10 minutes.
 ====1.0.2 _17/04/2009_====
  * Now also works with native PRTG (see documentation for explanation).
  * Improved error handling.
