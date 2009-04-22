@@ -2,7 +2,7 @@
 #sidebar KrijcoWikiSidebar
 
 
-http://gf-ptf.googlecode.com/files/ToolsFamily.png
+http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 
 
 *Latest versions:*
