@@ -1,0 +1,22 @@
+#summary Krijco PRTG Tools: Notifier Gadget Style for XP.
+#sidebar KrijcoWikiSidebar
+
+
+http://gf-ptf.googlecode.com/files/NotifierGadget.png
+
+= Introduction =
+
+The NotifierGadgetXP can be installed on a Windows XP system or Vista system not running the sidebar. the NotifierGadgetXP provides you with a constant view of the current number of alarms, warnings and paused sensors. 
+
+= Details =
+
+The NotifierGadgetXP can be installed on a Windows XP system or Vista system not running the sidebar. the NotifierGadgetXP provides you with a constant view of the current number of alarms, warnings and paused sensors. Depending on the number of alarms, warnings and paused sensors, the color changes from red to yellow or blue. If there are no alarms, the prtg gradient is shown in the background.
+
+The NotifierGadgetXP can be used with native PRTG.
+
+http://gf-ptf.googlecode.com/files/Gadget.png
+
+Clicking the server name part of the gadget opens your default Network Monitor webpage. Clicking the Alarms/Warnings/Pasused text can popup the TrayNotifier sensor window.
+
+=More Information=
+Please see the [NotifierDocumentation Documentation] for details and screenshots.
