@@ -5,7 +5,8 @@ http://gf-ptf.googlecode.com/files/NotifierProxy.png
 
 = Introduction =
 
-NotifierProxy allows the NotifierCE to connect to the Network Monitor server without the need to expose the server's web interface to the Internet.
+The _!NotifierProxy_ allows the [NotifierCE NotifierCE] to connect to the Network Monitor server without the need to expose the server's web interface to the Internet.
+By using the _!NotifierProxy_ the can also have the NotifierGadget use the latency setting.
 
 = Details =
 
@@ -14,17 +15,23 @@ The Notifier Proxy can work on any HTTP or HTTPS/SSL port and can be installed o
 
 ===Do I need to use the Notifier Proxy? ===
  
-No, you  don't. The NotifierCE can connect directly to the Network Monitor server using HTTP or HTTPS. (Using HTTP is not recommended, as the username and password are send over the internet in plain text.) But, using the Notifier Proxy will give you some advantages:    Data transmission to and from the mobile device is kept to a minimum by sending short requests to the Notifier Proxy who then translates them to the full length request to the Network Monitor server. The reply’s from the Network Monitor server are also truncated to a minimum. The Network Monitor server can communicate over HTTP on the internal network, without exposing its web interface to the internet.  The Notifier Proxy can reject mobile devices that are unknown to the  Notifier Proxy.    The Notifier Proxy can keep a log of all requests.    The Notifier Proxy can send software updates of NotifierCE to the mobile devices. 
+No, you  don't. The [NotifierCE NotifierCE] can connect directly to the Network Monitor server using HTTP or HTTPS. (Using HTTP is not recommended, as the username and password are send over the internet in plain text.) But, using the _!NotifierProxy_ will give you some advantages:
+ * Data transmission to and from the mobile device is kept to a minimum by sending short requests to the _!NotifierProxy_ who then translates them to the full length request to the Network Monitor server. The reply’s from the Network Monitor server are also truncated to a minimum. 
+ * The Network Monitor server can communicate over HTTP on the internal network, without exposing its web interface to the internet. 
+ * The _!NotifierProxy_ can reject mobile devices that are unknown to the _!NotifierProxy_.
+ * The _!NotifierProxy_ can keep a log of all requests.
+ * The _!NotifierProxy_ can send software updates of [NotifierCE NotifierCE] to the mobile devices.
+ * The _!NotifierProxy_ can have the NotifierGadget use the latency setting. 
  
 ==Network Firewall==
  
-Your network firewall needs to be configured to forward HTTPS requests on port 443 of your public IP-Address  to the local IP-Address port 443 of the machine  where  Notifier Proxy is installed. If port 443 of your public IP-Address is already in use, you can also forward another port, for example port 8443, of your public IP-Address to the local IP-Address port 443 of the machine  where  Notifier Proxy is installed.  
+Your network firewall needs to be configured to forward HTTPS requests on port 443 of your public IP-Address  to the local IP-Address port 443 of the machine  where the _!NotifierProxy_ is installed. If port 443 of your public IP-Address is already in use, you can also forward another port, for example port 8443, of your public IP-Address to the local IP-Address port 443 of the machine where the _!NotifierProxy_ is installed.  
 
-Example: your public IP-Adress is 216.121.88.82 and the machine where Notfier Proxy is installed has IP-Adress 192.168.1.1. Configure your firewall to forward 216.121.88.82 port 443 to 192.168.1.1 port 443. 
+Example: your public IP-Adress is 216.121.88.82 and the machine where the _!NotfierProxy_ is installed has IP-Adress 192.168.1.1. Configure your firewall to forward 216.121.88.82 port 443 to 192.168.1.1 port 443. 
  
 ==Prerequisites  ==
 
-The Notifier Proxy runs on Internet Information Services (IIS) and targets the .NET Framework 3.5 
+The _!NotifierProxy_ runs on Internet Information Services (IIS) and targets the .NET Framework 3.5 
  
 
 =More Information=
