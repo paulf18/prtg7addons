@@ -1,3 +1,6 @@
+#summary Krijco PRTG Tools: TrayNotifier shows a red icon in the task bar and shows a dialog whenever PRTG discovers alarms etc.
+#sidebar KrijcoWikiSidebar
+
 http://gf-ptf.googlecode.com/files/TrayNotifier.png
 
 = Introduction =
