@@ -1,4 +1,4 @@
-#summary Sidebar DO NOT DELETE !!!
+#summary Sidebar. Do NOT DELETE !!!
 #labels Deprecated
 http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 =PRTG Tools Family=
@@ -9,6 +9,7 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 
  * ====[TrayNotifier]====
  * ====[NotifierGadget]====
+ * ====[NotifierGadgetXP]====
  * ====[NotifierCE]====
  * ====[NotifierProxy]====
 
