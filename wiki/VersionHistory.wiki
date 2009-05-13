@@ -7,13 +7,19 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 
 *Latest versions:*
 || *Application* || *Version* || *Date* || *Download* ||
-||!TrayNotifier||1.0.2.2||22/04/2009||[http://prtg7addons.googlecode.com/files/Krijco.TrayNotifier.zip here]||
+||!TrayNotifier||1.0.3.1||11/05/2009||[http://prtg7addons.googlecode.com/files/Krijco.TrayNotifier.zip here]||
 ||!NotifierGadget||1.0.3||21/04/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierGadget.zip here]||
+||NotifierGadgetXP||1.0.1||11/05/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierGadgetXP.zip here]||
 ||NotifierCE||1.0.0.4||08/04/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierCE.zip here]||
 ||!NotifierProxy||1.0.0.4||13/04/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierProxy.zip here]||
 ||!ProxyConfigurator||1.0.0.3||22/04/2009||[http://prtg7addons.googlecode.com/files/Krijco.ProxyConfigurator.zip here]||
 
 ==TrayNotifier==
+====1.0.3.1 _11/05/2009_====
+ * New: Added graphs to the sensor history window.
+ * New: Aditional setting to also show paused devices.
+ * New: Interaction with NotifierGadgetXP.
+ * Minor changes in the user interface.
 ====1.0.2.2 _22/04/2009_====
  * Bugfix: !TrayNotifier could crash on non Vista operating systems. This bug was introduced in version 1.0.2.1
 ====1.0.2.1 _17/04/2009_====
@@ -91,4 +97,10 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
  * Improved error handling.
  * Added interactivity with the !TrayNotifier.
 ====1.0.1 _13/04/2009_====
+ * First public version
+
+----
+
+==[NotifierGadgetXP]==
+====1.0.1 _11/05/2009_====
  * First public version
