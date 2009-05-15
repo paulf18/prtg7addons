@@ -1,0 +1,15 @@
+#summary Krijco PRTG Tools: Modify your PRTG Server download page.
+#sidebar KrijcoWikiSidebar
+
+
+= Introduction =
+
+With this tool you can modify your PRTG Server download page to let your users download the TrayNotifier and NotifierGadget from the download page of your own PRTG Server.
+
+
+= Details =
+
+The modified section can be installed in English, German and Dutch.
+After running the tool, your PRTG Server download page can look like this:
+
+http://gf-ptf.googlecode.com/files/distribution.png
