@@ -1,0 +1,20 @@
+#summary Krijco PRTG Tools: Stay informed about new versions and other updates
+#sidebar KrijcoWikiSidebar
+
+
+= Introduction =
+On my blog I'll keep you informed about upcoming changes, new features and versions.
+
+=== Use your PRTG Network Monitor server to monitor changes in this blog ===
+You can use your PRTG server to monitor this blog and keep yourself informed about new blog posts by just following these for easy steps:
+
+=====Create a new group named "Websites" and enter a new device to this group named "Blogs" (In the IP-Address/DNS Name section of the device, you can enter any Address or Name as it is not refered to by the sensor.)===== 
+http://gf-ptf.googlecode.com/files/httpadvanced1.png
+=====Add a new HTTP Advanced sensor to the "Blogs" device you just created.=====
+http://gf-ptf.googlecode.com/files/httpadvanced2.png
+=====On the settings page of this sensor, change the name of the sensor, enter the url and have the sensor *monitor changes*=====
+http://gf-ptf.googlecode.com/files/httpadvanced3.png
+=====On the Notifications tab of the sensor, create a new Change Trigger that for example sends you an email.=====
+http://gf-ptf.googlecode.com/files/httpadvanced4.png
+====Finished====
+Your PRTG Network Monitor server will now send you an email when a new blog post is entered or other changes to the blog are made.
