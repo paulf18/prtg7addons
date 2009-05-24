@@ -22,6 +22,9 @@ http://gf-ptf.googlecode.com/files/Open-48x48.png [VersionHistory]
 
 http://gf-ptf.googlecode.com/files/Download-48x48.png [http://code.google.com/p/prtg7addons/downloads/list?can=2&q=Krijco+PRTG+Tools Downloads]
 
+====Stay informed about new releases, bug fixes, upcoming changes and more.====
+
+http://gf-ptf.googlecode.com/files/blogger.png [http://prtg-tools-family.blogspot.com Visit my blog]
+
 ====Comments, Suggestions or Feature Requests?====
 http://gf-ptf.googlecode.com/files/Mail-48x48.png Leave a note [UserFeedback here]
- 
