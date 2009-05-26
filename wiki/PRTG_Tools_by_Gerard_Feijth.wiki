@@ -1,4 +1,5 @@
 #summary Krijco PRTG Tools: The "PRTG Tools family" offers clients for Windows and Windows CE (by Gerard Feijth)
+#labels Featured
 #sidebar KrijcoWikiSidebar
 
 http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
