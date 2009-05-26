@@ -9,7 +9,7 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 || *Application* || *Version* || *Date* || *Download* ||
 ||!TrayNotifier||1.0.3.1||11/05/2009||[http://prtg7addons.googlecode.com/files/Krijco.TrayNotifier.zip here]||
 ||!NotifierGadget||1.0.3||21/04/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierGadget.zip here]||
-||NotifierGadgetXP||1.0.1||11/05/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierGadgetXP.zip here]||
+||NotifierGadgetXP||1.0.2||26/05/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierGadgetXP.zip here]||
 ||NotifierCE||1.0.0.4||08/04/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierCE.zip here]||
 ||!NotifierProxy||1.0.0.4||13/04/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierProxy.zip here]||
 ||!ProxyConfigurator||1.0.0.3||22/04/2009||[http://prtg7addons.googlecode.com/files/Krijco.ProxyConfigurator.zip here]||
@@ -103,5 +103,8 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 ----
 
 ==[NotifierGadgetXP]==
+====1.0.2 _26/05/2009_====
+ * Changed the sidegrip to look more like a real gadget.
+ * Fixed an issue where the bottom of the server name could be chopped of.
 ====1.0.1 _11/05/2009_====
  * First public version
