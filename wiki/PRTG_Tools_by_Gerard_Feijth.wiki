@@ -5,12 +5,13 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 
 = Introduction =
 
-The PRTG Tools family consists out of 5 separate applications: 
+The PRTG Tools family consists out of 6 separate applications: 
   * The TrayNotifier
   * The [NotifierCE NotifierCE]
   * The NotifierProxy
   * The [NotifierProxy Notifier Proxy Configurator]
   * The NotifierGadget
+  * The [NotifierGadgetXP NotifierGadgetXP]
  
 
 = Details =
@@ -28,7 +29,10 @@ The Notifier Proxy can also send updates for the NotifierCE to the mobile device
 The Notifier Proxy runs as a webservice on a computer on your network. This can be the same machine as where the Network Monitor runs on.  The Notifier Proxy runs on IIS witch has to be installed on the target machine. 
 
 ==[NotifierGadget NotifierGadget]==
-The NotifierGadget is installed in the Vista sidebar, providing you with a constant view of the current number of alarms, warnings and paused sensors.
+The NotifierGadget is installed in the sidebar of your Vista or Win7 machine, providing you with a constant view of the current number of alarms, warnings and paused sensors.
+
+==[NotifierGadgetXP NotifierGadgetXP]==
+The [NotifierGadgetXP NotifierGadgetXP] is installed on your WindowsXP machine, providing you with a constant view of the current number of alarms, warnings and paused sensors.
 
 
 =More Information=
