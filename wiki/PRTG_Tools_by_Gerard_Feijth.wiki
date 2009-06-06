@@ -7,17 +7,23 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 
 The PRTG Tools family consists out of 6 separate applications: 
   * The TrayNotifier
+  * The NotifierGadget
+  * The [NotifierGadgetXP NotifierGadgetXP]
   * The [NotifierCE NotifierCE]
   * The NotifierProxy
   * The [NotifierProxy Notifier Proxy Configurator]
-  * The NotifierGadget
-  * The [NotifierGadgetXP NotifierGadgetXP]
  
 
 = Details =
 
 ==TrayNotifier==
 The TrayNotifier runs on a Windows Workstation. It notifies the user of an alarm condition with a flashing red dot in the system tray.  It can automatically popup and play a sound for extra attention. 
+
+==[NotifierGadget NotifierGadget]==
+The NotifierGadget is installed in the sidebar of your Vista or Win7 machine, providing you with a constant view of the current number of alarms, warnings and paused sensors.
+
+==[NotifierGadgetXP NotifierGadgetXP]==
+The [NotifierGadgetXP NotifierGadgetXP] is installed on your WindowsXP machine, providing you with a constant view of the current number of alarms, warnings and paused sensors.
  
 ==[NotifierCE NotifierCE]==
 The [NotifierCE NotifierCE] runs on a Windows Mobile device. It can collect sensor data on demand. 
@@ -27,12 +33,6 @@ Using the [NotifierProxy Notifier Proxy], the workstations in your network can c
 set to only allow known WindowsCE devices to connect. This way you can use a full access account to safely connect to the Network Monitor server, pausing and resuming sensors, without exposing its web interface to the internet. 
 The Notifier Proxy can also send updates for the NotifierCE to the mobile devices. 
 The Notifier Proxy runs as a webservice on a computer on your network. This can be the same machine as where the Network Monitor runs on.  The Notifier Proxy runs on IIS witch has to be installed on the target machine. 
-
-==[NotifierGadget NotifierGadget]==
-The NotifierGadget is installed in the sidebar of your Vista or Win7 machine, providing you with a constant view of the current number of alarms, warnings and paused sensors.
-
-==[NotifierGadgetXP NotifierGadgetXP]==
-The [NotifierGadgetXP NotifierGadgetXP] is installed on your WindowsXP machine, providing you with a constant view of the current number of alarms, warnings and paused sensors.
 
 
 =More Information=
