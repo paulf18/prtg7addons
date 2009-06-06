@@ -8,7 +8,7 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 
 *Latest versions:*
 || *Application* || *Version* || *Date* || *Download* ||
-||!TrayNotifier||1.0.3.1||11/05/2009||[http://prtg7addons.googlecode.com/files/Krijco.TrayNotifier.zip here]||
+||!TrayNotifier||2.0.1.1||06/06/2009||[http://prtg7addons.googlecode.com/files/Krijco.TrayNotifier.zip here]||
 ||!NotifierGadget||1.0.3||21/04/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierGadget.zip here]||
 ||NotifierGadgetXP||1.0.2||26/05/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierGadgetXP.zip here]||
 ||NotifierCE||1.0.0.4||08/04/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierCE.zip here]||
@@ -17,6 +17,12 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 ||Distribution Tool||1.0.1.2||15/05/2009||[http://prtg7addons.googlecode.com/files/Krijco.Distribution%20tool.zip here]||
 
 ==TrayNotifier==
+====2.0.1.1 _06/06/2009_====
+ * New: The !TrayNotifier can now support multiple languages. Shipping languages are English, German, Dutch, French and Spanish.
+ * New: Select the browser you want to use with PRTG (does not have to be your default browser).
+ * New: Select the columns you want to show in the Sensors window (through the context menu) and order them by using drag and drop. 
+ * New: Added a setting to determine if the Sensor window should be topmost.                       
+ * Changed: Splitted the settings page up into a basic and an advanced settings page.
 ====1.0.3.1 _11/05/2009_====
  * New: Added graphs to the sensor history window.
  * New: Aditional setting to also show paused devices.
