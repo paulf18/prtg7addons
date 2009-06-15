@@ -9,7 +9,7 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 *Latest versions:*
 || *Application* || *Version* || *Date* || *Download* ||
 ||!TrayNotifier||2.0.1.1||06/06/2009||[http://prtg7addons.googlecode.com/files/Krijco.TrayNotifier.zip here]||
-||!NotifierGadget||1.0.3||21/04/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierGadget.zip here]||
+||!NotifierGadget||1.0.4||15/06/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierGadget.zip here]||
 ||NotifierGadgetXP||1.0.2||26/05/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierGadgetXP.zip here]||
 ||NotifierCE||1.0.0.4||08/04/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierCE.zip here]||
 ||!NotifierProxy||1.0.0.4||13/04/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierProxy.zip here]||
@@ -97,6 +97,8 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 ----
 
 ==[NotifierGadget]==
+====1.0.4 _15/06/2009_====
+ * fixed a bug where the number of alarms, warnings and paused sensors if more than 8 were displayed incorrectly.
 ====1.0.3 _21/04/2009_====
  * Native PRTG now also reports Warnings and Paused sensors.
  * Fixed an interactivity issue with the !TrayNotifier, where the !TrayNotifier could popup every 5-10 minutes.
