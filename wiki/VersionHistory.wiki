@@ -11,8 +11,8 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 ||!TrayNotifier||2.0.1.1||06/06/2009||[http://prtg7addons.googlecode.com/files/Krijco.TrayNotifier.zip here]||
 ||!NotifierGadget||1.0.4||15/06/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierGadget.zip here]||
 ||NotifierGadgetXP||1.0.2||26/05/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierGadgetXP.zip here]||
-||NotifierCE||1.0.0.4||08/04/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierCE.zip here]||
-||!NotifierProxy||1.0.0.4||13/04/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierProxy.zip here]||
+||NotifierCE||2.0.1.1||21/06/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierCE.zip here]||
+||!NotifierProxy||1.0.0.5||21/06/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierProxy.zip here]||
 ||!ProxyConfigurator||1.0.0.3||22/04/2009||[http://prtg7addons.googlecode.com/files/Krijco.ProxyConfigurator.zip here]||
 ||Distribution Tool||1.0.1.2||15/05/2009||[http://prtg7addons.googlecode.com/files/Krijco.Distribution%20tool.zip here]||
 
@@ -62,6 +62,11 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 ----
 
 ==[NotifierCE NotifierCE]==
+====2.0.1.1 _21/06/2009_====
+ * New: Autorefresh feature can refresh the data in the sensor window every xx minutes.
+ * New: Play an alarm sound if new alarm conditions occur.
+ * New: Filter the data in the sensor window to show alarm/warnings/paused sensors.
+ * New: Clicking the column headers in the sensor window will sort the data in that column.
 ====1.0.0.4 _08/04/2009_==== 
  * PRTG has changed some of its xml tags in version 7.1.1.3074. This version of the NotifierCE recognizes these new tags and is also backwards compatible.
 ====1.0.0.3 _01/04/2009_==== 
@@ -73,6 +78,8 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 ----
 
 ==[NotifierProxy Notifier Proxy]==
+====1.0.0.5 _21/06/2009_====
+ * Supports the NotifierCE version 2.0
 ====1.0.0.4 _13/04/2009_====
  * Added support for the !NotifierGadget 
 ====1.0.0.3 _08/04/2009_==== 
