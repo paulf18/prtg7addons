@@ -8,6 +8,7 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 *Latest versions:*
 || *Sensor* || *Version* || *Date* || *Download* ||
 ||CheckPRTGVersion||1.0.1.1||29/06/2009||[http://prtg7addons.googlecode.com/files/PTF.CheckPRTGVersion.zip here]||
+||FTPFileCount||1.0.1.1||29/06/2009||[http://prtg7addons.googlecode.com/files/PTF.FTPFileCount.zip here]||
 
 == CheckPRTGVersion ==
 === Summary ===
@@ -15,6 +16,17 @@ This Custom Sensor compares your local PRTG version number with the last version
 Enter the ip-address and optional portnumber of your local PRTG server in the Parameters section of the Sensor Settings (i.e. 192.168.1.1:8080).
 
 http://gf-ptf.googlecode.com/files/CheckPRTGVersion_Warning.png
+
+=== Version history ===
+====1.0.1.1 _29/06/2009_====
+ * First public version
+
+== FTPFileCount ==
+=== Summary ===
+This Custom Sensor returns the number of files available on a FTP server.
+Enter the credentials (username and password) and the url in the Parameters section of the Sensor Settings (i.e. -u:username -p:password ftp://10.0.0.10/upload).
+
+http://gf-ptf.googlecode.com/files/FTPFileCount.png
 
 === Version history ===
 ====1.0.1.1 _29/06/2009_====
