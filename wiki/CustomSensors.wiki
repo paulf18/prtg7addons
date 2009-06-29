@@ -1,0 +1,21 @@
+#summary PTF Custom Sensors: Overview of PTF Custom Sensors.
+#sidebar KrijcoWikiSidebar
+
+
+http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
+
+
+*Latest versions:*
+|| *Sensor* || *Version* || *Date* || *Download* ||
+||CheckPRTGVersion||1.0.1.1||29/06/2009||[http://prtg7addons.googlecode.com/files/PTF.CheckPRTGVersion.zip here]||
+
+== CheckPRTGVersion ==
+=== Summary ===
+This Custom Sensor compares your local PRTG version number with the last version available for download and go's into a warning state if a new version is available.
+Enter the ip-address and optional portnumber of your local PRTG server in the Parameters section of the Sensor Settings (i.e. 192.168.1.1:8080).
+
+http://gf-ptf.googlecode.com/files/CheckPRTGVersion_Warning.png
+
+=== Version history ===
+====1.0.1.1 _29/06/2009_====
+ * First public version
