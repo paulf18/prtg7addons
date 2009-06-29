@@ -13,6 +13,8 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
  * ====[NotifierCE]====
  * ====[NotifierProxy]====
  * ====[Distribution Distribution tool]====
+ * ====[CustomSensors Custom Sensors]====
+
 
  ----
 
@@ -28,3 +30,4 @@ http://gf-ptf.googlecode.com/files/blogger.png [http://prtg-tools-family.blogspo
 
 ====Comments, Suggestions or Feature Requests?====
 http://gf-ptf.googlecode.com/files/Mail-48x48.png Leave a note [UserFeedback here]
+ 
