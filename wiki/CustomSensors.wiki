@@ -7,8 +7,12 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 
 *Latest versions:*
 || *Sensor* || *Version* || *Date* || *Download* ||
-||CheckPRTGVersion||1.0.1.1||29/06/2009||[http://prtg7addons.googlecode.com/files/PTF.CheckPRTGVersion.zip here]||
-||FTPFileCount||1.0.1.1||29/06/2009||[http://prtg7addons.googlecode.com/files/PTF.FTPFileCount.zip here]||
+||[#CheckPRTGVersion CheckPRTGVersion]||1.0.1.1||29/06/2009||[http://prtg7addons.googlecode.com/files/PTF.CheckPRTGVersion.zip here]||
+||[#FTPFileCount FTPFileCount]||1.0.1.1||29/06/2009||[http://prtg7addons.googlecode.com/files/PTF.FTPFileCount.zip here]||
+
+== General ==
+All Custom Sensors listed here target the _.net framework 2.0_.
+
 
 == CheckPRTGVersion ==
 === Summary ===
@@ -20,6 +24,8 @@ http://gf-ptf.googlecode.com/files/CheckPRTGVersion_Warning.png
 === Version history ===
 ====1.0.1.1 _29/06/2009_====
  * First public version
+
+----
 
 == FTPFileCount ==
 === Summary ===
