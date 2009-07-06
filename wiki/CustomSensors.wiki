@@ -10,11 +10,12 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 ||[#CheckPRTGVersion CheckPRTGVersion]||1.0.1.1||29/06/2009||[http://prtg7addons.googlecode.com/files/PTF.CheckPRTGVersion.zip here]||
 ||[#FTPFileCount FTPFileCount]||1.0.1.1||29/06/2009||[http://prtg7addons.googlecode.com/files/PTF.FTPFileCount.zip here]||
 ||[#NetworkFileCount NetworkFileCount]||1.0.1.1||01/07/2009||[http://prtg7addons.googlecode.com/files/PTF.NetworkFileCount.zip here]||
+||[#LogFileReader LogFileReader]||1.0.1.1||06/07/2009||[http://prtg7addons.googlecode.com/files/PTF.LogfileReader.zip here]||
 
 == General ==
 All Custom Sensors listed target the _.net framework 2.0_.
 
-Copy the .exe file to the "Program Files\PRTG Network Monitor\Custom Sensors\EXE" folder of your PRTG Network Monitor server (strip the version number from the .exe)
+Copy the .exe file to the "Program Files\PRTG Network Monitor\Custom Sensors\EXE" folder of your PRTG Network Monitor server. 
 
 You can manually launch the .exe for an explanation of the parameters required.
 
@@ -23,8 +24,6 @@ You can manually launch the .exe for an explanation of the parameters required.
 This Custom Sensor compares your local PRTG version number with the last version available for download and go's into a warning state if a new version is available.
 
 Enter the ip-address and optional portnumber of your local PRTG server in the Parameters section of the Sensor Settings (i.e. 192.168.1.1:8080).
-
-http://gf-ptf.googlecode.com/files/CheckPRTGVersion_Warning.png
 
 === Version history ===
 ====1.0.1.1 _29/06/2009_====
@@ -38,8 +37,6 @@ This Custom Sensor returns the number of files available on a FTP server.
 
 Enter the credentials (username and password) and the url in the Parameters section of the Sensor Settings (i.e. -u=username -p=password ftp://10.0.0.10/upload).
 
-http://gf-ptf.googlecode.com/files/FTPFileCount.png
-
 === Version history ===
 ====1.0.1.1 _29/06/2009_====
  * First public version
@@ -51,10 +48,18 @@ http://gf-ptf.googlecode.com/files/FTPFileCount.png
 This Custom Sensor returns the number of files available on a server\share.
 As your PRTG server runs under the local system account it can't access files on a server\share. This sensor uses the given username and password of a valid user account that can access the files and returns the number of files.
 
-In the Parameters section of the sensor enter the parameters as in the example below:
-
-http://gf-ptf.googlecode.com/files/NetworkFileCount.png
-
 === Version history ===
 ====1.0.1.1 _29/06/2009_====
+ * First public version
+
+----
+
+== !LogFileReader ==
+=== Summary ===
+This Custom Sensor returns whether a specified string occurs in a (log) file. The last occurrence is remembered, so if a new entry is made with the specified string, the sensor will recognize the new entry.
+
+Enter the credentials (username and password), file location and searchstring in the Parameters section of the Sensor Settings (i.e. -u=username -p=password -f="c:\file location\log.txt" -s="String to search").
+
+=== Version history ===
+====1.0.1.1 _06/07/2009_====
  * First public version
