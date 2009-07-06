@@ -23,7 +23,10 @@ You can manually launch the .exe for an explanation of the parameters required.
 === Summary ===
 This Custom Sensor compares your local PRTG version number with the last version available for download and go's into a warning state if a new version is available.
 
-Enter the ip-address and optional portnumber of your local PRTG server in the Parameters section of the Sensor Settings (i.e. 192.168.1.1:8080).
+Enter the ip-address and optional portnumber of your local PRTG server in the Parameters section of the Sensor Settings:
+{{{
+192.168.1.1:8080
+}}}
 
 === Version history ===
 ====1.0.1.1 _29/06/2009_====
@@ -35,7 +38,10 @@ Enter the ip-address and optional portnumber of your local PRTG server in the Pa
 === Summary ===
 This Custom Sensor returns the number of files available on a FTP server.
 
-Enter the credentials (username and password) and the url in the Parameters section of the Sensor Settings (i.e. -u=username -p=password ftp://10.0.0.10/upload).
+Enter the credentials (username and password) and the url in the Parameters section of the Sensor Settings:
+{{{
+-u=username -p=password ftp://10.0.0.10/upload
+}}}
 
 === Version history ===
 ====1.0.1.1 _29/06/2009_====
@@ -48,6 +54,11 @@ Enter the credentials (username and password) and the url in the Parameters sect
 This Custom Sensor returns the number of files available on a server\share.
 As your PRTG server runs under the local system account it can't access files on a server\share. This sensor uses the given username and password of a valid user account that can access the files and returns the number of files.
 
+Enter the credentials (username and password) and folder location in the Parameters section of the Sensor Settings:
+{{{
+-u=username -p=password -f=\\myserver\myshare [-s=*.exe -sub]
+}}}
+
 === Version history ===
 ====1.0.1.1 _29/06/2009_====
  * First public version
@@ -58,7 +69,10 @@ As your PRTG server runs under the local system account it can't access files on
 === Summary ===
 This Custom Sensor returns whether a specified string occurs in a (log) file. The last occurrence is remembered, so if a new entry is made with the specified string, the sensor will recognize the new entry.
 
-Enter the credentials (username and password), file location and searchstring in the Parameters section of the Sensor Settings (i.e. -u=username -p=password -f="c:\file location\log.txt" -s="String to search").
+Enter the credentials (username and password), file location and searchstring in the Parameters section of the Sensor Settings:
+{{{
+-u=username -p=password -f="c:\file location\log.txt" -s="String to search"
+}}}
 
 === Version history ===
 ====1.0.1.1 _06/07/2009_====
