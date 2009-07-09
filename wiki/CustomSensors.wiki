@@ -1,11 +1,12 @@
 #summary PTF Custom Sensors: Overview of PTF Custom Sensors.
+#labels Featured
 #sidebar KrijcoWikiSidebar
 
 
 http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 
 
-*Latest versions:*
+====Latest versions:====
 || *Sensor* || *Version* || *Date* || *Download* ||
 ||[#CheckPRTGVersion CheckPRTGVersion]||1.0.1.1||29/06/2009||[http://prtg7addons.googlecode.com/files/PTF.CheckPRTGVersion.zip here]||
 ||[#FTPFileCount FTPFileCount]||1.0.1.1||29/06/2009||[http://prtg7addons.googlecode.com/files/PTF.FTPFileCount.zip here]||
@@ -30,7 +31,9 @@ Enter the ip-address and optional portnumber of your local PRTG server in the Pa
 192.168.1.1:8080
 }}}
 
-=== Version history ===
+ back to [#Latest_versions: top]
+
+=== Version history === 
 ====1.0.1.1 _29/06/2009_====
  * First public version
 
@@ -44,6 +47,8 @@ Enter the credentials (username and password) and the url in the Parameters sect
 {{{
 -u=username -p=password ftp://10.0.0.10/upload
 }}}
+
+ back to [#Latest_versions: top]
 
 === Version history ===
 ====1.0.1.1 _29/06/2009_====
@@ -61,6 +66,8 @@ Enter the credentials (username and password), folder (and optional search filte
 -u=username -p=password -f=\\myserver\myshare [-s=*.exe -sub]
 }}}
 
+ back to [#Latest_versions: top]
+
 === Version history ===
 ====1.0.1.1 _29/06/2009_====
  * First public version
@@ -75,6 +82,8 @@ Enter the credentials (username and password), file location and searchstring in
 {{{
 -u=username -p=password -f="c:\file location\log.txt" -s="String to search"
 }}}
+
+ back to [#Latest_versions: top]
 
 === Version history ===
 ====1.0.1.1 _06/07/2009_====
