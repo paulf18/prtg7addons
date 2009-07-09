@@ -78,7 +78,7 @@ Enter the credentials (username and password), folder (and optional search filte
 === Summary ===
 This Custom Sensor returns whether a specified string occurs in a (log) file. The last occurrence is remembered, so if a new entry is made with the specified string, the sensor will recognize the new entry.
 
-Enter the credentials (username and password), file location and searchstring in the Parameters section of the Sensor Settings:
+Enter the credentials (username and password), filename and searchstring in the Parameters section of the Sensor Settings:
 {{{
 -u=username -p=password -f="c:\file location\log.txt" -s="String to search"
 }}}
