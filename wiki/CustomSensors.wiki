@@ -15,9 +15,11 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 == General ==
 All Custom Sensors listed target the _.net framework 2.0_.
 
-Copy the .exe file to the "Program Files\PRTG Network Monitor\Custom Sensors\EXE" folder of your PRTG Network Monitor server. 
+Copy the .exe file to the "Program Files\PRTG Network Monitor\Custom Sensors\EXE" folder of your PRTG Network Monitor server. You can manually launch the .exe for an explanation of the parameters required.
 
-You can manually launch the .exe for an explanation of the parameters required.
+Comments, suggestions, feature requests? Leave a note [http://code.google.com/p/prtg7addons/wiki/UserFeedback here]
+
+----
 
 == CheckPRTGVersion ==
 === Summary ===
@@ -52,9 +54,9 @@ Enter the credentials (username and password) and the url in the Parameters sect
 == !NetworkFileCount ==
 === Summary ===
 This Custom Sensor returns the number of files available on a server\share.
-As your PRTG server runs under the local system account it can't access files on a server\share. This sensor uses the given username and password of a valid user account that can access the files and returns the number of files.
+As your PRTG server runs under the local system account it can't access files on a \\server\share. This sensor uses the given username and password of a valid user account that can access the files and returns the number of files.
 
-Enter the credentials (username and password) and folder location in the Parameters section of the Sensor Settings:
+Enter the credentials (username and password), folder (and optional search filter and setting to also search the sub folders) in the Parameters section of the Sensor Settings:
 {{{
 -u=username -p=password -f=\\myserver\myshare [-s=*.exe -sub]
 }}}
