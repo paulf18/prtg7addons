@@ -8,7 +8,7 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 
 *Latest versions:*
 || *Application* || *Version* || *Date* || *Download* ||
-||!TrayNotifier||2.0.1.1||06/06/2009||[http://prtg7addons.googlecode.com/files/Krijco.TrayNotifier.zip here]||
+||!TrayNotifier||2.0.2.1||10/07/2009||[http://prtg7addons.googlecode.com/files/Krijco.TrayNotifier.zip here]||
 ||!NotifierGadget||1.0.4||15/06/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierGadget.zip here]||
 ||NotifierGadgetXP||1.0.2||26/05/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierGadgetXP.zip here]||
 ||NotifierCE||2.0.1.1||21/06/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierCE.zip here]||
@@ -17,6 +17,14 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 ||Distribution Tool||1.0.1.2||15/05/2009||[http://prtg7addons.googlecode.com/files/Krijco.Distribution%20tool.zip here]||
 
 ==TrayNotifier==
+====2.0.2.1 _10/07/2009_====
+ * New: Added translation Czech.
+ * New: Sensor Overview showing the status of all sensors with the same name. (i.e. all your temperature sensors in one overview) 
+ * New: Updates can now also be downloaded from your own PRTG Server. (you need to use the !DistributionTool to enable this feature)
+ * Changed: The Sensor History window can now be maximized. 
+ * Changed: The Sensor History window now shows the date ranges as selected in the PRTG Server Administrator.
+ * Changed: Released backwards compatibility with PRTG 7.0 and earlier.
+ * Bugfix: Probepage could not be opened from the Sensortree.
 ====2.0.1.1 _06/06/2009_====
  * New: The !TrayNotifier can now support multiple languages. Shipping languages are English, German, Dutch, French and Spanish.
  * New: Select the browser you want to use with PRTG (does not have to be your default browser).
@@ -103,7 +111,7 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 
 ----
 
-==[NotifierGadget]==
+==NotifierGadget==
 ====1.0.4 _15/06/2009_====
  * fixed a bug where the number of alarms, warnings and paused sensors if more than 8 were displayed incorrectly.
 ====1.0.3 _21/04/2009_====
