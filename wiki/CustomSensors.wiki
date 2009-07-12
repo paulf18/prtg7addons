@@ -12,6 +12,7 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 ||[#FTPFileCount FTPFileCount]||1.0.1.1||29/06/2009||[http://prtg7addons.googlecode.com/files/PTF.FTPFileCount.zip here]||
 ||[#NetworkFileCount NetworkFileCount]||1.0.1.1||01/07/2009||[http://prtg7addons.googlecode.com/files/PTF.NetworkFileCount.zip here]||
 ||[#LogFileReader LogFileReader]||1.0.1.1||06/07/2009||[http://prtg7addons.googlecode.com/files/PTF.LogfileReader.zip here]||
+||[#EmailCount EmailCount]||1.0.1.1||12/07/2009||[http://prtg7addons.googlecode.com/files/PTF.EmailCount.zip here]||
 
 == General ==
 All Custom Sensors listed target the _.net framework 2.0_.
@@ -87,4 +88,26 @@ Enter the credentials (username and password), filename and searchstring in the 
 
 === Version history ===
 ====1.0.1.1 _06/07/2009_====
+ * First public version
+
+----
+
+== !EmailCount ==
+=== Summary ===
+This Custom Sensor returns the total number of messages in a users inbox.
+
+Enter the credentials (username and password) and emailserver in the Parameters section of the Sensor Settings:
+{{{
+-u=username -p=password -s=emailserver [-o=serverport -ssl]
+
+example:
+-s=balu.krijco.loc -u=gf -p=****
+or
+-s=pop.gmail.com -u=account@gmail.com -p=***** -o=995 -ssl
+}}}
+
+ back to [#Latest_versions: top]
+
+=== Version history ===
+====1.0.1.1 _12/07/2009_====
  * First public version
