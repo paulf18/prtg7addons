@@ -101,9 +101,9 @@ Enter the credentials (username and password) and emailserver in the Parameters 
 -u=username -p=password -s=emailserver [-o=serverport -ssl]
 
 example:
--s=balu.krijco.loc -u=gf -p=****
+-s=balu.krijco.loc -u=john -p=****
 or
--s=pop.gmail.com -u=account@gmail.com -p=***** -o=995 -ssl
+-s=pop.gmail.com -u=john@gmail.com -p=***** -o=995 -ssl
 }}}
 
  back to [#Latest_versions: top]
