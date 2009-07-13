@@ -9,7 +9,7 @@ With this tool you can modify your PRTG Server download page to let your users d
 
 = Details =
 
-The modified section can be installed in English, German and Dutch.
+The modified section can be installed in English, German, French, Spanish and Dutch.
 After running the tool, your PRTG Server download page can look like this:
 
 http://gf-ptf.googlecode.com/files/distribution.png
