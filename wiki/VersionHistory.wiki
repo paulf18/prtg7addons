@@ -14,7 +14,7 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 ||NotifierCE||2.0.1.1||21/06/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierCE.zip here]||
 ||!NotifierProxy||1.0.0.5||21/06/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierProxy.zip here]||
 ||!ProxyConfigurator||1.0.0.3||22/04/2009||[http://prtg7addons.googlecode.com/files/Krijco.ProxyConfigurator.zip here]||
-||Distribution Tool||1.0.1.2||15/05/2009||[http://prtg7addons.googlecode.com/files/Krijco.Distribution%20tool.zip here]||
+||Distribution Tool||1.0.1.5||13/07/2009||[http://prtg7addons.googlecode.com/files/Krijco.Distribution%20tool.zip here]||
 
 ==TrayNotifier==
 ====2.0.2.1 _10/07/2009_====
