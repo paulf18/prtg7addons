@@ -14,6 +14,9 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 ||[#LogFileReader LogFileReader]||1.0.1.1||06/07/2009||[http://prtg7addons.googlecode.com/files/PTF.LogfileReader.zip here]||
 ||[#EmailCount EmailCount]||1.0.1.1||12/07/2009||[http://prtg7addons.googlecode.com/files/PTF.EmailCount.zip here]||
 
+== Overview ==
+http://gf-ptf.googlecode.com/files/CustomSensors.png
+
 == General ==
 All Custom Sensors listed target the _.net framework 2.0_.
 
