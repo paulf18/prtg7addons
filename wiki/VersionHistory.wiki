@@ -8,7 +8,7 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 
 *Latest versions:*
 || *Application* || *Version* || *Date* || *Download* ||
-||!TrayNotifier||2.0.2.1||10/07/2009||[http://prtg7addons.googlecode.com/files/Krijco.TrayNotifier.zip here]||
+||!TrayNotifier||2.0.2.2||29/07/2009||[http://prtg7addons.googlecode.com/files/Krijco.TrayNotifier.zip here]||
 ||!NotifierGadget||1.0.4||15/06/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierGadget.zip here]||
 ||NotifierGadgetXP||1.0.2||26/05/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierGadgetXP.zip here]||
 ||NotifierCE||2.0.1.1||21/06/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierCE.zip here]||
@@ -17,6 +17,8 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 ||Distribution Tool||1.0.1.5||13/07/2009||[http://prtg7addons.googlecode.com/files/Krijco.Distribution%20tool.zip here]||
 
 ==TrayNotifier==
+====2.0.2.2 _29/07/2009_====
+ * Bugfix: In the latest PRTG version, some DOWN sensors do not produce there downtime anymore. This could cause the TrayNotifier not to refresh, showing the refresh seconds in red.
 ====2.0.2.1 _10/07/2009_====
  * New: Added translation Czech.
  * New: Sensor Overview showing the status of all sensors with the same name. (i.e. all your temperature sensors in one overview) 
