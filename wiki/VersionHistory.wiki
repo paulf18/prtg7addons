@@ -8,7 +8,7 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 
 *Latest versions:*
 || *Application* || *Version* || *Date* || *Download* ||
-||!TrayNotifier||3.0.1.2||19/08/2009||[http://prtg7addons.googlecode.com/files/Krijco.TrayNotifier.zip here]||
+||!TrayNotifier||3.0.2.1||26/08/2009||[http://prtg7addons.googlecode.com/files/Krijco.TrayNotifier.zip here]||
 ||!NotifierGadget||1.0.4||15/06/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierGadget.zip here]||
 ||NotifierGadgetXP||1.0.2||26/05/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierGadgetXP.zip here]||
 ||NotifierCE||2.0.1.1||21/06/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierCE.zip here]||
