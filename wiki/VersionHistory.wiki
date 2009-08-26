@@ -18,9 +18,15 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 ||Translation Tool||1.0.1.1||05/08/2009||[http://prtg7addons.googlecode.com/files/PTF.PTF%20Translate.zip here]||
 
 ==TrayNotifier==
+====3.0.2.1 _26/08/2009_====
+ * Changed: Improved loading of the Sensor Tree.
+ * Changed: Clicking the "sensor tree" link from the sensors window wil bring you automatically to the selected sensor.
+ * Changed: Improved filter settings for userdefined applications.
+ * New: Integrated VNC Viewer.
+ * New: Added collapse option to the sensor tree.
 ====3.0.1.2 _19/08/2009_====
  * Changed: All settings are now concentrated in one screen.
- * Changed: The !TreeView has been altered to show more instant information.
+ * Changed: The Sensor Tree has been altered to show more instant information.
  * New: Added proxy settings for contacting your PRTG server.
  * The !TrayNotifier is now compatible with PRTG 7.2
 ====2.0.2.2 _29/07/2009_====
