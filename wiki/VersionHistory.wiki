@@ -8,7 +8,7 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 
 *Latest versions:*
 || *Application* || *Version* || *Date* || *Download* ||
-||!TrayNotifier||3.0.2.1||26/08/2009||[http://prtg7addons.googlecode.com/files/Krijco.TrayNotifier.zip here]||
+||!TrayNotifier||3.0.3.1||03/09/2009||[http://prtg7addons.googlecode.com/files/Krijco.TrayNotifier.zip here]||
 ||!NotifierGadget||1.0.4||15/06/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierGadget.zip here]||
 ||NotifierGadgetXP||1.0.2||26/05/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierGadgetXP.zip here]||
 ||NotifierCE||2.0.1.1||21/06/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierCE.zip here]||
@@ -18,6 +18,15 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 ||Translation Tool||1.0.1.1||05/08/2009||[http://prtg7addons.googlecode.com/files/PTF.PTF%20Translate.zip here]||
 
 ==TrayNotifier==
+====3.0.3.1 _03/09/2009_====
+ * Changed: Login to device pages without showing username and passhash.
+ * Changed: A read-only account will now be presented with less options instead of returning an error message
+ * Changed: Small improvements in the user interface
+ * New: Sensor Tree now supports drag and drop rearranging sensors, devices and groups.
+ * New: The Sensor Tree context menu now supports:
+  * Renaming of objects
+  * Deleting objects
+  * Adding objects
 ====3.0.2.1 _26/08/2009_====
  * Changed: Improved loading of the Sensor Tree.
  * Changed: Clicking the "sensor tree" link from the sensors window wil bring you automatically to the selected sensor.
