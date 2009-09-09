@@ -14,7 +14,7 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 ||NotifierCE||2.0.1.1||21/06/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierCE.zip here]||
 ||!NotifierProxy||1.0.0.5||21/06/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierProxy.zip here]||
 ||!ProxyConfigurator||1.0.0.3||22/04/2009||[http://prtg7addons.googlecode.com/files/Krijco.ProxyConfigurator.zip here]||
-||Distribution Tool||1.0.1.5||13/07/2009||[http://prtg7addons.googlecode.com/files/Krijco.Distribution%20tool.zip here]||
+||Distribution Tool||1.0.2.1||09/09/2009||[http://prtg7addons.googlecode.com/files/Krijco.Distribution%20tool.zip here]||
 ||Translation Tool||1.0.1.1||05/08/2009||[http://prtg7addons.googlecode.com/files/PTF.PTF%20Translate.zip here]||
 
 ==TrayNotifier==
@@ -159,6 +159,14 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
  * Changed the sidegrip to look more like a real gadget.
  * Fixed an issue where the bottom of the server name could be chopped of.
 ====1.0.1 _11/05/2009_====
+ * First public version
+
+----
+
+==[Distribution Distribution Tool]==
+====1.0.2.1 _09/09/2009_====
+ * Changed the look of the modified download page to match PRTG 7.2
+====1.0.1.5 _13/07/2009_====
  * First public version
 
 ----
