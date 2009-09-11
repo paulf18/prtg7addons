@@ -15,7 +15,7 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 ||!NotifierProxy||1.0.0.5||21/06/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierProxy.zip here]||
 ||!ProxyConfigurator||1.0.0.3||22/04/2009||[http://prtg7addons.googlecode.com/files/Krijco.ProxyConfigurator.zip here]||
 ||Distribution Tool||1.0.2.1||09/09/2009||[http://prtg7addons.googlecode.com/files/Krijco.Distribution%20tool.zip here]||
-||Translation Tool||1.0.1.1||05/08/2009||[http://prtg7addons.googlecode.com/files/PTF.PTF%20Translate.zip here]||
+||Translation Tool||1.0.2.1||11/09/2009||[http://prtg7addons.googlecode.com/files/PTF.PTF%20Translate.zip here]||
 
 ==TrayNotifier==
 ====3.0.4.1 _07/09/2009_====
@@ -172,5 +172,8 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 ----
 
 ==[Translate Translation Tool]==
+====1.0.2.1 _11/09/2009_====
+ * Bugfix: After deleting (a) row(s) the remaining rows are now renumbered.
+ * New: Added drag and drop functionality to the grid (files can be dropped on the grid)
 ====1.0.1.1 _05/08/2009_====
  * First public version
