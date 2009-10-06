@@ -8,16 +8,20 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 
 *Latest versions:*
 || *Application* || *Version* || *Date* || *Download* ||
-||!TrayNotifier||3.0.4.3||14/09/2009||[http://prtg7addons.googlecode.com/files/Krijco.TrayNotifier.zip here]||
+||!TrayNotifier||3.0.5.2||30/09/2009||[http://prtg7addons.googlecode.com/files/Krijco.TrayNotifier.zip here]||
 ||!NotifierGadget||1.0.4||15/06/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierGadget.zip here]||
 ||NotifierGadgetXP||1.0.2||26/05/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierGadgetXP.zip here]||
 ||NotifierCE||2.0.1.1||21/06/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierCE.zip here]||
 ||!NotifierProxy||1.0.0.5||21/06/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierProxy.zip here]||
 ||!ProxyConfigurator||1.0.0.3||22/04/2009||[http://prtg7addons.googlecode.com/files/Krijco.ProxyConfigurator.zip here]||
 ||Distribution Tool||1.0.2.1||09/09/2009||[http://prtg7addons.googlecode.com/files/Krijco.Distribution%20tool.zip here]||
-||Translation Tool||1.0.2.1||11/09/2009||[http://prtg7addons.googlecode.com/files/PTF.PTF%20Translate.zip here]||
+||Translation Tool||1.0.3.1||06/10/2009||[http://prtg7addons.googlecode.com/files/PTF.PTF%20Translate.zip here]||
 
 ==TrayNotifier==
+====3.0.5.2 _30/09/2009_====
+ * Bugfix: Getting graphs from the PRTG server did not use the configured proxy.
+ * Changed: Downloading an update now automatically installs the update.
+ * New: Option to acknowledge a down sensor (PRTG 7.2).
 ====3.0.4.3 _14/09/2009_====
  * Bugfix: The object rename event in the Sensor Tree could fire unexpected.
  * Bugfix: Improved backwards compatibility with PRTG 7.1
@@ -172,6 +176,9 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 ----
 
 ==[Translate Translation Tool]==
+====1.0.3.1 _06/10/2009_====
+ * Changed: Small changes in the user interface.
+ * New: Check for changes in the original strings when merging a file.
 ====1.0.2.1 _11/09/2009_====
  * Bugfix: After deleting (a) row(s) the remaining rows are now renumbered.
  * New: Added drag and drop functionality to the grid (files can be dropped on the grid)
