@@ -9,7 +9,7 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 ====Latest versions:====
 || *Sensor* || *Version* || *Date* || *Download* ||
 ||[#PassHash PassHash Tool]||1.0.1.1||06/08/2009||[http://prtg7addons.googlecode.com/files/PTF.PassHash%20Tool.zip here]||
-||[#CheckPRTGVersion CheckPRTGVersion]||1.0.2.1||18/08/2009||[http://prtg7addons.googlecode.com/files/PTF.CheckPRTGVersion.zip here]||
+||[#CheckPRTGVersion CheckPRTGVersion]||1.0.3.1||07/10/2009||[http://prtg7addons.googlecode.com/files/PTF.CheckPRTGVersion.zip here]||
 ||[#FTPFileCount FTPFileCount]||1.0.2.1||06/08/2009||[http://prtg7addons.googlecode.com/files/PTF.FTPFileCount.zip here]||
 ||[#NetworkFileCount NetworkFileCount]||1.0.2.1||06/08/2009||[http://prtg7addons.googlecode.com/files/PTF.NetworkFileCount.zip here]||
 ||[#LogFileReader LogFileReader]||1.0.2.1||06/08/2009||[http://prtg7addons.googlecode.com/files/PTF.LogfileReader.zip here]||
@@ -45,12 +45,14 @@ This Custom Sensor compares your local PRTG version number with the last version
 
 Enter the ip-address and optional portnumber of your local PRTG server in the Parameters section of the Sensor Settings:
 {{{
-192.168.1.1:8080
+192.168.1.1:8080 [-ssl]
 }}}
 
  back to [#Latest_versions: top]
 
 === Version history === 
+====1.0.3.1 _07/10/2009_====
+ * Added optional parameter to force a https connection to the local PRTG server
 ====1.0.2.1 _18/08/2009_====
  * Added compatibility with PRTG 7.2
 ====1.0.1.1 _29/06/2009_====
