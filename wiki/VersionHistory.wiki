@@ -16,6 +16,7 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 ||!ProxyConfigurator||1.0.0.3||22/04/2009||[http://prtg7addons.googlecode.com/files/Krijco.ProxyConfigurator.zip here]||
 ||Distribution Tool||1.0.2.1||09/09/2009||[http://prtg7addons.googlecode.com/files/Krijco.Distribution%20tool.zip here]||
 ||Translation Tool||1.0.3.1||06/10/2009||[http://prtg7addons.googlecode.com/files/PTF.PTF%20Translate.zip here]||
+||Map Designer ||1.0.1.1||07/10/2009||[http://prtg7addons.googlecode.com/files/PTF.PTF%20Mapdesigner.zip here]||
 
 ==TrayNotifier==
 ====3.0.5.2 _30/09/2009_====
@@ -183,4 +184,10 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
  * Bugfix: After deleting (a) row(s) the remaining rows are now renumbered.
  * New: Added drag and drop functionality to the grid (files can be dropped on the grid)
 ====1.0.1.1 _05/08/2009_====
+ * First public version
+
+----
+
+==[Mapdesigner Map designer]==
+====1.0.1.1 _07/10/2009_====
  * First public version
