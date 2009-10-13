@@ -8,7 +8,7 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 
 *Latest versions:*
 || *Application* || *Version* || *Date* || *Download* ||
-||!TrayNotifier||3.0.5.2||30/09/2009||[http://prtg7addons.googlecode.com/files/Krijco.TrayNotifier.zip here]||
+||!TrayNotifier||3.0.6.1||13/10/2009||[http://prtg7addons.googlecode.com/files/Krijco.TrayNotifier.zip here]||
 ||!NotifierGadget||1.0.4||15/06/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierGadget.zip here]||
 ||NotifierGadgetXP||1.0.2||26/05/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierGadgetXP.zip here]||
 ||NotifierCE||2.0.1.1||21/06/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierCE.zip here]||
@@ -19,6 +19,10 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 ||Map Designer ||1.0.2.1||12/10/2009||[http://prtg7addons.googlecode.com/files/PTF.Mapdesigner.zip here]||
 
 ==TrayNotifier==
+====3.0.6.1 _13/10/2009_====
+ * Bugfix: In version 7.2.1.4722 PRTG made some changes in the xml output that caused warning sensors not to showup anymore.
+ * New: Added a live graph to the Sensor Tree window.
+ * New: Added a bar graph to the Sensor Overview window.
 ====3.0.5.2 _30/09/2009_====
  * Bugfix: Getting graphs from the PRTG server did not use the configured proxy.
  * Changed: Downloading an update now automatically installs the update.
