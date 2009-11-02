@@ -16,7 +16,7 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 ||!ProxyConfigurator||1.0.0.3||22/04/2009||[http://prtg7addons.googlecode.com/files/Krijco.ProxyConfigurator.zip here]||
 ||Distribution Tool||1.0.2.1||09/09/2009||[http://prtg7addons.googlecode.com/files/Krijco.Distribution%20tool.zip here]||
 ||Translation Tool||1.0.3.1||06/10/2009||[http://prtg7addons.googlecode.com/files/PTF.PTF%20Translate.zip here]||
-||Map Designer ||1.0.2.1||12/10/2009||[http://prtg7addons.googlecode.com/files/PTF.Mapdesigner.zip here]||
+||Map Designer ||1.0.3.1||02/11/2009||[http://prtg7addons.googlecode.com/files/PTF.Mapdesigner.zip here]||
 
 ==TrayNotifier==
 ====3.0.6.1 _13/10/2009_====
@@ -193,6 +193,13 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 ----
 
 ==[Mapdesigner Map designer]==
+====1.0.3.1 _02/11/2009_====
+ * Bugfix: Background image did not resize anymore after loading an saved .pic file.
+ * Bugfix: Exporting to .png also exported the grabhandles (if shown).
+ * New: Objects can now also be moved using the arrow keys on the keyboard.
+ * New: Objects can now be resized.
+ * New: Texts can now be edited.
+ * New: Option to check for online updates.
 ====1.0.2.1 _12/10/2009_====
  * New: Added the option to add images and icons.
  * Changed: Small changes in the userinterface.
