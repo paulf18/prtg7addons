@@ -16,7 +16,7 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 ||!ProxyConfigurator||1.0.0.3||22/04/2009||[http://prtg7addons.googlecode.com/files/Krijco.ProxyConfigurator.zip here]||
 ||Distribution Tool||1.0.2.1||09/09/2009||[http://prtg7addons.googlecode.com/files/Krijco.Distribution%20tool.zip here]||
 ||Translation Tool||1.0.3.1||06/10/2009||[http://prtg7addons.googlecode.com/files/PTF.PTF%20Translate.zip here]||
-||Map Designer ||1.0.3.1||02/11/2009||[http://prtg7addons.googlecode.com/files/PTF.Mapdesigner.zip here]||
+||Map Designer ||1.0.4.1||09/11/2009||[http://prtg7addons.googlecode.com/files/PTF.Mapdesigner.zip here]||
 
 ==TrayNotifier==
 ====3.0.6.1 _13/10/2009_====
@@ -193,6 +193,10 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 ----
 
 ==[Mapdesigner Map designer]==
+====1.0.4.1 _09/11/2009_====
+ * Bugfix: Images sometimes did not resize after loading a saved .pic file.
+ * New: Objects properties window lets you manually enter the objects position.
+ * New: Images can now besides .png also be saved as .jpg and .gif.
 ====1.0.3.1 _02/11/2009_====
  * Bugfix: Background image did not resize anymore after loading an saved .pic file.
  * Bugfix: Exporting to .png also exported the grabhandles (if shown).
