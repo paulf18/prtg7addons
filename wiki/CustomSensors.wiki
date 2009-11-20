@@ -167,9 +167,11 @@ Enter the credentials (username and password), filename, section name and field 
 === Summary ===
 This sensor pings a device and goes into a warning state if no reply is received.
 
-Enter the ip-address|hostname and optional parameters in the Parameters section of the Sensor Settings:
+Enter the ip-address|DNSname and optional parameters in the Parameters section of the Sensor Settings (_you can also use the %host placeholder to refer to the ip-address|DNSname of the parent device_):
 {{{
 192.168.1.1 [-w=500] [-i=64] [-l=32]
+or
+%host [-w=500] [-i=64] [-l=32]
 }}}
 
  back to [#Latest_versions: top]
