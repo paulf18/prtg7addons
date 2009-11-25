@@ -1,7 +1,7 @@
 #summary Krijco PRTG Tools: Notifier Documentation
 #sidebar KrijcoWikiSidebar
 
-=[http://prtg7addons.googlecode.com/files/Krijco.PRTG%20Tools%20Family%201.5.pdf Please download the complete Documentation pdf v1.5 here.]=
+=[http://prtg7addons.googlecode.com/files/Krijco.PRTG%20Tools%20Family%201.6.pdf Please download the complete Documentation pdf v1.6 here.]=
 
 
 
