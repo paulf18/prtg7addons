@@ -9,13 +9,13 @@
 # Check out http://www.connectionstrings.com/ or http://www.w3schools.com/ADO/default.asp for help on ADO
 
 # Sample for Microsoft Access Database
-# $myconnectionstring = "Provider = Microsoft.Jet.OLEDB.4.0; Data Source = c:\temp\sample.mdb"
+# $myconnectionstring = "Provider = Microsoft.Jet.OLEDB.4.0; Data Source = c:\test\sample.mdb"
 
 # Sample for MS SQL Server
 # $myconnectionstring = "Provider=SQLOLEDB.1;Password=test;Persist Security Info=True;User ID=test;Initial Catalog=yourname;Data Source=10.1.4.105\SQLEXPRESS"
 
 # Sample for Oracle Database
-# $myConnectionString = "Provider=MSDAORA.1;Password=test;User ID=SYSTEM;Data Source=test;Persist Security Info=True"
+# $myConnectionString = "Provider=MSDAORA.1;Password=test;User ID=test;Data Source=test;Persist Security Info=True"
 
 
 #************ Set Your SQL Statement Parameters here ****************
