@@ -18,6 +18,7 @@ There are:
 
   * Powershell Scripts:
     * Demo Powershell Script - Available MB via WMI.ps1
+    * Demo Powershell Script - Connecting to database with ADO.ps1
     * Demo Powershell Script - InterruptsPerSec via WMI.ps1	
     * Demo Powershell Script - Returns a fixed integer value.ps1
     * Demo Powershell Script - Virtual Machine Freespace of Datastore.ps1
