@@ -15,7 +15,7 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 ||!NotifierProxy||1.0.0.5||21/06/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierProxy.zip here]||
 ||!ProxyConfigurator||1.0.0.3||22/04/2009||[http://prtg7addons.googlecode.com/files/Krijco.ProxyConfigurator.zip here]||
 ||Distribution Tool||1.0.2.1||09/09/2009||[http://prtg7addons.googlecode.com/files/Krijco.Distribution%20tool.zip here]||
-||Translation Tool||1.0.3.1||06/10/2009||[http://prtg7addons.googlecode.com/files/PTF.Translate.zip here]||
+||Translation Tool||1.0.4.1||28/11/2009||[http://prtg7addons.googlecode.com/files/PTF.Translate.zip here]||
 ||Map Designer ||1.0.4.1||09/11/2009||[http://prtg7addons.googlecode.com/files/PTF.Mapdesigner.zip here]||
 
 ==TrayNotifier==
@@ -181,6 +181,9 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 ----
 
 ==[Translate Translation Tool]==
+====1.0.4.1 _28/11/2009_====
+ * New: Option to automatically make backup files when saving a translation file.
+ * New: Option to check for online updates. 
 ====1.0.3.1 _06/10/2009_====
  * Changed: Small changes in the user interface.
  * New: Check for changes in the original strings when merging a file.
