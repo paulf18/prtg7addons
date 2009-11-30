@@ -15,7 +15,7 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 ||[#LogFileReader LogFileReader]||1.0.2.1||06/08/2009||[http://prtg7addons.googlecode.com/files/PTF.LogfileReader.zip here]||
 ||[#EmailCount EmailCount]||1.0.2.1||06/08/2009||[http://prtg7addons.googlecode.com/files/PTF.EmailCount.zip here]||
 ||[#INIFileValue INIFileValue]||1.0.1.1||16/11/2009||[http://prtg7addons.googlecode.com/files/PTF.INIFileValue.zip here]||
-||[#PingWarning PingWarning]||1.0.1.1||16/11/2009||[http://prtg7addons.googlecode.com/files/PTF.PingWarning.zip here]||
+||[#PingWarning PingWarning]||1.0.2.1||30/11/2009||[http://prtg7addons.googlecode.com/files/PTF.PingWarning.zip here]||
 
 == Overview ==
 http://gf-ptf.googlecode.com/files/CustomSensors.png
@@ -177,5 +177,7 @@ or
  back to [#Latest_versions: top]
 
 === Version history ===
+====1.0.2.1 _30/11/2009_====
+ * Added the ICMP error number to the sensor status output
 ====1.0.1.1 _16/11/2009_====
  * First public version
