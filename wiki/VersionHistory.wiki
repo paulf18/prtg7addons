@@ -9,7 +9,7 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 *Latest versions:*
 || *Application* || *Version* || *Date* || *Download* ||
 ||!TrayNotifier||3.0.6.1||13/10/2009||[http://prtg7addons.googlecode.com/files/Krijco.TrayNotifier.zip here]||
-||!NotifierGadget||1.0.4||15/06/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierGadget.zip here]||
+||!NotifierGadget||1.0.5||01/12/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierGadget.zip here]||
 ||NotifierGadgetXP||1.0.2||26/05/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierGadgetXP.zip here]||
 ||NotifierCE||2.0.1.1||21/06/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierCE.zip here]||
 ||!NotifierProxy||1.0.0.5||21/06/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierProxy.zip here]||
@@ -149,6 +149,8 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 ----
 
 ==NotifierGadget==
+====1.0.5 _01/12/2009_====
+ * Fixed a bug where characters like "#" in the username or password were not correctly parsed to the PRTG server.
 ====1.0.4 _15/06/2009_====
  * fixed a bug where the number of alarms, warnings and paused sensors if more than 8 were displayed incorrectly.
 ====1.0.3 _21/04/2009_====
