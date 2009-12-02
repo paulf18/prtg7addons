@@ -16,4 +16,4 @@ For more details, see the pdf that is included in the [VersionHistory download].
 
 
 === Or watch this instruction video: ===
-<wiki:video url="http://www.youtube.com/watch?v=qQUCtgUDd4I" width=892 height=730/>
+<wiki:video url="http://www.youtube.com/watch?v=qQUCtgUDd4I" width=728 height=570/>
