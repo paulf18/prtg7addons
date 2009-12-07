@@ -17,6 +17,7 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 ||Distribution Tool||1.0.2.1||09/09/2009||[http://prtg7addons.googlecode.com/files/Krijco.Distribution%20tool.zip here]||
 ||Translation Tool||1.0.4.1||28/11/2009||[http://prtg7addons.googlecode.com/files/PTF.Translate.zip here]||
 ||Map Designer ||1.0.4.1||09/11/2009||[http://prtg7addons.googlecode.com/files/PTF.Mapdesigner.zip here]||
+||Distribute Sensors ||1.0.1.1||07/12/2009||[http://prtg7addons.googlecode.com/files/PTF.DistributeSensors.zip here]||
 
 ==TrayNotifier==
 ====3.0.6.1 _13/10/2009_====
@@ -213,4 +214,10 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
  * New: Added the option to add images and icons.
  * Changed: Small changes in the userinterface.
 ====1.0.1.1 _07/10/2009_====
+ * First public version.
+
+----
+
+==[DistributeSensors Distribute Sensors]==
+====1.0.1.1 _07/12/2009_====
  * First public version.
