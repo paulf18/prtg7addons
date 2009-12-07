@@ -16,6 +16,7 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
  * ====[Translate Translation tool]====
  * ====[Mapdesigner Map Designer]====
  * ====[CustomSensors Custom Sensors]====
+ * ====[DistributeSensors Distribute Sensors]====
 
 
  ----
@@ -32,4 +33,3 @@ http://gf-ptf.googlecode.com/files/blogger.png [http://prtg-tools-family.blogspo
 
 ====Comments, Suggestions or Feature Requests?====
 http://gf-ptf.googlecode.com/files/Mail-48x48.png Leave a note [http://code.google.com/p/prtg7addons/wiki/UserFeedback here]
- 
