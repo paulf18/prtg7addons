@@ -1,0 +1,23 @@
+#summary PTF DistributeSensors: distribute (updates of) custom sensors to your PRTG probes.
+#sidebar KrijcoWikiSidebar
+
+= Introduction =
+PTF Distribute Sensors is a tool used to distribute (updates of) custom sensors to your PRTG Probes.
+
+
+= Details =
+
+Start PTF Distribute Sensors and add your Probes to the list. 
+Next, select the custom sensor you want to copy and the Probes you want to update. 
+
+http://gf-ptf.googlecode.com/files/DistributeSensors.png
+
+= Features =
+ * Select the sensor you want to distribute or update.
+ * Select one or more probes to copy the sensor to.
+ * Optionally provide credentials for each probe with write access to the probes custom sensor folder.
+ * Progress indicator and error reporting.
+ 
+
+
+For more details, see the pdf that is included in the [VersionHistory download].
