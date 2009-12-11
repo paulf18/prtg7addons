@@ -17,6 +17,7 @@ http://gf-ptf.googlecode.com/files/DistributeSensors.png
  * Select one or more probes to copy the sensor to.
  * Optionally provide credentials for each probe with write access to the probes custom sensor folder.
  * Progress indicator and error reporting.
+ * Connect to your Probes by it's UNC path or by using the Distribute Sensors web service that is included in the download.
  
 
 
