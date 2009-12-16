@@ -32,7 +32,7 @@ Comments, suggestions, feature requests? Leave a note [http://code.google.com/p/
 
 == !PassHash Tool ==
 === Summary ===
-This tool can be used in combination with PTF sensors that require a users password to be entered in the sensors settings section. The !PassHash can be used instead off the given password. [http://code.google.com/p/gf-ptf/wiki/PassHash details]
+This tool can be used in combination with PTF sensors that require a users password to be entered in the sensors settings section. The !PassHash can be used instead off the given password. [PassHash details]
 
  back to [#Latest_versions: top]
 
