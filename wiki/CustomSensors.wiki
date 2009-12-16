@@ -188,6 +188,7 @@ or
 == CSVExport ==
 === Summary ===
 This sensor exports the data of a sensor to a .csv file.
+More [CSVExportSensor details]
 {{{
 -pu=demo -pp=demodemo -ps=https://prtg.paessler.com -s=2008
 }}}
