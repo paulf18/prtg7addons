@@ -8,7 +8,7 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 
 ====Latest versions:====
 || *Sensor* || *Version* || *Date* || *Download* ||
-||[#PassHash PassHash Tool]||1.0.1.1||06/08/2009||[http://prtg7addons.googlecode.com/files/PTF.PassHash%20Tool.zip here]||
+||[#PassHash_Tool PassHash Tool]||1.0.1.1||06/08/2009||[http://prtg7addons.googlecode.com/files/PTF.PassHash%20Tool.zip here]||
 ||[#CheckPRTGVersion CheckPRTGVersion]||1.0.4.1||14/10/2009||[http://prtg7addons.googlecode.com/files/PTF.CheckPRTGVersion.zip here]||
 ||[#FTPFileCount FTPFileCount]||1.0.2.1||06/08/2009||[http://prtg7addons.googlecode.com/files/PTF.FTPFileCount.zip here]||
 ||[#NetworkFileCount NetworkFileCount]||1.0.2.1||06/08/2009||[http://prtg7addons.googlecode.com/files/PTF.NetworkFileCount.zip here]||
@@ -30,7 +30,7 @@ Comments, suggestions, feature requests? Leave a note [http://code.google.com/p/
 
 ----
 
-== !PassHash Tool ==
+== !PassHash_Tool ==
 === Summary ===
 This tool can be used in combination with PTF sensors that require a users password to be entered in the sensors settings section. The !PassHash can be used instead off the given password. [PassHash details]
 
