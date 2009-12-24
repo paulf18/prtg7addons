@@ -1,4 +1,4 @@
-#summary PTF CSVExport Tool: Get sensor data from your PRTG Server and exports it to a .csv or .xml file..
+#summary PTF CSVExport Tool: Get sensor data from your PRTG Server and export it to a .csv or .xml file..
 #sidebar KrijcoWikiSidebar
 
 = Introduction =
