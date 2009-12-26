@@ -1,6 +1,6 @@
 #summary Sidebar. Do NOT DELETE !!!
 #labels Deprecated
-http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
+http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png http://gf-ptf.googlecode.com/files/kerstballen.gif
 =PRTG Tools Family=
 
  ----
