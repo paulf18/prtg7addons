@@ -6,20 +6,25 @@
 http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png http://gf-ptf.googlecode.com/files/sneeuwpop.gif
 
 
-*Latest versions:*
+====Latest versions:====
 || *Application* || *Version* || *Date* || *Download* ||
-||!TrayNotifier||3.0.6.1||13/10/2009||[http://prtg7addons.googlecode.com/files/Krijco.TrayNotifier.zip here]||
-||!NotifierGadget||1.0.5||01/12/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierGadget.zip here]||
-||NotifierGadgetXP||1.0.2||26/05/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierGadgetXP.zip here]||
-||NotifierCE||2.0.1.1||21/06/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierCE.zip here]||
-||!NotifierProxy||1.0.0.5||21/06/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierProxy.zip here]||
-||!ProxyConfigurator||1.0.0.3||22/04/2009||[http://prtg7addons.googlecode.com/files/Krijco.ProxyConfigurator.zip here]||
-||Distribution Tool||1.0.2.1||09/09/2009||[http://prtg7addons.googlecode.com/files/Krijco.Distribution%20tool.zip here]||
-||Translation Tool||1.0.4.1||28/11/2009||[http://prtg7addons.googlecode.com/files/PTF.Translate.zip here]||
-||Map Designer ||1.0.4.1||09/11/2009||[http://prtg7addons.googlecode.com/files/PTF.Mapdesigner.zip here]||
-||Distribute Sensors ||1.0.1.1||07/12/2009||[http://prtg7addons.googlecode.com/files/PTF.DistributeSensors.zip here]||
+||[#TrayNotifier_version_history TrayNotifier]||3.0.6.1||13/10/2009||[http://prtg7addons.googlecode.com/files/Krijco.TrayNotifier.zip here]||
+||[#NotifierGadget_version_history NotifierGadget]||1.0.5||01/12/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierGadget.zip here]||
+||[#NotifierGadgetXP_version_history NotifierGadgetXP]||1.0.2||26/05/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierGadgetXP.zip here]||
+||[#NotifierCE_version_history NotifierCE]||2.0.1.1||21/06/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierCE.zip here]||
+||[#Notifier_Proxy_version_history Notifier Proxy]||1.0.0.5||21/06/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierProxy.zip here]||
+||[#Proxy_Configurator_version_history Proxy Configurator]||1.0.0.3||22/04/2009||[http://prtg7addons.googlecode.com/files/Krijco.ProxyConfigurator.zip here]||
+||[#Distribution_Tool_version_history Distribution Tool]||1.0.2.1||09/09/2009||[http://prtg7addons.googlecode.com/files/Krijco.Distribution%20tool.zip here]||
+||[#Translation_Tool_version_history Translation Tool]||1.0.4.1||28/11/2009||[http://prtg7addons.googlecode.com/files/PTF.Translate.zip here]||
+||[#Map_Designer_version_history Map Designer] ||1.0.4.1||09/11/2009||[http://prtg7addons.googlecode.com/files/PTF.Mapdesigner.zip here]||
+||[#Distribute_Sensors_version_history Distribute Sensors]||1.0.2.1||28/12/2009||[http://prtg7addons.googlecode.com/files/PTF.DistributeSensors.zip here]||
 
-==TrayNotifier==
+==!TrayNotifier version history==
+=== Summary ===
+The !TrayNotifier is installed in the system tray, presenting the PRTG icon. When an alarm condition occurs, the icon becomes a flashing red dot. Right-clicking the icon, pops up a menu with various actions. [TrayNotifier details]
+
+ back to [#Latest_versions: top]
+
 ====3.0.6.1 _13/10/2009_====
  * Bugfix: In version 7.2.1.4722 PRTG made some changes in the xml output that caused warning sensors not to showup anymore.
  * New: Added a live graph to the Sensor Tree window.
@@ -107,7 +112,12 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png http://gf-ptf.goog
 
 ----
 
-==[NotifierCE NotifierCE]==
+==NotifierCE version history==
+=== Summary ===
+The NotifierCE runs on Windows CE powered mobile phones and can display the status of sensors from a PRTG installation. [NotifierCE details]
+
+ back to [#Latest_versions: top]
+
 ====2.0.1.1 _21/06/2009_====
  * New: Autorefresh feature can refresh the data in the sensor window every xx minutes.
  * New: Play an alarm sound if new alarm conditions occur.
@@ -123,7 +133,12 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png http://gf-ptf.goog
 
 ----
 
-==[NotifierProxy Notifier Proxy]==
+==Notifier Proxy version history==
+=== Summary ===
+The !NotifierProxy allows the !NotifierCE to connect to the Network Monitor server without the need to expose the server's web interface to the Internet. By using the !NotifierProxy the can also have the !NotifierGadget use the latency setting. [NotifierProxy details]
+
+ back to [#Latest_versions: top]
+
 ====1.0.0.5 _21/06/2009_====
  * Supports the NotifierCE version 2.0
 ====1.0.0.4 _13/04/2009_====
@@ -138,7 +153,10 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png http://gf-ptf.goog
 
 ----
 
-==[NotifierProxy Notifier Proxy Configurator]==
+==Proxy Configurator version history==
+
+ back to [#Latest_versions: top]
+
 ====1.0.0.3 _22/04/2009_====
  * Bugfix: Checking the alternate port checkbox was not always persistent.
 ====1.0.0.2 _05/04/2009_====
@@ -149,7 +167,12 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png http://gf-ptf.goog
 
 ----
 
-==NotifierGadget==
+==!NotifierGadget version history==
+=== Summary ===
+The !NotifierGadget is installed in the Vista sidebar, providing you with a constant view of the current number of alarms, warnings and paused sensors. [NotifierGadget details]
+
+ back to [#Latest_versions: top]
+
 ====1.0.5 _01/12/2009_====
  * Fixed a bug where characters like "#" in the username or password were not correctly parsed to the PRTG server.
 ====1.0.4 _15/06/2009_====
@@ -166,7 +189,11 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png http://gf-ptf.goog
 
 ----
 
-==[NotifierGadgetXP]==
+==NotifierGadgetXP version history==
+=== Summary ===
+The NotifierGadgetXP can be installed on a Windows XP system or Vista system not running the sidebar. the NotifierGadgetXP provides you with a constant view of the current number of alarms, warnings and paused sensors. [NotifierGadgetXP details]
+ 
+ back to [#Latest_versions: top]
 ====1.0.2 _26/05/2009_====
  * Changed the sidegrip to look more like a real gadget.
  * Fixed an issue where the bottom of the server name could be chopped of.
@@ -175,7 +202,11 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png http://gf-ptf.goog
 
 ----
 
-==[Distribution Distribution Tool]==
+==Distribution Tool version history==
+=== Summary ===
+With this tool you can modify your PRTG Server download page to let your users download the TrayNotifier and NotifierGadget from the download page of your own PRTG Server. [Distribution details]
+
+ back to [#Latest_versions: top]
 ====1.0.2.1 _09/09/2009_====
  * Changed the look of the modified download page to match PRTG 7.2
 ====1.0.1.5 _13/07/2009_====
@@ -183,7 +214,12 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png http://gf-ptf.goog
 
 ----
 
-==[Translate Translation Tool]==
+==Translation Tool version history==
+=== Summary ===
+PTF Translate is a tool used to create new language files for PRTG Network Monitor as well as for the !TrayNotifier. [Translate details]
+
+ back to [#Latest_versions: top]
+
 ====1.0.4.1 _28/11/2009_====
  * New: Option to automatically make backup files when saving a translation file.
  * New: Option to check for online updates. 
@@ -198,7 +234,12 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png http://gf-ptf.goog
 
 ----
 
-==[Mapdesigner Map designer]==
+==Map Designer version history==
+=== Summary ===
+PTF Map Designer is a tool used to create background images for PRTG maps. PTF Map Designer can be used as a transparent overlay over an existing PRTG map. [Mapdesigner details]
+
+ back to [#Latest_versions: top]
+
 ====1.0.4.1 _09/11/2009_====
  * Bugfix: Images sometimes did not resize after loading a saved .pic file.
  * New: Objects properties window lets you manually enter the objects position.
@@ -218,6 +259,14 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png http://gf-ptf.goog
 
 ----
 
-==[DistributeSensors Distribute Sensors]==
+==Distribute Sensors version history==
+=== Summary ===
+PTF Distribute Sensors is a tool used to distribute (updates of) custom sensors to your PRTG Probes. [DistributeSensors details]
+
+ back to [#Latest_versions: top]
+
+====1.0.2.1 _28/12/2009_====
+ * Changed: Although data is send encrypted between GUI and web service, the encryption was always the same. In theory, encrypted credentials could be reused. With this version, the encryption changes in each session, preventing encrypted credentials to be reused.
+
 ====1.0.1.1 _07/12/2009_====
  * First public version.
