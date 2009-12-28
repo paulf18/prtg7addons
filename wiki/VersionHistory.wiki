@@ -17,7 +17,7 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png http://gf-ptf.goog
 ||[#Distribution_Tool_version_history Distribution Tool]||1.0.2.1||09/09/2009||[http://prtg7addons.googlecode.com/files/Krijco.Distribution%20tool.zip here]||
 ||[#Translation_Tool_version_history Translation Tool]||1.0.4.1||28/11/2009||[http://prtg7addons.googlecode.com/files/PTF.Translate.zip here]||
 ||[#Map_Designer_version_history Map Designer] ||1.0.4.1||09/11/2009||[http://prtg7addons.googlecode.com/files/PTF.Mapdesigner.zip here]||
-||[#Distribute_Sensors_version_history Distribute Sensors]||1.0.2.1||28/12/2009||[http://prtg7addons.googlecode.com/files/PTF.DistributeSensors.zip here]||
+||[#Distribute_Sensors_version_history Distribute Sensors]||1.0.2.1||28/12/2009||[http://prtg7addons.googlecode.com/files/PTF.DistributeSensors.zip here]|| http://gf-ptf.googlecode.com/files/Arrow_Updated_50.png ||
 
 ==!TrayNotifier version history==
 === Summary ===
