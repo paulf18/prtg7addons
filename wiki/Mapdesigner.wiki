@@ -19,3 +19,5 @@ As the PTF Map Designer was positioned over and scaled to the size of your PRTG 
 
 
 http://gf-ptf.googlecode.com/files/Mapeditor2.png
+
+For more details, see the pdf that is included in the [VersionHistory download].
