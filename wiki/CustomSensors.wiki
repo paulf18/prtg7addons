@@ -2,9 +2,7 @@
 #labels Featured
 #sidebar KrijcoWikiSidebar
 
-
 http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png http://gf-ptf.googlecode.com/files/sneeuwpop.gif
-
 
 ====Latest versions:====
 || *Sensor* || *Version* || *Date* || *Download* ||
@@ -16,7 +14,7 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png http://gf-ptf.goog
 ||[#EmailCount EmailCount]||1.0.2.1||06/08/2009||[http://prtg7addons.googlecode.com/files/PTF.EmailCount.zip here]||
 ||[#INIFileValue INIFileValue]||1.0.1.1||16/11/2009||[http://prtg7addons.googlecode.com/files/PTF.INIFileValue.zip here]||
 ||[#PingWarning PingWarning]||1.0.2.1||30/11/2009||[http://prtg7addons.googlecode.com/files/PTF.PingWarning.zip here]||
-||[#CSVExport CSVExport]||1.0.1.1||16/12/2009||[http://prtg7addons.googlecode.com/files/PTF.CSVExport.zip here]||
+||[#CSVExport CSVExport]||1.0.2.1||28/12/2009||[http://prtg7addons.googlecode.com/files/PTF.CSVExport.zip here]||
 
 == Overview ==
 http://gf-ptf.googlecode.com/files/CustomSensors.png
@@ -187,7 +185,7 @@ or
 
 == CSVExport ==
 === Summary ===
-This sensor exports the data of a sensor to a .csv file.
+This sensor exports the data of a sensor to a .csv or .xml file.
 More [CSVExportSensor details]
 {{{
 -pu=demo -pp=demodemo -ps=https://prtg.paessler.com -s=2008
@@ -196,5 +194,11 @@ More [CSVExportSensor details]
  back to [#Latest_versions: top]
 
 === Version history ===
+====1.0.2.1 _28/12/2009_==== 
+ * New: added the -co switch to combine the data of multiple sensor into one file.
+ * New: added the -nh switch to ommit the column header line in a .csv export file.
+ * New: added the -ns switch to ommit the summary line in a .csv export file.
+ * New: added the -id switch to list the object ID in an export file.
+ * Changed: the CSVExport version number is now included in the .xml export file
 ====1.0.1.1 _16/12/2009_====
  * First public version
