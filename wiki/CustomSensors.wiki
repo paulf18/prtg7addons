@@ -14,7 +14,7 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png http://gf-ptf.goog
 ||[#EmailCount EmailCount]||1.0.2.1||06/08/2009||[http://prtg7addons.googlecode.com/files/PTF.EmailCount.zip here]||
 ||[#INIFileValue INIFileValue]||1.0.1.1||16/11/2009||[http://prtg7addons.googlecode.com/files/PTF.INIFileValue.zip here]||
 ||[#PingWarning PingWarning]||1.0.2.1||30/11/2009||[http://prtg7addons.googlecode.com/files/PTF.PingWarning.zip here]||
-||[#CSVExport CSVExport]||1.0.2.1||28/12/2009||[http://prtg7addons.googlecode.com/files/PTF.CSVExport.zip here]||
+||[#CSVExport CSVExport]||1.0.2.1||28/12/2009||[http://prtg7addons.googlecode.com/files/PTF.CSVExport.zip here]|| http://gf-ptf.googlecode.com/files/Arrow_Updated_50.png ||
 
 == Overview ==
 http://gf-ptf.googlecode.com/files/CustomSensors.png
