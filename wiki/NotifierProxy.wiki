@@ -1,4 +1,4 @@
-#summary Krijco PRTG Tools: NotifierProxy allows the NotifierCE to connect to the Network Monitor server without the need to expose the server's web interface to the Internet.
+#summary NotifierProxy: allows the NotifierCE to connect to the Network Monitor server without the need to expose the server's web interface to the Internet.
 #sidebar KrijcoWikiSidebar
 
 http://gf-ptf.googlecode.com/files/NotifierProxy.png
@@ -31,8 +31,7 @@ Example: your public IP-Adress is 216.121.88.82 and the machine where the _!Notf
  
 ==Prerequisites  ==
 
-The _!NotifierProxy_ runs on Internet Information Services (IIS) and targets the .NET Framework 3.5 
+The _!NotifierProxy_ runs on Internet Information Services (IIS) and targets the .NET Framework 2.0 that comes with Windows Update and is part of the default installation of Windows 7
  
 
-=More Information=
-Please see the [NotifierDocumentation Documentation] for details and screenshots.
+For more details, see the pdf that is included in the [VersionHistory download].
