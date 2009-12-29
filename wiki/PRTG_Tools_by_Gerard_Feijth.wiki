@@ -1,40 +1,24 @@
-#summary Krijco PRTG Tools: The "PRTG Tools family" offers clients for Windows and Windows CE (by Gerard Feijth)
+#summary The "PRTG Tools family" offers clients for Windows and Windows CE
 #sidebar KrijcoWikiSidebar
 
-http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png 
+http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 
 = Introduction =
 
-The PRTG Tools family consists out of 5 separate applications: 
-  * The TrayNotifier
-  * The NotifierGadget
-  * The [NotifierGadgetXP NotifierGadgetXP]
-  * The [NotifierCE NotifierCE]
-  * The NotifierProxy
-  * The [NotifierProxy Notifier Proxy Configurator]
+The PRTG Tools Family consists out of a number of separate applications, command line tools and sensors, to be used in combination with your PRTG Network Monitor Server.
 
-= Details =
+All (group of) applications are listed in the sidebar on the left.
 
-==TrayNotifier==
-The !TrayNotifier runs on a Windows Workstation. It notifies the user of an alarm condition with a flashing red dot in the system tray.  It can automatically popup and play a sound for extra attention. 
+==Navigation==
+Please use this sidebar to navigate to the various applications and sensors.
 
-==[NotifierGadget NotifierGadget]==
-The !NotifierGadget is installed in the Vista or Win7 sidebar, providing you with a constant view of the current number of alarms, warnings and paused sensors.
+==Prerequisites==
+All applications and sensors target the .NET Framework 2.0 or 3.5 and some require IIS to be installed. Please see the documentation included in the download or the explanation on the  applications webpage for more details.
 
-==[NotifierGadgetXP NotifierGadgetXP]==
-he NotifierGadgetXP can be installed on a Windows XP system or Vista system not running the sidebar, providing you with a constant view of the current number of alarms, warnings and paused sensors.
- 
-==[NotifierCE NotifierCE]==
-The NotifierCE runs on a Windows Mobile device. It can collect sensor data on demand. 
- 
-==[NotifierProxy Notifier Proxy]==
-Using the !NotifierProxy, the workstations in your network can connect to the Network Monitor server using the standard HTTP port 80, while the Network Monitor server is exposed to the internet through the Notifier Proxy only. The Notifier Proxy can be set up to only allow HTTPS connections from the NotifierCE. The Notifier Proxy can also be 
-set to only allow known WindowsCE devices to connect. This way you can use a full access account to safely connect to the Network Monitor server, pausing and resuming sensors, without exposing its web interface to the internet. 
-The Notifier Proxy can also send updates for the NotifierCE to the mobile devices. 
-The Notifier Proxy runs as a webservice on a computer on your network. This can be the same machine as where the Network Monitor runs on.  The Notifier Proxy runs on IIS witch has to be installed on the target machine. 
-
-
-=More Information=
+==More Information==
 Please see the [NotifierDocumentation Documentation] for details and screenshots.
 
-See the [VersionHistory Version history] page for an overview of what's new or changed in the latest version.
+==Latest versions==
+An overview of the latest versions of all applications can be found [VersionHistory here].
+
+The latest versions of all custom sensors are listed on [CustomSensors this] page.
