@@ -117,6 +117,9 @@ The NotifierCE runs on Windows CE powered mobile phones and can display the stat
 
  back to [#Latest_versions: top]
 
+====2.0.2.1 _30/12/2009_====
+ * Changed: improved the building speed of the sensor tree.
+ * Changed: status icons now match the PRTG icons.
 ====2.0.1.1 _21/06/2009_====
  * New: Autorefresh feature can refresh the data in the sensor window every xx minutes.
  * New: Play an alarm sound if new alarm conditions occur.
