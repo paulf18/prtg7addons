@@ -11,9 +11,8 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png http://gf-ptf.goog
 ||[#TrayNotifier_version_history TrayNotifier]||3.0.6.1||13/10/2009||[http://prtg7addons.googlecode.com/files/Krijco.TrayNotifier.zip here]||
 ||[#NotifierGadget_version_history NotifierGadget]||1.0.5||01/12/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierGadget.zip here]||
 ||[#NotifierGadgetXP_version_history NotifierGadgetXP]||1.0.2||26/05/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierGadgetXP.zip here]||
-||[#NotifierCE_version_history NotifierCE]||2.0.1.1||21/06/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierCE.zip here]||
-||[#Notifier_Proxy_version_history Notifier Proxy]||1.0.0.5||21/06/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierProxy.zip here]||
-||[#Proxy_Configurator_version_history Proxy Configurator]||1.0.0.3||22/04/2009||[http://prtg7addons.googlecode.com/files/Krijco.ProxyConfigurator.zip here]||
+||[#NotifierCE_version_history NotifierCE]||2.0.2.1||30/12/2009||[http://prtg7addons.googlecode.com/files/PTF.NotifierCE.zip here]||http://gf-ptf.googlecode.com/files/Arrow_Updated_50.png ||
+||[#Notifier_Proxy_version_history Notifier Proxy]||1.0.1.1||30/12/2009||[http://prtg7addons.googlecode.com/files/PTF.NotifierProxy.zip here]||http://gf-ptf.googlecode.com/files/Arrow_Updated_50.png ||
 ||[#Distribution_Tool_version_history Distribution Tool]||1.0.2.1||09/09/2009||[http://prtg7addons.googlecode.com/files/Krijco.Distribution%20tool.zip here]||
 ||[#Translation_Tool_version_history Translation Tool]||1.0.4.1||28/11/2009||[http://prtg7addons.googlecode.com/files/PTF.Translate.zip here]||
 ||[#Map_Designer_version_history Map Designer] ||1.0.4.1||09/11/2009||[http://prtg7addons.googlecode.com/files/PTF.Mapdesigner.zip here]||
@@ -139,6 +138,9 @@ The !NotifierProxy allows the !NotifierCE to connect to the Network Monitor serv
 
  back to [#Latest_versions: top]
 
+====1.0.1.1 _30/12/2009_====
+ * Bugfix: with PRTG 7.2 the Proxy could return an error "object not set to reference"
+ * Changed: the Proxy, Proxy Configurator and manual are now included in one download package.
 ====1.0.0.5 _21/06/2009_====
  * Supports the NotifierCE version 2.0
 ====1.0.0.4 _13/04/2009_====
@@ -148,20 +150,6 @@ The !NotifierProxy allows the !NotifierCE to connect to the Network Monitor serv
 ====1.0.0.2 _01/04/2009_==== 
  * Support for the sensor tree, showing probes, groups, devices and sensors.
  * Support for PDU integration, allowing the user to reboot an outlet.
-====1.0.0.1 _10/02/2009_====
- * First public version.
-
-----
-
-==Proxy Configurator version history==
-
- back to [#Latest_versions: top]
-
-====1.0.0.3 _22/04/2009_====
- * Bugfix: Checking the alternate port checkbox was not always persistent.
-====1.0.0.2 _05/04/2009_====
- * Bugfix: After installing an update for Notifier Proxy, the Proxy Configurator detected a new version at every launch of the program and could not complete the setup.
- * Changed the logo to fit the rest of the "Family".
 ====1.0.0.1 _10/02/2009_====
  * First public version.
 
