@@ -1,6 +1,6 @@
 #summary Sidebar. Do NOT DELETE !!!
 #labels Deprecated
-http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png 
+http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 =PRTG Tools Family=
 
  ----
@@ -15,17 +15,14 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
  * ===[Distribution Distribution tool]===
  * ===[Translate Translation tool]===
  * ===[Mapdesigner Map Designer]===
- * ===[CustomSensors Custom Sensors]===
  * ===[DistributeSensors Distribute Sensors]===
-
+http://gf-ptf.googlecode.com/files/Open-48x48.png Version history & Downloads
+ * ===[VersionHistory Applications]===
+ * ===[CustomSensors Custom Sensors]===
 
  ----
 
 http://gf-ptf.googlecode.com/files/Document-48x48.png [NotifierDocumentation Documentation]
-
-http://gf-ptf.googlecode.com/files/Open-48x48.png [VersionHistory]
-
-http://gf-ptf.googlecode.com/files/Download-48x48.png [http://code.google.com/p/prtg7addons/downloads/list?can=2&sort=summary&colspec=Filename+Summary+Size+DownloadCount Downloads]
 
 ====Stay informed about new releases, bug fixes, upcoming changes and more.====
 
@@ -33,3 +30,4 @@ http://gf-ptf.googlecode.com/files/blogger.png [http://prtg-tools-family.blogspo
 
 ====Comments, Suggestions or Feature Requests?====
 http://gf-ptf.googlecode.com/files/Mail-48x48.png Leave a note [http://code.google.com/p/prtg7addons/wiki/UserFeedback here]
+ 
