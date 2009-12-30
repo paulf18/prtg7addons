@@ -16,7 +16,7 @@ The Notifier Proxy can work on any HTTP or HTTPS/SSL port and can be installed o
 ===Do I need to use the Notifier Proxy? ===
  
 No, you  don't. The [NotifierCE NotifierCE] can connect directly to the Network Monitor server using HTTP or HTTPS. (Using HTTP is not recommended, as the username and password are send over the internet in plain text.) But, using the _!NotifierProxy_ will give you some advantages:
- * Data transmission to and from the mobile device is kept to a minimum by sending short requests to the _!NotifierProxy_ who then translates them to the full length request to the Network Monitor server. The reply’s from the Network Monitor server are also truncated to a minimum. 
+ * Data transmission to and from the mobile device is kept to a minimum by sending short requests to the _!NotifierProxy_ who then translates them to the full length request to the Network Monitor server. The reply’s from the Network Monitor server are also truncated to a minimum. (In my testing scenario with 973 objects, the data file from the PRTG server that builds the sensortree on the mobile device was reduced from 1.421 KB to 83 KB.)  
  * The Network Monitor server can communicate over HTTP on the internal network, without exposing its web interface to the internet. 
  * The _!NotifierProxy_ can reject mobile devices that are unknown to the _!NotifierProxy_.
  * The _!NotifierProxy_ can keep a log of all requests.
