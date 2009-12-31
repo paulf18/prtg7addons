@@ -12,7 +12,7 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png http://gf-ptf.goog
 ||[#NotifierGadget_version_history NotifierGadget]||1.0.5||01/12/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierGadget.zip here]||
 ||[#NotifierGadgetXP_version_history NotifierGadgetXP]||1.0.2||26/05/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierGadgetXP.zip here]||
 ||[#NotifierCE_version_history NotifierCE]||2.0.2.1||30/12/2009||[http://prtg7addons.googlecode.com/files/PTF.NotifierCE.zip here]||http://gf-ptf.googlecode.com/files/Arrow_Updated_50.png ||
-||[#Notifier_Proxy_version_history Notifier Proxy]||1.0.1.1||30/12/2009||[http://prtg7addons.googlecode.com/files/PTF.NotifierProxy.zip here]||http://gf-ptf.googlecode.com/files/Arrow_Updated_50.png ||
+||[#Notifier_Proxy_version_history Notifier Proxy]||1.0.1.2||31/12/2009||[http://prtg7addons.googlecode.com/files/PTF.NotifierProxy.zip here]||http://gf-ptf.googlecode.com/files/Arrow_Updated_50.png ||
 ||[#Distribution_Tool_version_history Distribution Tool]||1.0.2.1||09/09/2009||[http://prtg7addons.googlecode.com/files/Krijco.Distribution%20tool.zip here]||
 ||[#Translation_Tool_version_history Translation Tool]||1.0.4.1||28/11/2009||[http://prtg7addons.googlecode.com/files/PTF.Translate.zip here]||
 ||[#Map_Designer_version_history Map Designer] ||1.0.4.1||09/11/2009||[http://prtg7addons.googlecode.com/files/PTF.Mapdesigner.zip here]||
@@ -141,8 +141,9 @@ The !NotifierProxy allows the !NotifierCE to connect to the Network Monitor serv
 
  back to [#Latest_versions: top]
 
-====1.0.1.1 _30/12/2009_====
+====1.0.1.2 _31/12/2009_====
  * Bugfix: with PRTG 7.2 the Proxy could return an error "object not set to reference"
+ * New: option to check for online updates.
  * Changed: the Proxy, Proxy Configurator and manual are now included in one download package.
 ====1.0.0.5 _21/06/2009_====
  * Supports the NotifierCE version 2.0
