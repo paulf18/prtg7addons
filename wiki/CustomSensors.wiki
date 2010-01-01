@@ -2,7 +2,7 @@
 #labels Featured
 #sidebar KrijcoWikiSidebar
 
-http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png http://gf-ptf.googlecode.com/files/sneeuwpop.gif
+http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png http://gf-ptf.googlecode.com/files/happyny.gif
 
 ====Latest versions:====
 || *Sensor* || *Version* || *Date* || *Download* ||
