@@ -14,7 +14,7 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png http://gf-ptf.goog
 ||[#EmailCount EmailCount]||1.0.3.1||30/12/2009||[http://prtg7addons.googlecode.com/files/PTF.EmailCount.zip here]|| http://gf-ptf.googlecode.com/files/Arrow_Updated_50.png ||
 ||[#INIFileValue INIFileValue]||1.0.1.1||16/11/2009||[http://prtg7addons.googlecode.com/files/PTF.INIFileValue.zip here]||
 ||[#PingWarning PingWarning]||1.0.2.1||30/11/2009||[http://prtg7addons.googlecode.com/files/PTF.PingWarning.zip here]||
-||[#CSVExport CSVExport]||1.0.2.1||28/12/2009||[http://prtg7addons.googlecode.com/files/PTF.CSVExport.zip here]|| http://gf-ptf.googlecode.com/files/Arrow_Updated_50.png ||
+||[#CSVExport CSVExport]||1.0.2.2||04/01/2010||[http://prtg7addons.googlecode.com/files/PTF.CSVExport.zip here]|| http://gf-ptf.googlecode.com/files/Arrow_Updated_50.png ||
 
 == Overview ==
 http://gf-ptf.googlecode.com/files/CustomSensors.png
@@ -202,7 +202,9 @@ More [CSVExportSensor details]
  back to [#Latest_versions: top]
 
 === Version history ===
-====1.0.2.1 _28/12/2009_==== 
+====1.0.2.2 _04/01/2010_====
+ * Bugfix: solved a problem with the users password containing a #
+====1.0.2.1 _28/12/2009_====
  * New: added the following optional parameters:
 {{{
 -co switch to combine the data of multiple sensor into one file.
