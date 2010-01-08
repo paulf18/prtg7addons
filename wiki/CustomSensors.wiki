@@ -2,7 +2,8 @@
 #labels Featured
 #sidebar KrijcoWikiSidebar
 
-http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png http://gf-ptf.googlecode.com/files/happyny.gif
+http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
+
 
 ====Latest versions:====
 || *Sensor* || *Version* || *Date* || *Download* ||
