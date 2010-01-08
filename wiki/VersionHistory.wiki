@@ -11,7 +11,7 @@ http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
 ||[#TrayNotifier_version_history TrayNotifier]||3.0.6.1||13/10/2009||[http://prtg7addons.googlecode.com/files/Krijco.TrayNotifier.zip here]||
 ||[#NotifierGadget_version_history NotifierGadget]||1.0.5||01/12/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierGadget.zip here]||
 ||[#NotifierGadgetXP_version_history NotifierGadgetXP]||1.0.2||26/05/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierGadgetXP.zip here]||
-||[#NotifierCE_version_history NotifierCE]||2.0.2.1||30/12/2009||[http://prtg7addons.googlecode.com/files/PTF.NotifierCE.zip here]||http://gf-ptf.googlecode.com/files/Arrow_Updated_50.png ||
+||[#NotifierCE_version_history NotifierCE]||2.0.2.2||08/01/2009||[http://prtg7addons.googlecode.com/files/PTF.NotifierCE.zip here]||http://gf-ptf.googlecode.com/files/Arrow_Updated_50.png ||
 ||[#Notifier_Proxy_version_history Notifier Proxy]||1.0.1.2||31/12/2009||[http://prtg7addons.googlecode.com/files/PTF.NotifierProxy.zip here]||http://gf-ptf.googlecode.com/files/Arrow_Updated_50.png ||
 ||[#Distribution_Tool_version_history Distribution Tool]||1.0.2.1||09/09/2009||[http://prtg7addons.googlecode.com/files/Krijco.Distribution%20tool.zip here]||
 ||[#Translation_Tool_version_history Translation Tool]||1.0.4.1||28/11/2009||[http://prtg7addons.googlecode.com/files/PTF.Translate.zip here]||
