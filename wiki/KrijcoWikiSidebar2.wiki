@@ -1,6 +1,5 @@
 #summary Sidebar2 DO NOT DELETE !!!
 #labels Deprecated
-http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
-=PRTG Tools Family=
+http://gf-ptf.googlecode.com/files/PTF.png
 
-====[PRTG_Tools_by_Gerard_Feijth Home]====
+===[PRTG_Tools_by_Gerard_Feijth Home]===
