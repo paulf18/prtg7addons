@@ -1,7 +1,7 @@
 #summary Krijco PRTG Tools: NotifierCE runs on Windows CE powered mobile phones and can display the status of sensors from a PRTG installation
 #sidebar KrijcoWikiSidebar
 
-http://gf-ptf.googlecode.com/files/NotifierCE.png
+http://gf-ptf.googlecode.com/files/notifier_ce.png
 
 = Introduction =
 
