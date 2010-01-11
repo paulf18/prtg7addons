@@ -2,7 +2,7 @@
 #sidebar KrijcoWikiSidebar
 
 
-http://gf-ptf.googlecode.com/files/NotifierGadget.png
+http://gf-ptf.googlecode.com/files/gadget_xp.png
 
 = Introduction =
 
