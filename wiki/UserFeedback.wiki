@@ -1,7 +1,7 @@
 #summary Krijco PRTG Tools: User feedback.
 #sidebar KrijcoWikiSidebar2
 
-http://gf-ptf.googlecode.com/files/PRTGToolsFamily_65x119.png
+http://gf-ptf.googlecode.com/files/PTF_logo.png
 
 ====Comments, Suggestions or Feature Requests?====
 ====Please enter them below (you have to be signed in) or send me an  [mailto:prtgtoolsfamily%40gmail%2Ecom?SUBJECT=PRTG%20Tools%20Family email]====
