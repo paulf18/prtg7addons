@@ -1,6 +1,7 @@
 #summary Krijco PRTG Tools: Modify your PRTG Server download page.
 #sidebar KrijcoWikiSidebar
 
+http://gf-ptf.googlecode.com/files/distribution.png
 
 = Introduction =
 
@@ -12,4 +13,6 @@ With this tool you can modify your PRTG Server download page to let your users d
 The modified section can be installed in English, German, French, Spanish and Dutch.
 After running the tool, your PRTG Server download page can look like this:
 
-http://gf-ptf.googlecode.com/files/distribution.png
+http://gf-ptf.googlecode.com/files/distribution_webpage.png
+
+For more details, see the pdf that is included in the [VersionHistory download].
