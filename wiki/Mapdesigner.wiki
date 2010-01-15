@@ -1,6 +1,8 @@
 #summary PTF Mapdesigner: Create backgrounds for your PRTG maps.
 #sidebar KrijcoWikiSidebar
 
+http://gf-ptf.googlecode.com/files/mapdesigner.png
+
 = Introduction =
 PTF Map Designer is a tool used to create background images for PRTG maps.
 PTF Map Designer can be used as a transparent overlay over an existing PRTG map
