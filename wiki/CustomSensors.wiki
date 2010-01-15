@@ -204,7 +204,7 @@ More [CSVExportSensor details]
 
 === Version history ===
 ====1.0.2.3 _14/01/2010_====
- * Bugfix: csvexport error 0:Impersonation of \ failed! [87] The parameter is incorrect.(issue 2)
+ * Bugfix: csvexport error 0:Impersonation of \ failed! `[87]` The parameter is incorrect
 ====1.0.2.2 _04/01/2010_====
  * Bugfix: solved a problem with the users password containing a #
 ====1.0.2.1 _28/12/2009_====
