@@ -1,6 +1,8 @@
 #summary PTF DistributeSensors: distribute (updates of) custom sensors to your PRTG probes.
 #sidebar KrijcoWikiSidebar
 
+http://gf-ptf.googlecode.com/files/distribute_sensors.png
+
 = Introduction =
 PTF Distribute Sensors is a tool used to distribute (updates of) custom sensors to your PRTG Probes.
 
