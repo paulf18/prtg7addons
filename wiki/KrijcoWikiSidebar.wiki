@@ -18,6 +18,7 @@ http://gf-ptf.googlecode.com/files/PTF.png
 http://gf-ptf.googlecode.com/files/Open-48x48.png Version history & Downloads
  * ===[VersionHistory Applications]===
  * ===[CustomSensors Custom Sensors]===
+ * ===[Notifications Notifications]===
 
  ----
 
