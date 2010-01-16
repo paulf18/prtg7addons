@@ -1,0 +1,13 @@
+#summary PTF Twitter: Send Notifications from PRTG to Twitter
+#sidebar KrijcoWikiSidebar
+
+= Introduction =
+
+PTF Twitter sends notifications from PRTG to Twitter. If the text of a notification becomes too long, PTF Twitter breaks the text up and sends multiple notifications. While sending multiple notifications, the LIFO principal is used, producing a top-down readable tweet:
+
+http://gf-ptf.googlecode.com/files/TwitterExample.png
+
+=== You can simply launch twitter.exe for an explanation of the command line parameters === 
+http://gf-ptf.googlecode.com/files/Twittercmd.png
+
+For more details, see the pdf that is included in the [Notifications download].
