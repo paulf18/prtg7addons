@@ -20,3 +20,5 @@ Can now also be entered as
 }}}
 
 http://gf-ptf.googlecode.com/files/PassHash.png
+
+For more details, see the pdf that is included in the [CustomSensors download].
