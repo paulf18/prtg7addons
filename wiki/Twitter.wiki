@@ -3,24 +3,46 @@
 
 = Introduction =
 
-PTF Twitter sends notifications from PRTG to Twitter. 
+This custom Notification sends notifications from PRTG to Twitter.
+
+Use the following parameters for the sensor:
+
+{{{
+-u=prtgtoolsfamily -p=password -l -t=[%sitename] %device %name %status %down (%message)
+}}} 
+
+..to produce a twitter message like this:
+
+----
+
+http://gf-ptf.googlecode.com/files/TwitterExample1.png
+
+----
 
 
-If the text of a notification becomes too long, PTF Twitter breaks the text up and sends multiple notifications. While sending multiple notifications, the LIFO principal is used, producing a top-down readable tweet.
+If the text of a notification becomes too long, PTF Twitter breaks the text up and sends multiple notifications.
+
+While sending multiple notifications, the LIFO principal is used, producing a top-down readable tweet.
 
 Using this command line syntax:
 
 {{{
--u=prtgtoolsfamily -p=password -l -t=Paessler has been at the forefront of providing the industry's most powerful,
-affordable and easy-to-use network solutions since the dawn of the modern Internet. Our lightweight products make
-it easy and convenient to manage network availability, performance and usage without draining valuable system,
+-u=prtgtoolsfamily -p=password -l -t=Paessler has been at the forefront of providing
+the industry's most powerful, affordable and easy-to-use network solutions since
+the dawn of the modern Internet. Our lightweight products make it easy and convenient
+to manage network availability, performance and usage without draining valuable system,
 personnel and financial resources. Simply put: they just work, so you don't have to worry.
 }}}
 
-Will produce 3 tweets like this:
+Will produce 3 separate tweets like this:
+
+----
 
 
 http://gf-ptf.googlecode.com/files/TwitterExample.png
+
+
+----
 
 === You can simply launch twitter.exe for an explanation of the command line parameters === 
 http://gf-ptf.googlecode.com/files/Twittercmd.png
