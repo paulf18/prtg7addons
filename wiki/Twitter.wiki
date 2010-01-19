@@ -3,7 +3,22 @@
 
 = Introduction =
 
-PTF Twitter sends notifications from PRTG to Twitter. If the text of a notification becomes too long, PTF Twitter breaks the text up and sends multiple notifications. While sending multiple notifications, the LIFO principal is used, producing a top-down readable tweet:
+PTF Twitter sends notifications from PRTG to Twitter. 
+
+
+If the text of a notification becomes too long, PTF Twitter breaks the text up and sends multiple notifications. While sending multiple notifications, the LIFO principal is used, producing a top-down readable tweet.
+
+Using this command line syntax:
+
+{{{
+-u=prtgtoolsfamily -p=password -l -t=Paessler has been at the forefront of providing the industry's most powerful,
+affordable and easy-to-use network solutions since the dawn of the modern Internet. Our lightweight products make
+it easy and convenient to manage network availability, performance and usage without draining valuable system,
+personnel and financial resources. Simply put: they just work, so you don't have to worry.
+}}}
+
+Will produce 3 tweets like this:
+
 
 http://gf-ptf.googlecode.com/files/TwitterExample.png
 
