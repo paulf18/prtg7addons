@@ -3,7 +3,7 @@
 
 = Introduction =
 
-This custom Notification sends notifications from PRTG to Twitter.
+This Custom Notification sends notifications from PRTG to Twitter.
 
 Use the following parameters for the sensor:
 
