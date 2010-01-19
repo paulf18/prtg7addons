@@ -8,7 +8,7 @@ PRTG already comes with a set of translations created by Paessler (e.g. English,
 Currently available:
 
  * http://gf-ptf.googlecode.com/files/nl.png [http://code.google.com/p/prtg7addons/downloads/list?can=2&q=translation:%20dutch Dutch] (by Gerard Feijth)
-* [http://code.google.com/p/prtg7addons/downloads/list?can=2&q=Translation:+Brazilian Brazilian]
+ * [http://code.google.com/p/prtg7addons/downloads/list?can=2&q=Translation:+Brazilian Brazilian]
 
 = Installation of Language Files=
 
