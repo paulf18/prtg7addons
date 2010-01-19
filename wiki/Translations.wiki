@@ -10,6 +10,8 @@ Currently available:
  * http://gf-ptf.googlecode.com/files/nl.png [http://code.google.com/p/prtg7addons/downloads/list?can=2&q=translation:%20dutch Dutch] (by Gerard Feijth)
  * [http://code.google.com/p/prtg7addons/downloads/list?can=2&q=Translation:+Brazilian Brazilian]
 
+Note: In most cases you can use a language for an earlier version, but some labels may be incorrect or not translated
+
 = Installation of Language Files=
 
 Please download the language file that fits your PRTG version from the
