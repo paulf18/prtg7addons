@@ -19,6 +19,8 @@ All applications and sensors target the .NET Framework 2.0 or 3.5 and some requi
 Please see the [NotifierDocumentation Documentation] for details and screenshots.
 
 ==Latest versions==
-An overview of the latest versions of all applications can be found [VersionHistory here].
+An overview of the latest versions of all *Applications* can be found [VersionHistory here].
 
-The latest versions of all custom sensors are listed on [CustomSensors this] page.
+The latest versions of all *Custom Sensors* are listed on [CustomSensors this] page.
+
+For the latest versions of all *Custom Notifications* visit [CustomSensors this] page.
