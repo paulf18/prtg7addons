@@ -20,3 +20,5 @@ Clicking the server name part of the gadget opens your default Network Monitor w
 
 =More Information=
 Please see the [NotifierDocumentation Documentation] for details and screenshots.
+
+The !NotifierGadget can be donwloaded from [VersionHistory this] page.
