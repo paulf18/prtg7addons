@@ -20,3 +20,5 @@ http://gf-ptf.googlecode.com/files/TrayNotifier-400x258.png
 
 =More Information=
 Please see the [NotifierDocumentation Documentation] for details and screenshots.
+
+The !TrayNotifier can be downloaded from [VersionHistory this] page.
