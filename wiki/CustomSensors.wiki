@@ -16,6 +16,7 @@ http://gf-ptf.googlecode.com/files/PTF_logo.png
 ||[#INIFileValue INIFileValue]||1.0.1.1||16/11/2009||[http://prtg7addons.googlecode.com/files/PTF.INIFileValue.zip here]||
 ||[#PingWarning PingWarning]||1.0.2.1||30/11/2009||[http://prtg7addons.googlecode.com/files/PTF.PingWarning.zip here]||
 ||[#CSVExport CSVExport]||1.0.2.3||14/01/2010||[http://prtg7addons.googlecode.com/files/PTF.CSVExport.zip here]||
+||[#CheckDHCP CheckDHCP]||1.0.1.1||15/03/2010||[http://prtg7addons.googlecode.com/files/PTF.CheckDHCP.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
 
 == Overview ==
 http://gf-ptf.googlecode.com/files/CustomSensors.png
@@ -218,3 +219,21 @@ More [CSVExportSensor details]
  * Changed: the CSVExport version number is now included in the .xml export file
 ====1.0.1.1 _16/12/2009_====
  * First public version
+
+
+----
+
+== CheckDHCP ==
+=== Summary ===
+This sensor checks your DHCP server and returns the response time.
+
+{{{
+-s=192.168.1.1
+}}}
+
+
+=== Version history ===
+====1.0.1.1 _15/03/2010_====
+ * First public version
+
+ back to [#Latest_versions: top]
