@@ -9,6 +9,7 @@ Currently available:
 
  * http://gf-ptf.googlecode.com/files/nl.png [http://code.google.com/p/prtg7addons/downloads/list?can=2&q=translation:%20dutch Dutch] (by Gerard Feijth)
  * http://gf-ptf.googlecode.com/files/br.png [http://code.google.com/p/prtg7addons/downloads/list?can=2&q=Translation:+Brazilian Brazilian/Portuguese]
+ * http://gf-ptf.googlecode.com/files/sk.png [http://code.google.com/p/prtg7addons/downloads/list?can=2&q=Translation:+Slovak Slovak]
 
 Note: In most cases you can use a language for an earlier version, but some labels may be incorrect or not translated
 
