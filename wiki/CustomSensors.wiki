@@ -18,6 +18,7 @@ http://gf-ptf.googlecode.com/files/PTF_logo.png
 ||[#CSVExport CSVExport]||1.0.2.3||14/01/2010||[http://prtg7addons.googlecode.com/files/PTF.CSVExport.zip here]||
 ||[#CheckDHCP CheckDHCP]||1.0.1.1||15/03/2010||[http://prtg7addons.googlecode.com/files/PTF.CheckDHCP.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
 ||[#SensorCount SensorCount]||1.0.1.1||24/03/2010||[http://prtg7addons.googlecode.com/files/PTF.SensorCount.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
+||[#LastWinUpdate LastWinUpdate]||1.0.1.1||07/04/2010||[http://prtg7addons.googlecode.com/files/PTF.LastWinUpdate.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
 
 == Overview ==
 http://gf-ptf.googlecode.com/files/CustomSensors.png
@@ -261,6 +262,23 @@ Combine any of the following parameters
 
 === Version history ===
 ====1.0.1.1 _24/03/2010_====
+ * First public version
+
+ back to [#Latest_versions: top]
+
+
+----
+
+== !LastWinUpdate ==
+=== Summary ===
+This sensor gets the last time Windows Update has updated the specified computer.
+
+{{{
+-u=username -p=password|passhash -c=192.168.1.1
+}}}
+
+=== Version history ===
+====1.0.1.1 _07/04/2010_====
  * First public version
 
  back to [#Latest_versions: top]
