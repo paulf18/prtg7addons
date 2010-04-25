@@ -16,9 +16,11 @@ http://gf-ptf.googlecode.com/files/PTF_logo.png
 ||[#INIFileValue INIFileValue]||1.0.1.1||16/11/2009||[http://prtg7addons.googlecode.com/files/PTF.INIFileValue.zip here]||
 ||[#PingWarning PingWarning]||1.0.2.1||30/11/2009||[http://prtg7addons.googlecode.com/files/PTF.PingWarning.zip here]||
 ||[#CSVExport CSVExport]||1.0.2.3||14/01/2010||[http://prtg7addons.googlecode.com/files/PTF.CSVExport.zip here]||
-||[#CheckDHCP CheckDHCP]||1.0.1.1||15/03/2010||[http://prtg7addons.googlecode.com/files/PTF.CheckDHCP.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
-||[#SensorCount SensorCount]||1.0.1.1||24/03/2010||[http://prtg7addons.googlecode.com/files/PTF.SensorCount.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
+||[#CheckDHCP CheckDHCP]||1.0.1.1||15/03/2010||[http://prtg7addons.googlecode.com/files/PTF.CheckDHCP.zip here]||
+||[#SensorCount SensorCount]||1.0.1.1||24/03/2010||[http://prtg7addons.googlecode.com/files/PTF.SensorCount.zip here]||
 ||[#LastWinUpdate LastWinUpdate]||1.0.1.1||07/04/2010||[http://prtg7addons.googlecode.com/files/PTF.LastWinUpdate.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
+||[#MessageCount MessageCount]||1.0.1.1||25/04/2010||[http://prtg7addons.googlecode.com/files/PTF.MessageCount here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
+||[#ContactState ContactState]||1.0.1.1||??/??/2010||here||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
 
 == Overview ==
 http://gf-ptf.googlecode.com/files/CustomSensors.png
@@ -282,3 +284,39 @@ This sensor gets the last time Windows Update has updated the specified computer
  * First public version
 
  back to [#Latest_versions: top]
+
+
+----
+
+== !MessageCount ==
+=== Summary ===
+This sensor gets the number of messages in a MSMQ.
+Use the -t parameter to only count messages that are more than xx minutes old.
+
+{{{
+-u=[domain\]username -p=password|passhash -qn=queuename [-qt=queuetype] [-m=machinename] [-t=timedelta]
+}}}
+
+=== Version history ===
+====1.0.1.1 _25/04/2010_====
+ * First public version
+
+ back to [#Latest_versions: top]
+
+
+----
+
+== !ContactState ==
+=== Summary ===
+This sensor monitors the state of a dry contact.
+More [ContactStateSensor details]
+{{{
+
+}}}
+
+ back to [#Latest_versions: top]
+
+=== Version history ===
+
+====1.0.1.1 _??/??/2010_====
+ * First public version
