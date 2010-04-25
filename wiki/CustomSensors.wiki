@@ -19,7 +19,7 @@ http://gf-ptf.googlecode.com/files/PTF_logo.png
 ||[#CheckDHCP CheckDHCP]||1.0.1.1||15/03/2010||[http://prtg7addons.googlecode.com/files/PTF.CheckDHCP.zip here]||
 ||[#SensorCount SensorCount]||1.0.1.1||24/03/2010||[http://prtg7addons.googlecode.com/files/PTF.SensorCount.zip here]||
 ||[#LastWinUpdate LastWinUpdate]||1.0.1.1||07/04/2010||[http://prtg7addons.googlecode.com/files/PTF.LastWinUpdate.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
-||[#MessageCount MessageCount]||1.0.1.1||25/04/2010||[http://prtg7addons.googlecode.com/files/PTF.MessageCount here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
+||[#MessageCount MessageCount]||1.0.1.1||25/04/2010||[http://prtg7addons.googlecode.com/files/PTF.MessageCount.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
 ||[#ContactState ContactState]||1.0.1.1||??/??/2010||here||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
 
 == Overview ==
