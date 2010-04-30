@@ -18,9 +18,9 @@ http://gf-ptf.googlecode.com/files/PTF_logo.png
 ||[#CSVExport CSVExport]||1.0.2.3||14/01/2010||[http://prtg7addons.googlecode.com/files/PTF.CSVExport.zip here]||
 ||[#CheckDHCP CheckDHCP]||1.0.1.1||15/03/2010||[http://prtg7addons.googlecode.com/files/PTF.CheckDHCP.zip here]||
 ||[#SensorCount SensorCount]||1.0.1.1||24/03/2010||[http://prtg7addons.googlecode.com/files/PTF.SensorCount.zip here]||
-||[#LastWinUpdate LastWinUpdate]||1.0.1.1||07/04/2010||[http://prtg7addons.googlecode.com/files/PTF.LastWinUpdate.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
+||[#LastWinUpdate LastWinUpdate]||1.0.1.1||07/04/2010||[http://prtg7addons.googlecode.com/files/PTF.LastWinUpdate.zip here]||
 ||[#MessageCount MessageCount]||1.0.1.1||25/04/2010||[http://prtg7addons.googlecode.com/files/PTF.MessageCount.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
-||[#ContactState ContactState]||1.0.1.1||??/??/2010||here||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
+||[#ContactState ContactState]||1.0.1.1||30/04/2010|||[http://prtg7addons.googlecode.com/files/PTF.ContactState.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
 
 == Overview ==
 http://gf-ptf.googlecode.com/files/CustomSensors.png
@@ -308,15 +308,15 @@ Use the -t parameter to only count messages that are more than xx minutes old.
 
 == !ContactState ==
 === Summary ===
-This sensor monitors the state of a dry contact.
+This sensor monitors the state of a dry contact connected to a serial port.
 More [ContactStateSensor details]
 {{{
-
+-s=SerialPort -p=PinNumber [-om=OpenMessage] [-cm=ClosedMessage]
 }}}
 
  back to [#Latest_versions: top]
 
 === Version history ===
 
-====1.0.1.1 _??/??/2010_====
+====1.0.1.1 _30/04/2010_====
  * First public version
