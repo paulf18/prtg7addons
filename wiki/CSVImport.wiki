@@ -1,0 +1,18 @@
+#summary PTF CSVImport: Build graphs based on .csv files gerated by the CSVExport tool.
+#sidebar KrijcoWikiSidebar
+
+http://gf-ptf.googlecode.com/files/CSVImport.png
+
+= Introduction =
+PTF CSVImport lets you generate graphs based on .csv files gerated by the [CSVExportSensor CSVExport tool].
+Select a .csv file to use, next select the channels you want to show in your graph and moderate the graph to your whishes.
+
+  * You can change the colors, rotate, tilt, zoom the graph and much more
+  * You can choose from different graph types.
+  * Graphs can be printed or copied to the clipboard.
+
+
+
+http://gf-ptf.googlecode.com/files/CSVImportThumbs.png
+
+PTF CSVImport can be downloaded from [VersionHistory this] page.
