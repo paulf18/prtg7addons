@@ -18,7 +18,7 @@ http://gf-ptf.googlecode.com/files/PTF_logo.png
 ||[#CSVExport CSVExport]||1.0.2.3||14/01/2010||[http://prtg7addons.googlecode.com/files/PTF.CSVExport.zip here]||
 ||[#CheckDHCP CheckDHCP]||1.0.1.1||15/03/2010||[http://prtg7addons.googlecode.com/files/PTF.CheckDHCP.zip here]||
 ||[#SensorCount SensorCount]||1.0.1.1||24/03/2010||[http://prtg7addons.googlecode.com/files/PTF.SensorCount.zip here]||
-||[#LastWinUpdate LastWinUpdate]||1.0.1.1||07/04/2010||[http://prtg7addons.googlecode.com/files/PTF.LastWinUpdate.zip here]||
+||[#LastWinUpdate LastWinUpdate]||1.0.2.2||14/05/2010||[http://prtg7addons.googlecode.com/files/PTF.LastWinUpdate.zip here]||http://gf-ptf.googlecode.com/files/Arrow_Updated_50.png||
 ||[#MessageCount MessageCount]||1.0.1.1||25/04/2010||[http://prtg7addons.googlecode.com/files/PTF.MessageCount.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
 ||[#ContactState ContactState]||1.0.1.1||30/04/2010|||[http://prtg7addons.googlecode.com/files/PTF.ContactState.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
 
@@ -282,6 +282,10 @@ This sensor gets the last time Windows Update has updated the specified computer
 === Version history ===
 ====1.0.1.1 _07/04/2010_====
  * First public version
+
+====1.0.2.2 _14/05/2010_====
+ * Changed: the sensor used to analyze the Windows Update log file. As this method generates a lot of network traffic, this is now changed. The sensor uses a remote registry call now to query the last time Windows update has run. For this remote registry call to work, the Remote Registry service has to be enabled on the target machine. The link below will give you details on how to enable the Remote Registry service.
+http://support.gfi.com/manuals/en/esm7/esm7manual-1-100.html
 
  back to [#Latest_versions: top]
 
