@@ -23,4 +23,4 @@ An overview of the latest versions of all *Applications* can be found [VersionHi
 
 The latest versions of all *Custom Sensors* are listed on [CustomSensors this] page.
 
-For the latest versions of all *Custom Notifications* visit [CustomSensors this] page.
+For the latest versions of all *Custom Notifications* visit [Notifications this] page.
