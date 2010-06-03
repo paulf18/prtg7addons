@@ -237,7 +237,7 @@ PTF Map Designer is a tool used to create background images for PRTG maps. PTF M
  * Changed: Compiled the executable with Visual Studio 2010.
  * Changed: Now targeting the .NET Framework 3.5 (that comes with Windows Update).
  * Changed: Modified the search for updates.
- * Changed: Build the installer using InstallShield.
+ * Changed: Build the installer using !InstallShield.
  * Note: If you are upgrading from a previous version, you have to manually uninstall the previous version.
 ====1.0.4.1 _09/11/2009_====
  * Bugfix: Images sometimes did not resize after loading a saved .pic file.
