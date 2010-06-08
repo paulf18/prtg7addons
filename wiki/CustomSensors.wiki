@@ -21,6 +21,7 @@ http://gf-ptf.googlecode.com/files/PTF_logo.png
 ||[#LastWinUpdate LastWinUpdate]||1.0.2.2||14/05/2010||[http://prtg7addons.googlecode.com/files/PTF.LastWinUpdate.zip here]||http://gf-ptf.googlecode.com/files/Arrow_Updated_50.png||
 ||[#MessageCount MessageCount]||1.0.1.1||25/04/2010||[http://prtg7addons.googlecode.com/files/PTF.MessageCount.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
 ||[#ContactState ContactState]||1.0.1.1||30/04/2010|||[http://prtg7addons.googlecode.com/files/PTF.ContactState.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
+||[#WinOSVersion WinOSVersion]||1.0.1.1||07/06/2010|||[http://prtg7addons.googlecode.com/files/PTF.WinOSVersion.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
 
 == Overview ==
 http://gf-ptf.googlecode.com/files/CustomSensors.png
@@ -324,3 +325,23 @@ More [ContactStateSensor details]
 
 ====1.0.1.1 _30/04/2010_====
  * First public version
+
+ back to [#Latest_versions: top]
+
+----
+
+== WinOSVersion ==
+=== Summary ===
+This sensor gets the Windows OS version of the specified computer.
+{{{
+-u=domain\username -p=password|passhash -c=192.168.1.1
+}}}
+
+ back to [#Latest_versions: top]
+
+=== Version history ===
+
+====1.0.1.1 _07/06/2010_====
+ * First public version
+
+ back to [#Latest_versions: top]
