@@ -1,4 +1,5 @@
 #summary PTF CSVImport: Build graphs based on .csv files gerated by the CSVExport tool.
+#labels Featured
 #sidebar KrijcoWikiSidebar
 
 http://gf-ptf.googlecode.com/files/CSVImport.png
