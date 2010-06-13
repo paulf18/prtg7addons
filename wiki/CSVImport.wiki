@@ -4,8 +4,9 @@
 http://gf-ptf.googlecode.com/files/CSVImport.png
 
 = Introduction =
-PTF CSVImport lets you generate graphs based on .csv files gerated by the [CSVExportSensor CSVExport tool].
-Select a .csv file to use, next select the channels you want to show in your graph and moderate the graph to your whishes.
+PTF CSVImport was originally intended to build graphs from data that is exported using [CSVExportSensor CSVExport], but it can also request data directly from your PRTG server. 
+
+Select the .csv files to use, or select some sensors from your PRTG server. Next select the channels you want to show in your graph and modify the graph to your whishes.
 
   * You can change the colors, rotate, tilt, zoom the graph and much more
   * You can choose from different graph types.
