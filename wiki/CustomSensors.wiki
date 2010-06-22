@@ -18,10 +18,12 @@ http://gf-ptf.googlecode.com/files/PTF_logo.png
 ||[#CSVExport CSVExport]||1.0.2.3||14/01/2010||[http://prtg7addons.googlecode.com/files/PTF.CSVExport.zip here]||
 ||[#CheckDHCP CheckDHCP]||1.0.1.1||15/03/2010||[http://prtg7addons.googlecode.com/files/PTF.CheckDHCP.zip here]||
 ||[#SensorCount SensorCount]||1.0.1.1||24/03/2010||[http://prtg7addons.googlecode.com/files/PTF.SensorCount.zip here]||
-||[#LastWinUpdate LastWinUpdate]||1.0.2.2||14/05/2010||[http://prtg7addons.googlecode.com/files/PTF.LastWinUpdate.zip here]||http://gf-ptf.googlecode.com/files/Arrow_Updated_50.png||
-||[#MessageCount MessageCount]||1.0.1.1||25/04/2010||[http://prtg7addons.googlecode.com/files/PTF.MessageCount.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
-||[#ContactState ContactState]||1.0.1.1||30/04/2010|||[http://prtg7addons.googlecode.com/files/PTF.ContactState.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
+||[#LastWinUpdate LastWinUpdate]||1.0.2.2||14/05/2010||[http://prtg7addons.googlecode.com/files/PTF.LastWinUpdate.zip here]||
+||[#MessageCount MessageCount]||1.0.1.1||25/04/2010||[http://prtg7addons.googlecode.com/files/PTF.MessageCount.zip here]||
+||[#ContactState ContactState]||1.0.1.1||30/04/2010|||[http://prtg7addons.googlecode.com/files/PTF.ContactState.zip here]||
 ||[#WinOSVersion WinOSVersion]||1.0.1.1||07/06/2010|||[http://prtg7addons.googlecode.com/files/PTF.WinOSVersion.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
+||[#PingJitter PingJitter]||1.0.1.1||21/06/2010|||[http://prtg7addons.googlecode.com/files/PTF.PingJitter.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
+
 
 == Overview ==
 http://gf-ptf.googlecode.com/files/CustomSensors2.png
@@ -342,6 +344,32 @@ This sensor gets the Windows OS version of the specified computer.
 === Version history ===
 
 ====1.0.1.1 _07/06/2010_====
+ * First public version
+
+ back to [#Latest_versions: top]
+
+----
+
+== !PingJitter ==
+=== Summary ===
+This sensor sends a number of ping requests to the host
+and returns the Statistical Jitter value in seconds.
+
+{{{
+192.168.1.1 [-n=5] [-d]
+-n=   number of ping requests to send, default = 5
+-d    debugmode, write all results to the output window
+      note: do NOT use this switch when running the .exe as a sensor   
+}}}
+
+Note:
+The sensor needs to be setup as "Value Type" Float 
+
+ back to [#Latest_versions: top]
+
+=== Version history ===
+
+====1.0.1.1 _21/06/2010_====
  * First public version
 
  back to [#Latest_versions: top]
