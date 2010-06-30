@@ -353,7 +353,7 @@ This sensor gets the Windows OS version of the specified computer.
 == !PingJitter ==
 === Summary ===
 This sensor sends a number of ping requests to the host
-and returns the Statistical Jitter value in seconds.
+and returns the Statistical Jitter value in milliseconds.
 
 {{{
 192.168.1.1 [-n=5] [-d]
