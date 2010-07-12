@@ -3,6 +3,8 @@
 
 http://gf-ptf.googlecode.com/files/PTF_logo.png
 
+Looking for notifications written for PRTG version 8 or later? Take a look at [http://code.google.com/p/prtg-addons/wiki/Notifications this] page.
+
 
 ====Latest versions:====
 || *Notification* || *Version* || *Date* || *Download* ||
