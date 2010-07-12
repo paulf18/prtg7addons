@@ -4,6 +4,8 @@
 
 http://gf-ptf.googlecode.com/files/PTF_logo.png
 
+Looking for sensors written for PRTG version 8 or later? Take a look at [http://code.google.com/p/prtg-addons/wiki/Sensors this] page.
+
 
 ====Latest versions:====
 || *Sensor* || *Version* || *Date* || *Download* ||
