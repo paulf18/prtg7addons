@@ -25,7 +25,7 @@ Looking for sensors written for PRTG version 8 or later? Take a look at [http://
 ||[#ContactState ContactState]||1.0.1.1||30/04/2010|||[http://prtg7addons.googlecode.com/files/PTF.ContactState.zip here]||
 ||[#WinOSVersion WinOSVersion]||1.0.1.1||07/06/2010|||[http://prtg7addons.googlecode.com/files/PTF.WinOSVersion.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
 ||[#PingJitter PingJitter]||1.0.1.1||21/06/2010|||[http://prtg7addons.googlecode.com/files/PTF.PingJitter.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
-
+||[#SSLCertExpiration SSLCertExpiration]||1.0.1.1||19/07/2010|||[http://prtg7addons.googlecode.com/files/PTF.SSLCertExpiration.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
 
 == Overview ==
 http://gf-ptf.googlecode.com/files/CustomSensors2.png
@@ -372,6 +372,25 @@ The sensor needs to be setup as "Value Type" Float
 === Version history ===
 
 ====1.0.1.1 _21/06/2010_====
+ * First public version
+
+ back to [#Latest_versions: top]
+
+----
+
+== !SSLCertExpiration ==
+=== Summary ===
+This sensor Returns the number of days before your SSL certificate expires
+
+{{{
+https://prtg.paessler.com
+}}}
+
+ back to [#Latest_versions: top]
+
+=== Version history ===
+
+====1.0.1.1 _19/07/2010_====
  * First public version
 
  back to [#Latest_versions: top]
