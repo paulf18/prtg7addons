@@ -378,7 +378,7 @@ The sensor needs to be setup as "Value Type" Float
 
 ----
 
-== !SSLCertExpiration ==
+== SSLCertExpiration ==
 === Summary ===
 This sensor Returns the number of days before your SSL certificate expires
 
