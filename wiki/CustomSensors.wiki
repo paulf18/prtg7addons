@@ -383,7 +383,7 @@ The sensor needs to be setup as "Value Type" Float
 This sensor Returns the number of days before your SSL certificate expires
 
 {{{
-https://prtg.paessler.com
+-u=https://prtg.paessler.com
 }}}
 
  back to [#Latest_versions: top]
