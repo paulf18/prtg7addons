@@ -26,6 +26,7 @@ Looking for sensors written for PRTG version 8 or later? Take a look at [http://
 ||[#WinOSVersion WinOSVersion]||1.0.1.1||07/06/2010|||[http://prtg7addons.googlecode.com/files/PTF.WinOSVersion.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
 ||[#PingJitter PingJitter]||1.0.1.1||21/06/2010|||[http://prtg7addons.googlecode.com/files/PTF.PingJitter.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
 ||[#SSLCertExpiration SSLCertExpiration]||1.0.1.2||19/07/2010|||[http://prtg7addons.googlecode.com/files/PTF.SSLCertExpiration.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
+||[#IPonDNSBL IPonDNSBL]||1.0.1.1||21/07/2010|||[http://prtg7addons.googlecode.com/files/PTF.IPonDNSBL.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
 
 == Overview ==
 http://gf-ptf.googlecode.com/files/CustomSensors2.png
@@ -380,7 +381,7 @@ The sensor needs to be setup as "Value Type" Float
 
 == SSLCertExpiration ==
 === Summary ===
-This sensor Returns the number of days before your SSL certificate expires
+This sensor returns the number of days before your SSL certificate expires
 
 {{{
 -u=https://prtg.paessler.com
@@ -391,6 +392,33 @@ This sensor Returns the number of days before your SSL certificate expires
 === Version history ===
 
 ====1.0.1.2 _19/07/2010_====
+ * First public version
+
+ back to [#Latest_versions: top]
+
+----
+
+== IPonDNSBL ==
+=== Summary ===
+This sensor checks a IP-Address against a number of blacklist servers
+and returns the number of DNS Blacklists the IP-Address is on.
+
+You can optionally provide a comma seperated list of blacklist servers.
+if omitted, the following blacklist servers are used:
+sbl-xbl.spamhaus.org, bl.spamcop.net, dnsbl.njabl.org,
+list.dsbl.org and multihop.dsbl.org.
+
+The readme.txt includes a list of optional blacklist servers.
+
+{{{
+-ip=ip-address [-bl=blacklist servers]
+}}}
+
+ back to [#Latest_versions: top]
+
+=== Version history ===
+
+====1.0.1.1 _21/07/2010_====
  * First public version
 
  back to [#Latest_versions: top]
