@@ -1,0 +1,51 @@
+#summary PTF launcher: Have your PRTG Server launch external applications.
+#sidebar KrijcoWikiSidebar
+
+= Introduction =
+
+PTF launcher is a Custom Notification that can launch external applications.
+
+PRTG Server runs as a service and therefore cannot start applications that interact with the desktop.
+With PTF Launcher, this is no longer an issue.
+
+
+= Prerequisites =
+PTF Launcher targets the .Net Framework 2.0 that comes with Windows update and is already included in the default installation of Windows 7.
+
+= Installation =
+The download includes two .exe files:
+ * Launch.exe is the Custom Notification and needs to be copied to the *\Notifications\EXE* subfolder of your PRTG installation. 
+ * Launcher.exe is a system tray application that needs to be started on your PRTG server.
+The Launch.exe Custom Notification parses the external application that needs to be started to the Launcher.exe tray application that actually starts the external application.
+
+= Start the Launcher application =
+Once the Launcher application is started, it will be visible in your system tray (next to the clock).
+
+In the parameter section of the Custom Notification
+
+http://gf-ptf.googlecode.com/files/Launcher.png
+
+*Tip:* Copy Launcher.exe to the startup folder of your PRTG Server to have it automatically started when your PRTG Server is restarting.
+
+In the parameter section of the Custom Notification you have to provide details about the application that has to be started.
+
+Use the following parameters:
+
+{{{
+-s=	Application to start
+-a=	Arguments for the application to start
+-k=	Application to kill
+}}}
+
+For example:
+{{{
+-s=cmd -a=/K ipconfig /ALL
+}}}
+Will open a new command window with ipconfig
+
+{{{
+-k=cmd -s=cmd -a=/K ping %host
+}}}
+Will kill the existing command window and ping the sensors host in an a new command window
+
+Please see the documentation that is included in the [Notifications download] for more details.
