@@ -16,7 +16,7 @@ PTF Launcher targets the .Net Framework 2.0 that comes with Windows update and i
 The download includes two .exe files:
  * Launch.exe is the Custom Notification and needs to be copied to the *\Notifications\EXE* subfolder of your PRTG installation. 
  * Launcher.exe is a system tray application that needs to be started on your PRTG server.
-The Launch.exe Custom Notification parses the external application that needs to be started to the Launcher.exe tray application that actually starts the external application.
+The Launch.exe Custom Notification parses the details of the external application that needs to be started to the Launcher.exe tray application that actually starts the external application.
 
 = Start the Launcher application =
 Once the Launcher application is started, it will be visible in your system tray (next to the clock).
