@@ -9,7 +9,7 @@ Looking for notifications written for PRTG version 8 or later? Take a look at [h
 ====Latest versions:====
 || *Notification* || *Version* || *Date* || *Download* ||
 ||[#Twitter Twitter]||1.0.2.1||05/02/2010||[http://prtg7addons.googlecode.com/files/PTF.Twitter.zip here]||
-||[#Launcher Launcher]||1.0.1.1||24/07/2010||[http://prtg7addons.googlecode.com/files/PTF.Launcher.zip here]||
+||[#Launcher Launcher]||1.0.1.1||24/07/2010||[http://prtg7addons.googlecode.com/files/PTF.Launcher.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
 
 == General ==
 All Notifications listed target the _.net framework 2.0_.
