@@ -21,11 +21,11 @@ The Launch.exe Custom Notification parses the details of the external applicatio
 = Start the Launcher application =
 Once the Launcher application is started, it will be visible in your system tray (next to the clock).
 
-In the parameter section of the Custom Notification
-
 http://gf-ptf.googlecode.com/files/Launcher.png
 
 *Tip:* Copy Launcher.exe to the startup folder of your PRTG Server to have it automatically started when your PRTG Server is restarting.
+
+= Custom Notification =
 
 In the parameter section of the Custom Notification you have to provide details about the application that has to be started.
 
