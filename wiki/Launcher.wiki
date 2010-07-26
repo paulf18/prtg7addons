@@ -23,6 +23,8 @@ Once the Launcher application is started, it will be visible in your system tray
 
 http://gf-ptf.googlecode.com/files/Launcher.png
 
+_For the launcher application to work, a user must always be logged into the computer running your PRTG Server._
+
 *Tip:* Copy Launcher.exe to the startup folder of your PRTG Server to have it automatically started when your PRTG Server is restarting.
 
 = Custom Notification =
