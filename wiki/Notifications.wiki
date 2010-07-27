@@ -9,7 +9,7 @@ Looking for notifications written for PRTG version 8 or later? Take a look at [h
 ====Latest versions:====
 || *Notification* || *Version* || *Date* || *Download* ||
 ||[#Twitter Twitter]||1.0.2.1||05/02/2010||[http://prtg7addons.googlecode.com/files/PTF.Twitter.zip here]||
-||[#Launcher Launcher]||1.0.1.1||24/07/2010||[http://prtg7addons.googlecode.com/files/PTF.Launcher.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
+||[#Launcher Launcher]||1.0.2.1||27/07/2010||[http://prtg7addons.googlecode.com/files/PTF.Launcher.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
 
 == General ==
 All Notifications listed target the _.net framework 2.0_.
@@ -49,5 +49,13 @@ PTF launcher is a Custom Notification that can launch external applications. Mor
  back to [#Latest_versions: top]
 
 === Version history === 
+====1.0.2.1 _27/07/2010_====
+ * New: added parameters to have Launcher.exe run on any pc
+{{{
+-c=	If Launcher.exe runs on a computer different from your PRTG Server, the IP-Address or DNS name of the computer where Launcher.exe runs.
+-u=	Domain\username of an account with access rights to the c$ of the specified computer.
+-p=	Password or passhash* of an account with access rights to the c$ of the specified computer.
+}}}
+ * New: Launcher.exe is now "session aware"  if two or more RDP sessions on the same server both run PTF Launcher, only one session will start the external application.
 ====1.0.1.1 _24/07/2010_====
  * First public version
