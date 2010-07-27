@@ -25,19 +25,31 @@ http://gf-ptf.googlecode.com/files/Launcher.png
 
 _For the launcher application to work, a user must always be logged into the computer running your PRTG Server._
 
+PTF Launcher is “session aware”, if two or more RDP sessions on the same server both run PTF Launcher, only one session will start the external application. 
+
 *Tip:* Copy Launcher.exe to the startup folder of your PRTG Server to have it automatically started when your PRTG Server is restarting.
 
 = Custom Notification =
 
 In the parameter section of the Custom Notification you have to provide details about the application that has to be started.
 
-Use the following parameters:
+Basic parameters:
 
 {{{
 -s=	Application to start
 -a=	Arguments for the application to start
 -k=	Application to kill
 }}}
+
+Advanced Parameters
+
+{{{
+-c=	If Launcher.exe runs on a computer different from your PRTG Server, the IP-Address or DNS name of the computer where Launcher.exe runs.
+-u=	Domain\username of an account with access rights to the c$ of the specified computer.
+-p=	Password or passhash* of an account with access rights to the c$ of the specified computer.
+}}}
+
+A passhash can be generated with the PassHash Tool.
 
 For example:
 {{{
