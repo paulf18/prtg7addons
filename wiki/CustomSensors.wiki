@@ -23,8 +23,8 @@ Looking for sensors written for PRTG version 8 or later? Take a look at [http://
 ||[#LastWinUpdate LastWinUpdate]||1.0.2.2||14/05/2010||[http://prtg7addons.googlecode.com/files/PTF.LastWinUpdate.zip here]||
 ||[#MessageCount MessageCount]||1.0.1.1||25/04/2010||[http://prtg7addons.googlecode.com/files/PTF.MessageCount.zip here]||
 ||[#ContactState ContactState]||1.0.1.1||30/04/2010|||[http://prtg7addons.googlecode.com/files/PTF.ContactState.zip here]||
-||[#WinOSVersion WinOSVersion]||1.0.1.1||07/06/2010|||[http://prtg7addons.googlecode.com/files/PTF.WinOSVersion.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
-||[#PingJitter PingJitter]||1.0.1.1||21/06/2010|||[http://prtg7addons.googlecode.com/files/PTF.PingJitter.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
+||[#WinOSVersion WinOSVersion]||1.0.1.1||07/06/2010|||[http://prtg7addons.googlecode.com/files/PTF.WinOSVersion.zip here]||
+||[#PingJitter PingJitter]||1.0.1.1||21/06/2010|||[http://prtg7addons.googlecode.com/files/PTF.PingJitter.zip here]||
 ||[#SSLCertExpiration SSLCertExpiration]||1.0.1.2||19/07/2010|||[http://prtg7addons.googlecode.com/files/PTF.SSLCertExpiration.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
 ||[#IPonDNSBL IPonDNSBL]||1.0.1.1||21/07/2010|||[http://prtg7addons.googlecode.com/files/PTF.IPonDNSBL.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
 
