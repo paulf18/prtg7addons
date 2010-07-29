@@ -1,7 +1,9 @@
 #summary Explanation for the language files for PRTG
 #labels Featured
 
-= Translations for PRTG Network Monitor =
+= Translations for PRTG Network Monitor V7 =
+
+*Translations for PRTG Network Monitor V8 can be found on [http://code.google.com/p/prtg-addons/wiki/Translations this] page.*
 
 PRTG already comes with a set of translations created by Paessler (e.g. English, German, Spanish and French). Additionally users can translate the software into other languages using the [Translate TranslationTool]. Please note that these translations were not created by Paessler and they are not officially supported by Paessler.
 
