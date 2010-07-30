@@ -29,7 +29,10 @@ Looking for sensors written for PRTG version 8 or later? Take a look at [http://
 ||[#IPonDNSBL IPonDNSBL]||1.0.1.1||21/07/2010|||[http://prtg7addons.googlecode.com/files/PTF.IPonDNSBL.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
 
 == Overview ==
-http://gf-ptf.googlecode.com/files/CustomSensors.png
+=== Custom Sensors for PRTG V7 ===
+http://gf-ptf.googlecode.com/files/CustomSensors7.png
+=== Custom Sensors for PRTG V7 and V8 ===
+http://gf-ptf.googlecode.com/files/CustomSensors8.png
 
 == General ==
 All Custom Sensors listed target the _.net framework 2.0_.
