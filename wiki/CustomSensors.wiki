@@ -27,6 +27,7 @@ Looking for sensors written for PRTG version 8 or later? Take a look at [http://
 ||[#PingJitter PingJitter]||1.0.1.1||21/06/2010|||[http://prtg7addons.googlecode.com/files/PTF.PingJitter.zip here]||
 ||[#SSLCertExpiration SSLCertExpiration]||1.0.1.2||19/07/2010|||[http://prtg7addons.googlecode.com/files/PTF.SSLCertExpiration.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
 ||[#IPonDNSBL IPonDNSBL]||1.0.1.1||21/07/2010|||[http://prtg7addons.googlecode.com/files/PTF.IPonDNSBL.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
+||[#UserLoggedin UserLoggedin]||1.0.1.1||31/07/2010|||[http://prtg7addons.googlecode.com/files/PTF.UserLoggedin.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
 
 == Overview ==
 === Custom Sensors for PRTG V7 ===
@@ -422,6 +423,35 @@ The readme.txt includes a list of optional blacklist servers.
 === Version history ===
 
 ====1.0.1.1 _21/07/2010_====
+ * First public version
+
+ back to [#Latest_versions: top]
+
+----
+
+== !UserLoggedin ==
+=== Summary ===
+This sensor gets the number of users that are loggedin on a computer.
+
+You can optionally provide a comma seperated list of users to check if a specific user is loggedin or *not* loggedin.
+
+
+{{{
+-c=computer -u=username -p=password|passhash [-f=filter][-fx] [-fi]
+
+-c=computer        The ip-address or hostname of the computer to monitor.
+-u=username        The name of the user account that has access to the computer via WMI service.
+-p=password        The password or passhash(*) of the user account that has access to the computer via WMI service.
+-f=filter          Optional filter to not or only count the users specified (comma seperated list).
+-fx                Optional switch, users in the filter are not counted (default).
+-fi                Optional switch, only users in the filter are counted.
+}}}
+
+ back to [#Latest_versions: top]
+
+=== Version history ===
+
+====1.0.1.1 _31/07/2010_====
  * First public version
 
  back to [#Latest_versions: top]
