@@ -431,7 +431,7 @@ The readme.txt includes a list of optional blacklist servers.
 
 == !UserLoggedin ==
 === Summary ===
-This sensor gets the number of users that are loggedin on a computer.
+This sensor gets the number of users that are loggedin on a computer directly or via a RDP session.
 
 You can optionally provide a comma seperated list of users to check if a specific user is loggedin or *not* loggedin.
 
