@@ -451,10 +451,10 @@ You can optionally provide a comma seperated list of users to check if a specifi
 
 === Version history ===
 
-====1.0.2.1 _04/08/2010_====
- * Bugfix: As user credentials cannot be used for local connections, running the sensor against the local machine (probe), simply omit the username and password.
-
 ====1.0.1.1 _31/07/2010_====
  * First public version
+
+====1.0.2.1 _04/08/2010_====
+ * Bugfix: As user credentials cannot be used for local connections, running the sensor against the local machine (probe) produced an error. This is now fixed, simply omit the username and password when running the sensor against the local machine.
 
  back to [#Latest_versions: top]
