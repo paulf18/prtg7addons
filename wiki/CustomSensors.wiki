@@ -25,9 +25,11 @@ Looking for sensors written for PRTG version 8 or later? Take a look at [http://
 ||[#ContactState ContactState]||1.0.1.1||30/04/2010|||[http://prtg7addons.googlecode.com/files/PTF.ContactState.zip here]||
 ||[#WinOSVersion WinOSVersion]||1.0.1.1||07/06/2010|||[http://prtg7addons.googlecode.com/files/PTF.WinOSVersion.zip here]||
 ||[#PingJitter PingJitter]||1.0.1.1||21/06/2010|||[http://prtg7addons.googlecode.com/files/PTF.PingJitter.zip here]||
-||[#SSLCertExpiration SSLCertExpiration]||1.0.1.2||19/07/2010|||[http://prtg7addons.googlecode.com/files/PTF.SSLCertExpiration.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
-||[#IPonDNSBL IPonDNSBL]||1.0.1.1||21/07/2010|||[http://prtg7addons.googlecode.com/files/PTF.IPonDNSBL.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
+||[#SSLCertExpiration SSLCertExpiration]||1.0.1.2||19/07/2010|||[http://prtg7addons.googlecode.com/files/PTF.SSLCertExpiration.zip here]||
+||[#IPonDNSBL IPonDNSBL]||1.0.1.1||21/07/2010|||[http://prtg7addons.googlecode.com/files/PTF.IPonDNSBL.zip here]||
 ||[#UserLoggedin UserLoggedin]||1.0.1.1||31/07/2010|||[http://prtg7addons.googlecode.com/files/PTF.UserLoggedin.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
+||[#TraceRoute TraceRoute]||1.0.1.1||18/08/2010|||[http://prtg7addons.googlecode.com/files/PTF.TraceRoute.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
+||[#ADSReplFailures ADSReplFailures]||1.0.1.1||18/08/2010|||[http://prtg7addons.googlecode.com/files/PTF.ADSReplFailures.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
 
 == Overview ==
 === Custom Sensors for PRTG V7 ===
@@ -456,5 +458,53 @@ You can optionally provide a comma seperated list of users to check if a specifi
 
 ====1.0.2.1 _04/08/2010_====
  * Bugfix: As user credentials cannot be used for local connections, running the sensor against the local machine (probe) produced an error. This is now fixed, simply omit the username and password when running the sensor against the local machine.
+
+ back to [#Latest_versions: top]
+
+----
+
+== !TraceRoute ==
+=== Summary ===
+This sensor performs a trace route to the target and returns the number of hops.
+With the optional -w and -e switches the sensor can go into a warning or error state if the route has changed,
+since the last run of the sensor, regardless of the number of hops.
+
+The sensorID parameter has to be an unique value as it is used to store the last trace result.
+As of PRTG V7.3.2 the %sensorid placeholder is available, so -id=%sensorid will do the trick.
+
+{{{
+-id=sensorID -t=target [-w] [-e]
+
+-id=sensorID       The sensorID or other unique identifier.
+-t=target          The IP address or hostname of the machine to trace the route to.
+-w                 Optional switch to set the sensor in a warning state if the route has changed.
+-e                 Optional switch to set the sensor in an error state if the route has changed.
+}}}
+
+ back to [#Latest_versions: top]
+
+=== Version history ===
+
+====1.0.1.1 _18/08/2010_====
+ * First public version
+
+----
+
+== ADSReplFailures ==
+=== Summary ===
+This sensor gets the number of replication errors from your domain controllers.
+
+{{{
+-d=domain name (FQDN)
+
+-d=domain name     The Full Qualified Domain Name.
+}}}
+
+ back to [#Latest_versions: top]
+
+=== Version history ===
+
+====1.0.1.1 _18/08/2010_====
+ * First public version
 
  back to [#Latest_versions: top]
