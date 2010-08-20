@@ -29,7 +29,7 @@ Looking for sensors written for PRTG version 8 or later? Take a look at [http://
 ||[#IPonDNSBL IPonDNSBL]||1.0.1.1||21/07/2010|||[http://prtg7addons.googlecode.com/files/PTF.IPonDNSBL.zip here]||
 ||[#UserLoggedin UserLoggedin]||1.0.1.1||31/07/2010|||[http://prtg7addons.googlecode.com/files/PTF.UserLoggedin.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
 ||[#TraceRoute TraceRoute]||1.0.1.1||18/08/2010|||[http://prtg7addons.googlecode.com/files/PTF.TraceRoute.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
-||[#ADSReplFailures ADSReplFailures]||1.0.1.1||18/08/2010|||[http://prtg7addons.googlecode.com/files/PTF.ADSReplFailures.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
+||[#ADSReplFailures ADSReplFailures]||1.0.2.1||19/08/2010|||[http://prtg7addons.googlecode.com/files/PTF.ADSReplFailures.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
 
 == Overview ==
 === Custom Sensors for PRTG V7 ===
@@ -495,14 +495,18 @@ As of PRTG V7.3.2 the %sensorid placeholder is available, so -id=%sensorid will 
 This sensor gets the number of replication errors from your domain controllers.
 
 {{{
--d=domain name (FQDN)
+-u=username -p=password|passhash -d=domain name (FQDN)
 
+-u=username        The name of the user account that has access to the AD replication.
+-p=password        The password or passhash(*) of the user account that has access to the AD replication.
 -d=domain name     The Full Qualified Domain Name.
 }}}
 
  back to [#Latest_versions: top]
 
 === Version history ===
+====1.0.2.1 _19/08/2010_====
+ * New: Added parameters for username and password for an account to run the sensor.
 
 ====1.0.1.1 _18/08/2010_====
  * First public version
