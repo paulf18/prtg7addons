@@ -47,6 +47,7 @@ Advanced Parameters
 -c=	If Launcher.exe runs on a computer different from your PRTG Server, the IP-Address or DNS name of the computer where Launcher.exe runs.
 -u=	Domain\username of an account with access rights to the c$ of the specified computer.
 -p=	Password or passhash* of an account with access rights to the c$ of the specified computer.
+-io=    Activate a comport on the target machine.
 }}}
 
 A passhash can be generated with the PassHash Tool.
@@ -61,5 +62,16 @@ Will open a new command window with ipconfig
 -k=cmd -s=cmd -a=/K ping %host
 }}}
 Will kill the existing command window and ping the sensors host in an a new command window
+
+Activating a comport on the target machine:
+{{{
+-io=4,7,1 will activate the relay connected to pin 7 on comport 4.
+-io=4,7,0 will deactivate the relay connected to pin 7 on comport 4.
+-io=4,7,1,5 will activate the relay connected to pin 7 on comport 4 for 5 seconds.
+}}}
+
+The illustration below shows you how to wire the comport on the target machine:
+
+http://gf-ptf.googlecode.com/files/DB9Pinout2.jpg
 
 Please see the documentation that is included in the [Notifications download] for more details.
