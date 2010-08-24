@@ -19,6 +19,8 @@ http://gf-ptf.googlecode.com/files/PTF_logo.png
 ||[#Distribute_Sensors_version_history Distribute Sensors]||1.0.2.1||28/12/2009||[http://prtg7addons.googlecode.com/files/PTF.DistributeSensors.zip here]||
 ||[#CSVImport_version_history CSVImport]||1.0.4.3||04/07/2010||[http://prtg7addons.googlecode.com/files/PTF.CSVImport.zip here]||http://gf-ptf.googlecode.com/files/Arrow_Updated_50.png||
 
+http://gf-ptf.googlecode.com/files/Discontinued.png This application will not be continued anymore as PRTG 8 includes this functionality.
+
 ==!TrayNotifier version history==
 === Summary ===
 The !TrayNotifier is installed in the system tray, presenting the PRTG icon. When an alarm condition occurs, the icon becomes a flashing red dot. Right-clicking the icon, pops up a menu with various actions. [TrayNotifier details]
