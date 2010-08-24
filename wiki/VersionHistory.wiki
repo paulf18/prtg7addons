@@ -15,7 +15,7 @@ http://gf-ptf.googlecode.com/files/PTF_logo.png
 ||[#Notifier_Proxy_version_history Notifier Proxy]||1.0.1.2||31/12/2009||[http://prtg7addons.googlecode.com/files/PTF.NotifierProxy.zip here]||
 ||[#Distribution_Tool_version_history Distribution Tool]||1.0.2.1||09/09/2009||[http://prtg7addons.googlecode.com/files/Krijco.Distribution%20tool.zip here]||
 ||[#Translate_version_history Translation Tool]||1.0.5.1||06/06/2010||[http://prtg7addons.googlecode.com/files/PTF.Translate.zip here]||
-||[#Map_Designer_version_history Map Designer] ||1.0.5.1||03/06/2010||[http://prtg7addons.googlecode.com/files/PTF.Mapdesigner.zip here]||
+||[#Map_Designer_version_history Map Designer] ||1.0.5.1||03/06/2010||[http://prtg7addons.googlecode.com/files/PTF.Mapdesigner.zip here]||http://gf-ptf.googlecode.com/files/Discontinued.png||
 ||[#Distribute_Sensors_version_history Distribute Sensors]||1.0.2.1||28/12/2009||[http://prtg7addons.googlecode.com/files/PTF.DistributeSensors.zip here]||
 ||[#CSVImport_version_history CSVImport]||1.0.4.3||04/07/2010||[http://prtg7addons.googlecode.com/files/PTF.CSVImport.zip here]||http://gf-ptf.googlecode.com/files/Arrow_Updated_50.png||
 
