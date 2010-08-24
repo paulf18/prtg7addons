@@ -11,6 +11,8 @@ Looking for notifications written for PRTG version 8 or later? Take a look at [h
 ||[#Twitter Twitter]||1.0.2.1||05/02/2010||[http://prtg7addons.googlecode.com/files/PTF.Twitter.zip here]||http://gf-ptf.googlecode.com/files/Discontinued.png||
 ||[#Launcher Launcher]||1.0.3.1||23/08/2010||[http://prtg7addons.googlecode.com/files/PTF.Launcher.zip here]||http://gf-ptf.googlecode.com/files/Arrow_Updated_50.png||
 
+http://gf-ptf.googlecode.com/files/Discontinued.png This application will not be continued anymore as PRTG 8 includes this functionality.
+
 == General ==
 All Notifications listed target the _.net framework 2.0_.
 
