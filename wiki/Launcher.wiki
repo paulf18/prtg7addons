@@ -74,4 +74,8 @@ The illustration below shows you how to wire the comport on the target machine:
 
 http://gf-ptf.googlecode.com/files/DB9Pinout2.jpg
 
+*Note:* the illustration above is for demonstration purposes only and although it will work, it is always better to use an optocoupler, protecting your comport.
+
+http://gf-ptf.googlecode.com/files/Opto.jpg
+
 Please see the documentation that is included in the [Notifications download] for more details.
