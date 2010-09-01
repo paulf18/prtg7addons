@@ -11,7 +11,7 @@ Looking for tools written for PRTG version 8 or later? Take a look at [http://co
 
 ====Latest versions:====
 || *Application* || *Version* || *Date* || *Download* ||
-||[#TrayNotifier_version_history TrayNotifier]||3.0.6.1||13/10/2009||[http://prtg7addons.googlecode.com/files/Krijco.TrayNotifier.zip here]||
+||[#TrayNotifier_version_history TrayNotifier]||3.0.6.1||13/10/2009||[http://prtg7addons.googlecode.com/files/Krijco.TrayNotifier.zip here]||[http://code.google.com/p/prtg-addons/wiki/PTF_Tools_VersionHistory http://gf-ptf.googlecode.com/files/Continued.png]||
 ||[#NotifierGadget_version_history NotifierGadget]||1.0.5||01/12/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierGadget.zip here]||[http://code.google.com/p/prtg-addons/wiki/PTF_Tools_VersionHistory http://gf-ptf.googlecode.com/files/Continued.png]||
 ||[#NotifierGadgetXP_version_history NotifierGadgetXP]||1.0.2||26/05/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierGadgetXP.zip here]||[http://code.google.com/p/prtg-addons/wiki/PTF_Tools_VersionHistory http://gf-ptf.googlecode.com/files/Continued.png]||
 ||[#NotifierCE_version_history NotifierCE]||2.0.2.2||08/01/2010||[http://prtg7addons.googlecode.com/files/PTF.NotifierCE.zip here]||
