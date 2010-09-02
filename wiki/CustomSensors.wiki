@@ -27,9 +27,10 @@ Looking for sensors written for PRTG version 8 or later? Take a look at [http://
 ||[#PingJitter PingJitter]||1.0.1.1||21/06/2010|||[http://prtg7addons.googlecode.com/files/PTF.PingJitter.zip here]||
 ||[#SSLCertExpiration SSLCertExpiration]||1.0.1.2||19/07/2010|||[http://prtg7addons.googlecode.com/files/PTF.SSLCertExpiration.zip here]||
 ||[#IPonDNSBL IPonDNSBL]||1.0.1.1||21/07/2010|||[http://prtg7addons.googlecode.com/files/PTF.IPonDNSBL.zip here]||
-||[#UserLoggedin UserLoggedin]||1.0.1.1||31/07/2010|||[http://prtg7addons.googlecode.com/files/PTF.UserLoggedin.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
-||[#TraceRoute TraceRoute]||1.0.1.1||18/08/2010|||[http://prtg7addons.googlecode.com/files/PTF.TraceRoute.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
+||[#UserLoggedin UserLoggedin]||1.0.1.1||31/07/2010|||[http://prtg7addons.googlecode.com/files/PTF.UserLoggedin.zip here]||
+||[#TraceRoute TraceRoute]||1.0.1.1||18/08/2010|||[http://prtg7addons.googlecode.com/files/PTF.TraceRoute.zip here]||
 ||[#ADSReplFailures ADSReplFailures]||1.0.2.1||19/08/2010|||[http://prtg7addons.googlecode.com/files/PTF.ADSReplFailures.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
+||[#PingDelayedUp PingDelayedUp]||1.0.1.1||01/09/2010|||[http://prtg7addons.googlecode.com/files/PTF.PingDelayedUp.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
 
 == Overview ==
 === Custom Sensors for PRTG V7 ===
@@ -510,5 +511,31 @@ This sensor gets the number of replication errors from your domain controllers.
 
 ====1.0.1.1 _18/08/2010_====
  * First public version
+
+
+----
+
+== PingDelayedUp ==
+=== Summary ===
+This ping sensor stays down for the given number of seconds before returning an Ok state.
+
+Use this sensor as the master dependency instead off the normal PING sensor as the normal one usually responds before many services do.
+
+{{{
+ip-address|hostname [-w=timeout] [-l=size] [-i=TTL]
+
+-id=sensorID       The sensorID or other unique identifier.
+-d=delay           The delay in seconds before returning an "Ok" state
+-w=timeout         Optional timeout in miliseconds to wait for a reply, default = 500
+-l=size            Optional send buffer size, default = 32 bytes
+-i=TTL             Optional Time To Live, default = 64   
+}}}
+
+ back to [#Latest_versions: top]
+
+=== Version history ===
+====1.0.1.1 _02/09/2010_====
+ * First public version
+
 
  back to [#Latest_versions: top]
