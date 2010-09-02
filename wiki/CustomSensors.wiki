@@ -515,7 +515,7 @@ This sensor gets the number of replication errors from your domain controllers.
 
 ----
 
-== PingDelayedUp ==
+== !PingDelayedUp ==
 === Summary ===
 This ping sensor stays down for the given number of seconds before returning an Ok state.
 
