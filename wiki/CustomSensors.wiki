@@ -522,7 +522,7 @@ This ping sensor stays down for the given number of seconds before returning an 
 Use this sensor as the master dependency instead off the normal PING sensor as the normal one usually responds before many services do.
 
 {{{
-ip-address|hostname [-w=timeout] [-l=size] [-i=TTL]
+ip-address|hostname -id-sensorID -d=delay [-w=timeout] [-l=size] [-i=TTL]
 
 -id=sensorID       The sensorID or other unique identifier.
 -d=delay           The delay in seconds before returning an "Ok" state
@@ -534,7 +534,7 @@ ip-address|hostname [-w=timeout] [-l=size] [-i=TTL]
  back to [#Latest_versions: top]
 
 === Version history ===
-====1.0.1.1 _02/09/2010_====
+====1.0.1.1 _01/09/2010_====
  * First public version
 
 
