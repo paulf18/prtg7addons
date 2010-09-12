@@ -9,7 +9,7 @@ Looking for notifications written for PRTG version 8 or later? Take a look at [h
 ====Latest versions:====
 || *Notification* || *Version* || *Date* || *Download* ||
 ||[#Twitter Twitter]||1.0.2.1||05/02/2010||[http://prtg7addons.googlecode.com/files/PTF.Twitter.zip here]||http://gf-ptf.googlecode.com/files/Discontinued.png||
-||[#Launcher Launcher]||1.0.3.1||23/08/2010||[http://prtg7addons.googlecode.com/files/PTF.Launcher.zip here]||http://gf-ptf.googlecode.com/files/Arrow_Updated_50.png||
+||[#Launcher Launcher]||1.0.4.1||12/09/2010||[http://prtg7addons.googlecode.com/files/PTF.Launcher.zip here]||http://gf-ptf.googlecode.com/files/Arrow_Updated_50.png||
 
 http://gf-ptf.googlecode.com/files/Discontinued.png This application will not be continued anymore as PRTG 8 includes this functionality.
 
@@ -51,8 +51,11 @@ PTF launcher is a Custom Notification that can launch external applications. Mor
  back to [#Latest_versions: top]
 
 === Version history === 
+====1.0.4.1 _12/09/2010_====
+ * Bugfix: Error "-io parameter not wellformatted" is now fixed.
+ * Changed: Moved the message folder from "c:\PTF.Launch" to "c:\PRTG Tools Family\PTF.Launch".
 ====1.0.3.1 _23/08/2010_====
- * Bugfix: Using the username and password parameter resulted into "Could not load file or assembly 'AliasAccount'"
+ * Bugfix: Using the username and password parameter resulted into "Could not load file or assembly '!AliasAccount'"
  * New: All errors of both the Launch notification and the Launcher application are now written into the machine's event log.
  * New: Added a parameter to activate a relay connected to the comport of the machine running the Launcher application
 {{{
