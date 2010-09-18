@@ -8,7 +8,11 @@ Looking for notifications written for PRTG version 8 or later? Take a look at [h
 
 ====Latest versions:====
 || *Notification* || *Version* || *Date* || *Download* ||
+||[http://code.google.com/p/prtg-addons/wiki/PTF_CN_Tweet Twitter]||2.0.1.1||18/09/2010||[http://code.google.com/p/prtg-addons/wiki/PTF_Custom_Notifications here]||http://gf-ptf.googlecode.com/files/Arrow_Updated_50.png||
 ||[#Launcher Launcher]||1.0.4.1||12/09/2010||[http://prtg7addons.googlecode.com/files/PTF.Launcher.zip here]||http://gf-ptf.googlecode.com/files/Arrow_Updated_50.png||
+
+
+http://code.google.com/p/prtg-addons/wiki/PTF_CN_Tweet
 
 http://gf-ptf.googlecode.com/files/Discontinued.png This application will not be continued anymore as PRTG 8 includes this functionality.
 
@@ -31,11 +35,13 @@ This tool can be used in combination with PTF Notifications that require a users
 
 == Twitter ==
 === Summary ===
-This Notification can be used to send notifications from PRTG to Twitter. More [Twitter details]
+This Notification can be used to send notifications from PRTG to Twitter. More [http://code.google.com/p/prtg-addons/wiki/PTF_Custom_Notifications details]
 
  back to [#Latest_versions: top]
 
 === Version history === 
+====2.0.1.1 _18/09/2010_====
+ * Changed: Twitter is renamed to Tweet and is continued at [http://code.google.com/p/prtg-addons/wiki/PTF_Custom_Notifications this] page.
 ====1.0.2.1 _05/02/2010_====
  * Bugfix: When protecting your tweets, an error was returned "The remote server returned an error: (401) Unauthorized"
 ====1.0.1.1 _16/01/2010_====
