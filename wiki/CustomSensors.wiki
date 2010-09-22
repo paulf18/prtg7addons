@@ -31,7 +31,7 @@ Looking for sensors written for PRTG version 8 or later? Take a look at [http://
 ||[#TraceRoute TraceRoute]||1.0.1.1||18/08/2010|||[http://prtg7addons.googlecode.com/files/PTF.TraceRoute.zip here]||
 ||[#ADSReplFailures ADSReplFailures]||1.0.2.1||19/08/2010|||[http://prtg7addons.googlecode.com/files/PTF.ADSReplFailures.zip here]||
 ||[#PingDelayedUp PingDelayedUp]||1.0.1.1||01/09/2010|||[http://prtg7addons.googlecode.com/files/PTF.PingDelayedUp.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
-||[http://code.google.com/p/prtg-addons/wiki/PTF_CS_MediaStreamer MediaStreamer]||1.0.1.1||17/09/2010|||[http://code.google.com/p/prtg-addons/w/edit/PTF_Custom_Sensors here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
+||[http://code.google.com/p/prtg-addons/wiki/PTF_CS_MediaStreamer MediaStreamer]||1.0.2.1||22/09/2010|||[http://code.google.com/p/prtg-addons/w/edit/PTF_Custom_Sensors here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
 
 
 == Overview ==
