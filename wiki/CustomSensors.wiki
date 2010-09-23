@@ -10,7 +10,7 @@ Looking for sensors written for PRTG version 8 or later? Take a look at [http://
 ====Latest versions:====
 || *Sensor* || *Version* || *Date* || *Download* ||
 ||[#PassHash_Tool PassHash Tool]||1.0.1.1||06/08/2009||[http://prtg7addons.googlecode.com/files/PTF.PassHash%20Tool.zip here]||
-||[#CheckPRTGVersion CheckPRTGVersion]||1.0.4.1||14/10/2009||[http://prtg7addons.googlecode.com/files/PTF.CheckPRTGVersion.zip here]||
+||[#CheckPRTGVersion CheckPRTGVersion]||1.0.4.1||14/10/2009||[http://code.google.com/p/prtg-addons/wiki/PTF_Custom_Sensors http://gf-ptf.googlecode.com/files/Continued.png]||
 ||[#FTPFileCount FTPFileCount]||1.0.2.1||06/08/2009||[http://prtg7addons.googlecode.com/files/PTF.FTPFileCount.zip here]||
 ||[#NetworkFileCount NetworkFileCount]||1.0.2.1||06/08/2009||[http://prtg7addons.googlecode.com/files/PTF.NetworkFileCount.zip here]||
 ||[#LogFileReader LogFileReader]||1.0.2.1||06/08/2009||[http://prtg7addons.googlecode.com/files/PTF.LogfileReader.zip here]||
@@ -32,6 +32,8 @@ Looking for sensors written for PRTG version 8 or later? Take a look at [http://
 ||[#ADSReplFailures ADSReplFailures]||1.0.2.1||19/08/2010|||[http://prtg7addons.googlecode.com/files/PTF.ADSReplFailures.zip here]||
 ||[#PingDelayedUp PingDelayedUp]||1.0.1.1||01/09/2010|||[http://prtg7addons.googlecode.com/files/PTF.PingDelayedUp.zip here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
 ||[http://code.google.com/p/prtg-addons/wiki/PTF_CS_MediaStreamer MediaStreamer]||1.0.2.1||22/09/2010|||[http://code.google.com/p/prtg-addons/w/edit/PTF_Custom_Sensors here]||http://gf-ptf.googlecode.com/files/Arrow_New_50.png||
+
+[http://code.google.com/p/prtg-addons/wiki/PTF_Custom_Sensors http://gf-ptf.googlecode.com/files/Continued.png] This application is now compiled for PRTG 8 and continued at [http://code.google.com/p/prtg-addons/wiki/PTF_Custom_Sensors this] site.
 
 
 == Overview ==
