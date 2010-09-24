@@ -5,7 +5,7 @@
 http://gf-ptf.googlecode.com/files/PTF_logo.png [http://code.google.com/p/prtg-addons/wiki/PTF_Custom_Sensors http://gf-ptf.googlecode.com/files/Continued.png]
 
 
-All Custom Sensors are now compiled for PRTG 8 and continued at [http://code.google.com/p/prtg-addons/wiki/PTF_Custom_Sensors this] page.
+====All Custom Sensors are now compiled for PRTG 8 and continued at [http://code.google.com/p/prtg-addons/wiki/PTF_Custom_Sensors this] page.=
 
 What is changed?
  * All Custom Sensors now have unified errorhandling and help.
