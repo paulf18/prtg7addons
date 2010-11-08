@@ -15,7 +15,6 @@ http://gf-ptf.googlecode.com/files/PTF.png
  * ===[Translate Translation tool]===
  * ===[Mapdesigner Map Designer]===
  * ===[DistributeSensors Distribute Sensors]===
- * ===[CSVImport CSVImport]===
 http://gf-ptf.googlecode.com/files/Open-48x48.png Version history & Downloads
  * ===[VersionHistory Applications]===
  * ===[CustomSensors Custom Sensors]===
