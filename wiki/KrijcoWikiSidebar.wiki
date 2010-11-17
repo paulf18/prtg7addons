@@ -17,18 +17,6 @@ http://gf-ptf.googlecode.com/files/Open-48x48.png Version history & Downloads
  * ===[VersionHistory Applications]===
  * ===[CustomSensors Custom Sensors]===
 
-
- ----
-
-====Want to stay informed about new releases, bug fixes, upcoming changes and more?====
-[http://twitter.com/prtgtoolsfamily http://twitter-badges.s3.amazonaws.com/follow_me-a.png]
-
-[http://prtg-tools-family.blogspot.com http://gf-ptf.googlecode.com/files/blogger.png] [http://prtg-tools-family.blogspot.com Visit my blog]
-
- ----
-
-http://gf-ptf.googlecode.com/files/Document-48x48.png [NotifierDocumentation Documentation]
-
  ----
 
 ====Comments, Suggestions or Feature Requests?====
