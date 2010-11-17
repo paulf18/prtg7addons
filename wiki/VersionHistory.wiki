@@ -16,7 +16,7 @@ Looking for tools written for PRTG version 8 or later? Take a look at [http://co
 ||[#NotifierGadgetXP_version_history NotifierGadgetXP]||1.0.2||26/05/2009||[http://prtg7addons.googlecode.com/files/Krijco.NotifierGadgetXP.zip here]||[http://code.google.com/p/prtg-addons/wiki/PTF_Tools_VersionHistory http://gf-ptf.googlecode.com/files/Continued.png]||
 ||[#NotifierCE_version_history NotifierCE]||2.0.2.2||08/01/2010||[http://prtg7addons.googlecode.com/files/PTF.NotifierCE.zip here]||
 ||[#Notifier_Proxy_version_history Notifier Proxy]||1.0.1.2||31/12/2009||[http://prtg7addons.googlecode.com/files/PTF.NotifierProxy.zip here]||
-||[#Distribution_Tool_version_history Distribution Tool]||1.0.2.1||09/09/2009||[http://prtg7addons.googlecode.com/files/Krijco.Distribution%20tool.zip here]||[http://code.google.com/p/prtg-addons/wiki/PTF_Tools_VersionHistory http://gf-ptf.googlecode.com/files/Continued.png]||
+||[#Distribution_Tool_version_history Distribution Tool]||1.0.2.1||09/09/2009||...]||[http://code.google.com/p/prtg-addons/wiki/PTF_Tools_VersionHistory http://gf-ptf.googlecode.com/files/Continued.png]||
 ||[#Translate_version_history Translation Tool]||1.0.5.1||06/06/2010||[http://prtg7addons.googlecode.com/files/PTF.Translate.zip here]||
 ||[#Map_Designer_version_history Map Designer] ||1.0.5.1||03/06/2010||[http://prtg7addons.googlecode.com/files/PTF.Mapdesigner.zip here]||http://gf-ptf.googlecode.com/files/Discontinued.png||
 ||[#Distribute_Sensors_version_history Distribute Sensors]||1.0.2.1||28/12/2009||[http://prtg7addons.googlecode.com/files/PTF.DistributeSensors.zip here]||
