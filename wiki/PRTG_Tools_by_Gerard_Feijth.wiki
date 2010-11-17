@@ -14,13 +14,3 @@ Please use this sidebar to navigate to the various applications and sensors.
 
 ==Prerequisites==
 All applications and sensors target the .NET Framework 2.0 or 3.5 and some require IIS to be installed. Please see the documentation included in the download or the explanation on the  applications webpage for more details.
-
-==More Information==
-Please see the [NotifierDocumentation Documentation] for details and screenshots.
-
-==Latest versions==
-An overview of the latest versions of all *Applications* can be found [VersionHistory here].
-
-The latest versions of all *Custom Sensors* are listed on [CustomSensors this] page.
-
-For the latest versions of all *Custom Notifications* visit [Notifications this] page.
