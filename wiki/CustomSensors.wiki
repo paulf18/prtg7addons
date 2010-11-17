@@ -4,10 +4,5 @@
 
 http://gf-ptf.googlecode.com/files/PTF_logo.png [http://code.google.com/p/prtg-addons/wiki/PTF_Custom_Sensors http://gf-ptf.googlecode.com/files/Continued.png]
 
-
-====All Custom Sensors are now compiled for PRTG 8 and continued at [http://code.google.com/p/prtg-addons/wiki/PTF_Custom_Sensors this] page.=
-
-What is changed?
- * All Custom Sensors now have unified errorhandling and help.
- * The username (-u) and password (-p) parameters have become optional for some sensors as PRTG 8 allows you to run a Custom Sensor with elevated credentials.
- * Most Custom Sensors are still backwards compatible with PRTG 7.
+==== All Custom Sensors are now compiled for PRTG 8 and continued at ====
+http://code.google.com/p/prtg-addons/wiki/PTF_Custom_Sensors
