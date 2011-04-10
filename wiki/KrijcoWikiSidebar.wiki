@@ -6,9 +6,6 @@ http://gf-ptf.googlecode.com/files/PTF.png
 
 ===[PRTG_Tools_by_Gerard_Feijth Home]===
 
- * ===[TrayNotifier]===
- * ===[NotifierGadget]===
- * ===[NotifierGadgetXP]===
  * ===[NotifierCE]===
  * ===[NotifierProxy]===
  * ===[Mapdesigner Map Designer]===
