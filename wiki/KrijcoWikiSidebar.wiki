@@ -14,7 +14,3 @@ http://gf-ptf.googlecode.com/files/Open-48x48.png Version history & Downloads
  * ===[CustomSensors Custom Sensors]===
 
  ----
-
-====Comments, Suggestions or Feature Requests?====
-[http://code.google.com/p/prtg7addons/wiki/UserFeedback http://gf-ptf.googlecode.com/files/Mail-48x48.png] Leave a note [http://code.google.com/p/prtg7addons/wiki/UserFeedback here]
- 
