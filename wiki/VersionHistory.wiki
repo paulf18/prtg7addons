@@ -13,7 +13,6 @@ Looking for tools written for PRTG version 8 or later? Take a look at [http://co
 || *Application* || *Version* || *Date* || *Download* ||
 ||[#NotifierCE_version_history NotifierCE]||2.0.2.2||08/01/2010||[http://prtg7addons.googlecode.com/files/PTF.NotifierCE.zip here]||http://gf-ptf.googlecode.com/files/Discontinued.png||
 ||[#Notifier_Proxy_version_history Notifier Proxy]||1.0.1.2||31/12/2009||[http://prtg7addons.googlecode.com/files/PTF.NotifierProxy.zip here]||http://gf-ptf.googlecode.com/files/Discontinued.png||
-||[#Map_Designer_version_history Map Designer] ||1.0.5.1||03/06/2010||[http://prtg7addons.googlecode.com/files/PTF.Mapdesigner.zip here]||http://gf-ptf.googlecode.com/files/Discontinued.png||
 
 http://gf-ptf.googlecode.com/files/Discontinued.png This application will not be continued anymore as PRTG 8 includes this functionality.
 
@@ -63,37 +62,6 @@ The !NotifierProxy allows the !NotifierCE to connect to the Network Monitor serv
  * Support for the sensor tree, showing probes, groups, devices and sensors.
  * Support for PDU integration, allowing the user to reboot an outlet.
 ====1.0.0.1 _10/02/2009_====
- * First public version.
-
-----
-
-==Map Designer version history==
-=== Summary ===
-PTF Map Designer is a tool used to create background images for PRTG maps. PTF Map Designer can be used as a transparent overlay over an existing PRTG map. [Mapdesigner details]
-
- back to [#Latest_versions: top]
-
-====1.0.5.1 _03/06/2010_====
- * Changed: Compiled the executable with Visual Studio 2010.
- * Changed: Now targeting the .NET Framework 3.5 (that comes with Windows Update).
- * Changed: Modified the search for updates.
- * Changed: Build the installer using !InstallShield.
- * Note: If you are upgrading from a previous version, you have to manually uninstall the previous version.
-====1.0.4.1 _09/11/2009_====
- * Bugfix: Images sometimes did not resize after loading a saved .pic file.
- * New: Objects properties window lets you manually enter the objects position.
- * New: Images can now besides .png also be saved as .jpg and .gif.
-====1.0.3.1 _02/11/2009_====
- * Bugfix: Background image did not resize anymore after loading an saved .pic file.
- * Bugfix: Exporting to .png also exported the grabhandles (if shown).
- * New: Objects can now also be moved using the arrow keys on the keyboard.
- * New: Objects can now be resized.
- * New: Texts can now be edited.
- * New: Option to check for online updates.
-====1.0.2.1 _12/10/2009_====
- * New: Added the option to add images and icons.
- * Changed: Small changes in the userinterface.
-====1.0.1.1 _07/10/2009_====
  * First public version.
 
 ----
