@@ -14,7 +14,7 @@ Looking for tools written for PRTG version 8 or later? Take a look at [http://co
 ||[#NotifierCE_version_history NotifierCE]||2.0.2.2||08/01/2010||[http://prtg7addons.googlecode.com/files/PTF.NotifierCE.zip here]||http://gf-ptf.googlecode.com/files/Discontinued.png||
 ||[#Notifier_Proxy_version_history Notifier Proxy]||1.0.1.2||31/12/2009||[http://prtg7addons.googlecode.com/files/PTF.NotifierProxy.zip here]||http://gf-ptf.googlecode.com/files/Discontinued.png||
 
-http://gf-ptf.googlecode.com/files/Discontinued.png This application will not be continued anymore as PRTG 8 includes this functionality.
+http://gf-ptf.googlecode.com/files/Discontinued.png This application is discontinued.
 
 ----
 
