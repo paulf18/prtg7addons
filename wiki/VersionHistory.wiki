@@ -6,7 +6,7 @@
 http://gf-ptf.googlecode.com/files/PTF_logo.png
 
 
-Looking for tools written for PRTG version 8 or later? Take a look at [http://code.google.com/p/prtg-addons/wiki/PTF_Tools this] page.
+Looking for tools written for *PRTG version 8 or later?* Take a look at [http://code.google.com/p/prtg-addons/wiki/PTF_Tools this] page.
 
 
 ====Latest versions:====
