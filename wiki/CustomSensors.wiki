@@ -1,8 +1,0 @@
-#summary PTF Custom Sensors: Overview of PTF Custom Sensors.
-#labels Featured
-#sidebar KrijcoWikiSidebar
-
-http://gf-ptf.googlecode.com/files/PTF_logo.png [http://code.google.com/p/prtg-addons/wiki/PTF_Custom_Sensors http://gf-ptf.googlecode.com/files/Continued.png]
-
-==== All Custom Sensors are now compiled for PRTG 8 and continued at ====
-http://code.google.com/p/prtg-addons/wiki/PTF_Custom_Sensors
