@@ -1,0 +1,5 @@
+This is a collection of various add-ons for PRTG Network Monitor from Paessler AG and their source code - created by Paessler and PRTG users.
+
+<a href='http://www.paessler.com/prtg'>PRTG Network Monitor</a> (<a href='http://www.paessler.com/prtg'><a href='http://www.paessler.com/prtg'>http://www.paessler.com/prtg</a></a>) is a network monitoring software from <a href='http://www.paessler.com'>Paessler AG</a> (<a href='http://www.paessler.com'><a href='http://www.paessler.com'>http://www.paessler.com</a></a>). There is a <a href='http://www.paessler.com/download'>freeware download</a> available as well as commercial editions.
+
+The PRTG Add-Ons have moved to <a href='http://code.google.com/p/prtg-addons/'><a href='http://code.google.com/p/prtg-addons/'>http://code.google.com/p/prtg-addons/</a></a>
